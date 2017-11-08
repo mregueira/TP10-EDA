@@ -1,6 +1,4 @@
 #pragma once
-
-
 struct cursorPosition
 {
 	int row;
@@ -10,7 +8,7 @@ struct cursorPosition
 class basic_lcd
 {
 public:
-	basic_lcd();
+	basic_lcd() {}
 
 	virtual bool lcdInitOk() = 0;
 	//virtual FT_STATUS lcdGetError() = 0; 
@@ -28,5 +26,5 @@ public:
 protected:
 	int cadd;
 	
-	~basic_lcd();
+	~basic_lcd(){}
 };
