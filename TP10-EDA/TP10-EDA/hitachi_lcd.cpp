@@ -10,8 +10,6 @@ using namespace std;
 #define LCD_DESCRIPTION "EDA LCD 1 B"
 #define CONNECTING_TIME 5 //in seconds
 
-const cursorPosition title_pos = {1, 0};
-
 hitachi_lcd::hitachi_lcd()
 {
 	bool found = false;
@@ -208,13 +206,13 @@ basic_lcd & hitachi_lcd::operator<<(const char * c)
 	{
 		this->write_byte_to_dr(Handle, int(c[i]));
 		i++;
-		if (cadd%LCD_LINE == 0)
+		if (cadd == LCD_LINE || cadd == (2*LCD_LINE + 1))
 		{
 			for (int i = 0; i < (HITACHI_LINE - LCD_LINE); i++)
 			{
 				lcd_stat = write_byte_to_ir(Handle, (LCD_CURSOR_MOVE | CURSOR_MOVE_R));
 			}
-			if (cadd == (2 * LCD_LINE))
+			if (cadd == (2 * LCD_LINE + 1))
 			{
 				cadd = 1;
 			}
@@ -375,31 +373,36 @@ cursorPosition hitachi_lcd::lcdGetCursorPosition()
 
 bool hitachi_lcd::lcdScrollMsg(char * msg)
 {
-	this->lcdSetCursorPosition(title_pos);
+	for (int i = 0; i < LCD_LINE; i++)
+	{
+		this->lcdMoveCursorLeft();
+	}
+
 	string temp(msg);
+	string aux_str;
 
 	for (int i = 0; (i < LCD_LINE) && ((i+char_count) < temp.size()); i++)
 	{
-		*this << (msg+char_count)[i];
+		aux_str += (msg+char_count)[i];
 	}
 	
-	//if (aux_str.size() < LCD_LINE)
-	//{
-	//	for (size_t j = aux_str.size(); j < LCD_LINE; j++)
-	//	{
-	//		aux_str += " ";
-	//	}
-	//}
+	if (aux_str.size() < LCD_LINE)
+	{
+		for (size_t j = aux_str.size(); j < LCD_LINE; j++)
+		{
+			aux_str += " ";
+		}
+	}
 
 	char_count++;
 	
-	//*this << aux_str.c_str();
+	*this << aux_str.c_str();
 
-	//if (aux_str.size() == 0)
-	//{
-	//	char_count = 0;
-	//	return true;
-	//}
+	if (temp.size() == char_count)
+	{
+		char_count = 0;
+		return true;
+	}
 
 	return false;
 }
