@@ -5,14 +5,14 @@
 using namespace std;
 
 int main() {
-	ifstream file("hola.txt");
+	ifstream file("hola4.txt");
 	
 	string rss_str , aux;
 	while (getline(file, aux)) {
 		rss_str += aux + "\n";
 	}
 
-	cout << rss_str << endl;
+//	cout << rss_str << endl;
 	
 	
 	channel main_ch("link al que se le va a hacer get");
@@ -22,12 +22,26 @@ int main() {
 	cout << rss_str.size() << endl;
 	main_ch.fetch_titles();
 
-	for (int i = 0; i < main_ch.titles.size(); i++) {
-		for (int j = 0; j < main_ch.titles[i].fuente.size(); j++) {
-			cout << main_ch.titles[i].fuente[j];
+	cout << main_ch.titles.size() << endl;
+
+
+	// con estos dos super fors imprimo todos los titulos
+	for (int j = 0; j < main_ch.titles.size(); j++) {
+	
+		for (int i = 0; i < main_ch.titles[j].titulo.size(); i++) {
+			cout << main_ch.titles[j].titulo[i];
+		}
+		cout << endl;
+		for (int i = 0; i < main_ch.titles[j].pubdate.size(); i++) {
+			cout << main_ch.titles[j].pubdate[i];
+		}
+		cout << endl;
+		for (int i = 0; i < main_ch.titles[j].fuente.size(); i++) {
+			cout << main_ch.titles[j].fuente[i];
 		}
 		cout << endl;
 	}
+	
 
 	getchar();
 
