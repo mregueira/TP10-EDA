@@ -1,14 +1,15 @@
 #pragma once
 #include <iostream>
 #include <string>
+#include <vector>
 using namespace std;
 class titular
 {
 public:
 	titular();
-	string pubdate;
-	string titulo;
-	string fuente; // de la cual proviene
+	vector<char> pubdate;
+	vector<char> titulo;
+	vector<char> fuente; // de la cual proviene
 	~titular();
 };
 

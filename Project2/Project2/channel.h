@@ -5,28 +5,34 @@
 #include "titular.h"
 #include <vector>
 
-enum state {TAG,CHANNEL,ITEM,CH_TITLE,I_TITLE}; // hay que rellenar esto me parece que falta
+enum state {CHANNEL,ITEM,CH_TITLE,I_TITLE,I_PUBDATE}; // hay que rellenar esto me parece que falta
 
 class channel
 {
 public:
 	channel(const char* = NULL );
 	void fetch_titles();
+	state get_state(void);
+	void set_state(state n);
+
 	bool noError();
 	const char* get_error_str();
 	bool title_s_empty();
-	state get_state(void);
-	void set_state(state n);
-	char * rss_test;
-
 	titular get_next_titular();
+
 	~channel();
+
+	titular temptit;
+
+	vector <titular> titles;
+	// ESTO VAMOS A TENER QUE SACARLO CUANDO SE INCORPORE RSS
+	int size_of_str;
+	char * rss_test;
 private:
-	string chname;
-	vector <titular> titles; 
+	string chname; 
 	string link;
 	string error;
 	state st;
-	titular *temptit;
+	
 };
 

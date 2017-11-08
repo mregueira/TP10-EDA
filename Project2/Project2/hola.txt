@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"
+xmlns:story="http://web.mit.edu/newsoffice/ns/" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+<title>MIT News - Topic - </title>
+<description>MIT News is dedicated to communicating to the media and the public the
+news and achievements of the students, faculty, staff and the greater MIT community.</description>
+<link>http://web.mit.edu/newsoffice/topic.html</link>
+<atom:link rel="self" href="http://web.mit.edu/newsoffice/topic.html" />
+<lastBuildDate>Fri, 14 Jun 2013 03:48:55 +0000</lastBuildDate>
+<language>en-us</language>
+</channel>
+</rss>
