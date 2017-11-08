@@ -371,19 +371,18 @@ cursorPosition hitachi_lcd::lcdGetCursorPosition()
 	return aux;
 }
 
-bool hitachi_lcd::lcdScrollMsg(char * msg)
+bool hitachi_lcd::lcdScrollMsg(string Tit)
 {
 	for (int i = 0; i < LCD_LINE; i++)
 	{
 		this->lcdMoveCursorLeft();
 	}
 
-	string temp(msg);
 	string aux_str;
 
-	for (int i = 0; (i < LCD_LINE) && ((i+char_count) < temp.size()); i++)
+	for (int i = 0; (i < LCD_LINE) && ((i+char_count) < Tit.size()); i++)
 	{
-		aux_str += (msg+char_count)[i];
+		aux_str += Tit[i+char_count];
 	}
 	
 	if (aux_str.size() < LCD_LINE)
@@ -393,18 +392,29 @@ bool hitachi_lcd::lcdScrollMsg(char * msg)
 			aux_str += " ";
 		}
 	}
-
-	char_count++;
 	
 	*this << aux_str.c_str();
 
-	if (temp.size() == char_count)
+	if (Tit.size() == char_count)
 	{
 		char_count = 0;
 		return true;
 	}
 
+	char_count++;
 	return false;
+}
+
+void hitachi_lcd::lcdPrintDate(vector<char>& Date)
+{
+	this->lcdClear();
+	string aux_date;
+	for (int i = 0; i < Date.size(); i++)
+	{
+		aux_date += Date[i];
+	}
+
+	*this << aux_date.c_str();
 }
 
 hitachi_lcd::~hitachi_lcd()

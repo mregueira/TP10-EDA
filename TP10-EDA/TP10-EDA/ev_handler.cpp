@@ -2,6 +2,8 @@
 
 const int width = 240;
 const int height = 120;
+
+enum {DATE_TXT, TITULAR_TXT, FINISH_TXT};
 // Teclas: R, S, A, Q, +, -
 
 ev_handler::ev_handler(float FPS_)
@@ -13,6 +15,8 @@ ev_handler::ev_handler(float FPS_)
 	FPS = FPS_;
 
 	exit = false;
+	show_flag = DATE_TXT;
+	title_cant = 0;
 
 	event_queue = nullptr;
 	disp = nullptr;
@@ -20,11 +24,11 @@ ev_handler::ev_handler(float FPS_)
 
 }
 
-void ev_handler::process_evs(hitachi_lcd& lcd, char* str)
+void ev_handler::process_evs(hitachi_lcd& lcd, vector<titular>& rx_titulars)
 {
 	switch (evs.type) {
 	case ALLEGRO_EVENT_TIMER:
-		lcd.lcdScrollMsg(str);
+		process_title(lcd, rx_titulars);
 		break;
 	case ALLEGRO_EVENT_KEY_UP:
 		
@@ -118,8 +122,52 @@ bool ev_handler::start_and_reg(void)
 	return false;
 }
 
+void ev_handler::set_title_cant(unsigned int num)
+{
+	title_cant = num;
+	show_flag = false;
+	show_count = 0;
+}
+
 
 ev_handler::~ev_handler()
 {
 	al_destroy_timer(timer);
+}
+
+void ev_handler::process_title(hitachi_lcd & lcd, vector<titular>& rx_titulars)
+{
+	if ((title_cant > 0) && (!exit))
+	{
+		switch (show_flag)
+		{
+		case DATE_TXT:
+			temp_tit.clear();
+			lcd.lcdPrintDate(rx_titulars[show_count].pubdate);
+
+			for (int i = 0; i < rx_titulars[show_count].fuente.size(); i++)
+			{
+				temp_tit += rx_titulars[show_count].fuente[i];
+			}
+			for (int i = 0; i < rx_titulars[show_count].titulo.size(); i++)
+			{
+				temp_tit += rx_titulars[show_count].titulo[i];
+			}
+			show_flag = TITULAR_TXT;
+			break;
+		case TITULAR_TXT:
+			if (lcd.lcdScrollMsg(temp_tit))
+			{
+				show_flag = false;
+				show_count++;
+				if (show_count == title_cant)
+				{
+					exit = true;
+				}
+			}
+			break;
+		case FINISH_TXT:
+			break;
+		}
+	}
 }
