@@ -55,7 +55,8 @@ int main() {
 	}*/
 
 	cout << rss_str << endl;
-	
+	cout << "-----------\n";
+	cout << "end of content \n";
 	
 	channel main_ch("link al que se le va a hacer get");
 
