@@ -1,4 +1,6 @@
-#pragma once
+#ifndef CHANNEL_H
+#define CHANNEL_H
+
 #include <iostream>
 #include "expat.h"
 #include <string>
@@ -38,3 +40,4 @@ private:
 	
 };
 
+#endif
