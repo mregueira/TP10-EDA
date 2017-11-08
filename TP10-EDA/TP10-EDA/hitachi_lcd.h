@@ -1,6 +1,7 @@
 #pragma once
 #include "basic_lcd.h"
 #include "windows.h"
+#define FTD2XX_EXPORTS
 #include "ftd2xx.h"
 #define ENABLE 0x01
 #define RS_IR 0x00
@@ -30,6 +31,7 @@ public:
 	virtual cursorPosition lcdGetCursorPosition();
 
 	~hitachi_lcd();
+
 private:
 	FT_HANDLE Handle;
 	FT_STATUS lcd_stat;

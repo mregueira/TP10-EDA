@@ -124,7 +124,7 @@ void hitachi_lcd::init_4_bit_mode(FT_HANDLE h)
 
 bool hitachi_lcd::lcdInitOk()
 {
-	return error_log;
+	return !error_log;
 }
 
 bool hitachi_lcd::lcdClear()

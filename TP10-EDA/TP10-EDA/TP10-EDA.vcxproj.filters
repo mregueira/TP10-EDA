@@ -21,6 +21,9 @@
     <ClCompile Include="hitachi_lcd.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="ev_handler.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="basic_lcd.h">
@@ -29,5 +32,11 @@
     <ClInclude Include="hitachi_lcd.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="ev_handler.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
   </ItemGroup>
 </Project>
