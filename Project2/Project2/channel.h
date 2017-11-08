@@ -5,7 +5,7 @@
 #include "titular.h"
 #include <vector>
 
-enum state {CHANNEL,ITEM,CH_TITLE,I_TITLE,I_PUBDATE}; // hay que rellenar esto me parece que falta
+enum state {CHANNEL=0,ITEM,CH_TITLE,I_TITLE,I_PUBDATE, DEFAULT_ST_VALUE,ITEM2}; // hay que rellenar esto me parece que falta
 
 class channel
 {
@@ -14,6 +14,8 @@ public:
 	void fetch_titles();
 	state get_state(void);
 	void set_state(state n);
+	void print_char_vec(vector<char>);
+
 
 	bool noError();
 	const char* get_error_str();

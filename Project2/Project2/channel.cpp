@@ -1,62 +1,69 @@
 #include "channel.h"
 
-vector<char> get_str_of_month_num(vector<char> month_real) {
-	string month;
-	for (int i = 0; i < month_real.size(); i++) {
-		month.push_back(month_real[i]);
-	}
-	string aux;
+void get_str_of_month_num(string month,vector<char> &modif) {
+	modif.clear();
 	if (!strcmp(&month[0], "Jan")) {
-		aux = "01";
+		modif.push_back('0');
+		modif.push_back('1');
 	}
 	if (!strcmp(&month[0], "Feb")) {
-		aux = "02";
+		modif.push_back('0');
+		modif.push_back('2');
 	}
 	if (!strcmp(&month[0], "Mar")) {
-		aux = "03";
+		modif.push_back('0');
+		modif.push_back('3');
 	}
 	if (!strcmp(&month[0], "Apr")) {
-		aux = "04";
+		modif.push_back('0');
+		modif.push_back('4');
 	}
 	if (!strcmp(&month[0], "May")) {
-		aux = "05";
+		modif.push_back('0');
+		modif.push_back('5');
 	}
 	if (!strcmp(&month[0], "Jun")) {
-		aux = "06";
+		modif.push_back('0');
+		modif.push_back('6');
 	}
 	if (!strcmp(&month[0], "Jul")) {
-		aux = "07";
+		modif.push_back('0');
+		modif.push_back('7');
 	}
 	if (!strcmp(&month[0], "Aug")) {
-		aux = "08";
+		modif.push_back('0');
+		modif.push_back('8');
 	}
 	if (!strcmp(&month[0], "Sep")) {
-		aux = "09";
+		modif.push_back('0');
+		modif.push_back('9');
 	}
 	if (!strcmp(&month[0], "Oct")) {
-		aux = "10";
+		modif.push_back('1');
+		modif.push_back('0');
 	}
 	if (!strcmp(&month[0], "Nov")) {
-		aux = "11";
+		modif.push_back('1');
+		modif.push_back('1');
 	}
 	if (!strcmp(&month[0], "Dec")) {
-		aux = "12";
+		modif.push_back('1');
+		modif.push_back('2');
 	}
-
-	vector<char> ret;
-	for (int i = 0; i < month_real.size(); i++) {
-		ret.push_back(aux[i]);
-	}
-	return ret;
 }
 
 void
 start(void *userData, const char *tag, const char **vars) {
 	channel * ch = (channel*)userData;
-	cout <<" < " <<  tag << endl;
+	//cout << "ENTRE A START EN ESTADO:" << ch->get_state() << endl;
 	if (!strcmp("channel", tag)) {
 		ch->set_state(CHANNEL);
 	}
+	
+	if (!strcmp("item", tag)) {
+		ch->set_state(ITEM);
+	}
+	
 	if (!strcmp("title",tag)) {
 		if (ch->get_state() == CHANNEL) {
 			ch->set_state(CH_TITLE);
@@ -67,22 +74,33 @@ start(void *userData, const char *tag, const char **vars) {
 	}
 
 	if (!strcmp("pubDate", tag)) {
+	//	cout << " hay un pub date!!! " << endl;
 		if (ch->get_state() == ITEM) {
 			ch->set_state(I_PUBDATE);
 		}
 	}
-
+	//cout << "SALI DE START EN ESTADO:" << ch->get_state() << endl;
 }
 
 void
 end(void *userData, const XML_Char *el)
 {
+	
 	channel *ch = (channel*)userData;
-	cout << el << "  || > " << endl;
+
+	//cout << "ENTRE A END EN ESTADO:" << ch->get_state() << endl;
+
+	
 	if (!strcmp("channel", el)) {
-		ch->set_state(CHANNEL);
+		ch->set_state(DEFAULT_ST_VALUE); // O sea cierro un channel y ?¡?¡
 	}
+	
+	if (!strcmp("item", el)) {
+		ch->set_state(CHANNEL);  // TENGO DUDA CON ESTO si cierro un item significa que estoy en un channel?
+	}
+	
 	if (!strcmp("title", el)) {
+		
 		if (ch->get_state() == CH_TITLE) {
 			ch->set_state(CHANNEL);
 		}
@@ -92,15 +110,17 @@ end(void *userData, const XML_Char *el)
 	}
 	if (!strcmp("pubDate", el)) {
 		if (ch->get_state() == I_PUBDATE) {
-			if (ch->temptit.fuente.size() > 0 && ch->temptit.pubdate.size() > 0 && ch->temptit.titulo.size() > 0) {
+		//	cout << "entre a pubdate ESTANDO EN END" << endl;
+			if ( ch->temptit.fuente.size() > 0 && ch->temptit.titulo.size() > 0) {
+				// dsp voy a tener que fijarme si pubdate no es >0
 				ch->titles.push_back(ch->temptit);
-				ch->temptit.fuente.clear();
 				ch->temptit.pubdate.clear();
 				ch->temptit.titulo.clear();
 			}
 			ch->set_state(ITEM);
 		}
 	}
+	//cout << "SALI DE END EN ESTADO:" << ch->get_state() << endl;
 
 }
 void
@@ -128,7 +148,8 @@ handle_data(void *data, const char *content, int length)
 
 	if (ch->get_state() == I_PUBDATE) {   // Obtengo el pubdate
 		vector<char> aux_day;
-		vector<char> aux_month;
+		string aux_str_month;
+		vector<char>aux_month;
 		vector<char> aux_year;
 		vector<char> aux_hour;
 		vector<char> aux_min;
@@ -136,11 +157,11 @@ handle_data(void *data, const char *content, int length)
 		aux_day.push_back(content[5]); // pusheo el day
 		aux_day.push_back(content[6]);
 		
-		aux_month.push_back(content[9]);
-		aux_month.push_back(content[10]);
-		aux_month.push_back(content[11]);
+		aux_str_month.push_back(content[8]);
+		aux_str_month.push_back(content[9]);
+		aux_str_month.push_back(content[10]);
 
-		aux_day = get_str_of_month_num(aux_day);
+		get_str_of_month_num(aux_str_month,aux_month);
 
 		aux_year.push_back(content[14]); // pusheo el año
 		aux_year.push_back(content[15]);	
@@ -182,6 +203,7 @@ handle_data(void *data, const char *content, int length)
 channel::channel(const char* str)
 {
 	link = str;
+	set_state(DEFAULT_ST_VALUE);
 }
 
 void channel::fetch_titles()
@@ -217,6 +239,13 @@ state channel::get_state(void)
 void channel::set_state(state n)
 {
 	st = n;
+}
+
+void channel::print_char_vec(vector<char> gg)
+{
+	for (int i = 0; i < gg.size(); i++) {
+		cout << gg[i];
+	}
 }
 
 

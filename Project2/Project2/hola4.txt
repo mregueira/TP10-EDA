@@ -1,0 +1,1190 @@
+﻿<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="http://newsoffice.mit.edu/" xmlns:story="http://newsoffice.mit.edu/ns/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>MIT News</title>
+    <link>http://news.mit.edu/mitnews-rss.xml</link>
+    <description>MIT News is dedicated to communicating to the media and the public the news and achievements of the students, faculty, staff and the greater MIT community.</description>
+    <language>en</language>
+     <atom:link href="http://news.mit.edu/mitnews-rss.xml" rel="self" type="application/rss+xml" />
+<lastBuildDate>Tue, 07 Nov 2017 17:40:01 -0500</lastBuildDate>      <item>
+    <title>Faculty additions and promotions at the School of Architecture and Planning</title>
+    <link>http://news.mit.edu/2017/faculty-additions-and-promotions-school-architecture-and-planning-1107</link>
+    <description>Five join the SA+P faculty, while 10 are recognized for work in art, architecture, urbanism, and design.</description>
+     <pubDate>Tue, 07 Nov 2017 17:40:01 -0500</pubDate>
+ <dc:creator>School of Architecture and Planning</dc:creator>
+ <guid isPermaLink="true">http://news.mit.edu/2017/faculty-additions-and-promotions-school-architecture-and-planning-1107</guid>
+<content:encoded>&lt;p&gt;The School of Architecture and Planning has announced that 10 faculty members have been recognized with promotions.&lt;/p&gt;
+
+&lt;p&gt;In addition, five new professors have joined the school in the Department of Architecture, the Department of Urban Studies and Planning, and the Program in Media Arts and Sciences. Their research ranges from architectural history to disaster resilience to the design of prosthetics.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Recently promoted faculty&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.media.mit.edu/people/hherr/overview/&quot;&gt;Hugh Herr&lt;/a&gt; has been promoted to professor in the Program in Media Arts and Sciences.&amp;nbsp;Herr joined the MAS faculty as an assistant professor in 2004 and was promoted to associate professor with tenure in 2009. Since 2004 he has led the &lt;a href=&quot;https://www.media.mit.edu/groups/biomechatronics/overview/&quot;&gt;Biomechatronics&lt;/a&gt; research group at the MIT Media Lab. Driven by his personal experience as a double amputee, he has pursued his research goal of designing smarter and more efficient prosthetics and orthotics. Herr has also been active as an entrepreneur, translating his lab research into commercial products that improve the quality of life for amputees and the disabled worldwide. He has won numerous awards, including the Smithsonian American Ingenuity Award (2014), and has been a co-inventor on&amp;nbsp;more than 70 patents and patent applications. The author of many peer-reviewed publications, Herr teaches the core “Principles of Human Augmentation” course. He earned a master’s degree from MIT in mechanical engineering and a PhD in biophysics from Harvard University.&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;a href=&quot;https://architecture.mit.edu/faculty/lauren-jacobi&quot;&gt;Lauren Jacobi&lt;/a&gt; has been promoted to associate professor without tenure in the History, Theory, and Criticism of Architecture and Art program of the Department of Architecture, where she was appointed assistant professor in 2013. Jacobi’s scholarship resides at the intersection of multiple disciplines: art, architecture, and aesthetics; the cultural analysis of money; economic history; and the early history of modernity. Jacobi is the author of several published and forthcoming peer-reviewed articles on her &lt;a href=&quot;http://web.mit.edu/ljacobi/www/&quot;&gt;historical research&lt;/a&gt; and the forthcoming volume &quot;Pathways to the Modern Economy: Spatial Practices and Banking in and beyond Florence, ca. 1250-1600.&quot; Among other scholarly fellowships and awards, in 2015-2016 she was awarded the Rome Prize at the American Academy in Rome. Jacobi holds a BA from Swarthmore College, an MA from Courtauld Institute of Art, and an MA and PhD from the Institute of Fine Arts of&amp;nbsp;New York University.&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;a href=&quot;https://dusp.mit.edu/faculty/janelle-knox-hayes&quot;&gt;Janelle Knox-Hayes&lt;/a&gt; has been appointed associate professor with tenure in the Department of Urban Studies and Planning, where she was named Lister Brothers Associate Professor of Economic Geography and Planning (without tenure) in 2015.&amp;nbsp; She was previously a tenured associate professor in the School of Public Policy at Georgia Tech. Knox-Hayes is an economic geographer. Her research draws on empirical evidence of how societies have sought to mitigate climate change through the creation of carbon emissions markets and related financial instruments. She is the author of many peer-reviewed journal articles and book chapters, and she serves as an editor of the &lt;em&gt;Cambridge Journal of Regions, Economy and Society.&lt;/em&gt; Her most recent book is &quot;&lt;a href=&quot;https://global.oup.com/academic/product/the-cultures-of-markets-9780198718451?cc=us&amp;amp;lang=en&amp;amp;&quot;&gt;The Cultures of Markets: The Political Economy of Climate Governance&lt;/a&gt;&quot; (Oxford University Press, 2016). Knox-Hayes is a contributor to the MIT Environmental Solutions Initiative. She holds a BA from the University of Colorado and an MS and PhD from the University of Oxford.&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;a href=&quot;https://architecture.mit.edu/faculty/miho-mazereeuw&quot;&gt;Miho Mazereeuw&lt;/a&gt; has been promoted to associate professor without tenure in the Department of Architecture. She directs the &lt;a href=&quot;http://urbanrisklab.org/&quot;&gt;Urban Risk Lab,&lt;/a&gt; where her research focuses on disaster-resilient design. Before coming to MIT in 2012, Mazereeuw taught at the Harvard Graduate School of Design and the University of Toronto. She has experience in professional practice with architectural offices in the Netherlands, Japan, and the United States. Her research in Japan inspired a pioneering approach to “preemptive design,” in which she shows how urban public space (e.g., plazas, parks, and schoolyards) can be reconfigured as safe havens that have emergency response infrastructure and supplies to anticipate and mitigate the effects of natural disasters. Mazereeuw contributes to post-disaster reconstruction through the design of evacuation structures and strategies that link emergency shelter with resilient infrastructure and communication networks, most notably in Haiti and Indonesia. She holds a BA from Wesleyan University and an MA and MLA from Harvard University.&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;a href=&quot;https://architecture.mit.edu/faculty/ana-miljacki&quot;&gt;Ana Miljački&lt;/a&gt; has been promoted to associate professor with tenure in the Department of Architecture. Her research interests range from the role of architecture and architects in Cold War-era Eastern Europe, through the theories of postmodernism in late socialism to the politics of contemporary architectural production. Miljački contributes to exhibitions and installations as an exhibitor and curator; she was selected to co-curate the United States Pavilion in the 2014 Venice Biennale of Architecture. She is the author of numerous refereed conference papers, book chapters, and articles, and an editor of proceedings and other collected volumes. Her most recent book is &quot;&lt;a href=&quot;https://architecture.mit.edu/publication/optimum-imperative-czech-architecture-socialist-lifestyle-1938%E2%80%931968&quot;&gt;The Optimum Imperative: Czech Architecture for the Socialist Lifestyle, 1938-1968&lt;/a&gt;&quot; (Routledge, 2017). She teaches the Architecture Core 2 Design Studio, the required introductory class in history, and directs the graduate thesis program in architecture, as well as leading advanced research seminars. Miljački holds a BA from Bennington College, an MS from Rice University, and a PhD in the history and theory of architecture from Harvard University.&lt;/p&gt;
+
+
+
+
+
+&lt;p&gt;&lt;a href=&quot;https://architecture.mit.edu/faculty/william-obrien-jr&quot;&gt;William (Liam) O’Brien&lt;/a&gt; has been promoted to associate professor with tenure in the Department of Architecture. An architect and educator, he seeks to bridge the traditional formal and material concerns of the discipline and the new representational and fabrication potentials opened up by computer-aided design and manufacturing. O’Brien has a professional practice, &lt;a href=&quot;http://www.wojr.org/&quot;&gt;WOJR,&lt;/a&gt; which focuses on the realization of real-world architectural commissions and competitions, as well as a large number of installations and drawn design work. He is also a founding member of a research collaborative, Collective-LOK, which undertakes experimental research projects, often without a client. O’Brien has won numerous fellowships and awards, including a Rome Prize Fellowship at the American Academy in Rome in 2012. He is the author of &quot;Room for Artifacts&quot; (Park Books, 2016). He holds a BA from Hobart College and an MA from Harvard University.&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;a href=&quot;https://www.media.mit.edu/people/neri/overview/&quot;&gt;Neri Oxman&lt;/a&gt; has been promoted to associate professor with tenure in the Program in Media Arts and Sciences. She directs the &lt;a href=&quot;https://www.media.mit.edu/groups/mediated-matter/overview/&quot;&gt;Mediated Matter&lt;/a&gt; research group at the MIT Media Lab, which focuses on nature-inspired design. Oxman’s research brings together design, biology, material science, and computer science to fundamentally rethink how we design and manufacture objects from the micro scale to the building scale. As an engineer and scientist, she has contributed to the development of additive manufacturing technologies by pioneering new techniques in 3-D printing. This work has resulted in 14 patents and patents pending as well as almost 100 papers in journals, book chapters, and refereed proceedings, along with many awards. Her work as an artist and designer has been exhibited at museums worldwide and become part of numerous permanent collections. Oxman holds an AA Dipl. from the Royal Institute of British Architecture and a PhD from MIT.&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;a href=&quot;https://architecture.mit.edu/faculty/christoph-reinhart&quot;&gt;Christoph Reinhart&lt;/a&gt; has been promoted to professor in the Building Technology program of the Department of Architecture. He is a building scientist focusing on the development and deployment of computational tools for a more sustainable built environment. His development and validation of fundamental computational methods to predict daylighting potential for buildings led to the deployment of DAYSIM, an open source daylight simulation engine now used globally in over 90 countries and in thousands of consulting firms. He leads the &lt;a href=&quot;http://mit.edu/sustainabledesignlab/&quot;&gt;Sustainable Design Lab,&lt;/a&gt; which has developed the Boston Citywide Energy Model; Mapdwell&amp;nbsp;and SolarSystem, an online solar energy potential calculator; and the Urban Modeling Interface, a decision-making platform for urban planners and architects to enhance daylighting potential, improve mobility options, and reduce operational and embodied energy in the built environment. Reinhart holds an MS&amp;nbsp;from Simon Fraser University, a Dipl.-Phys. from Albert-Ludwigs Universität, and a doctorate&amp;nbsp;from Ing. Architecture Technical University of Karlsruhe.&lt;/p&gt;
+
+
+
+
+
+
+
+&lt;p&gt;&lt;a href=&quot;https://dusp.mit.edu/faculty/sarah-williams&quot;&gt;Sarah Williams&lt;/a&gt; has been promoted to associate professor without tenure in the Department of Urban Studies and Planning. She is the director of the &lt;a href=&quot;http://civicdatadesignlab.mit.edu/&quot;&gt;Civic Data Design Lab&lt;/a&gt; at MIT’s School of Architecture and Planning, which works with data, maps, and mobile technologies to develop interactive design and communication strategies that expose urban policy issues to broader audiences. Her research as a scholar and designer in urban informatics and civic media involves the collection, analysis, and visualization of civic data in spatial and temporal dimensions, with a goal of promoting public understanding and debate and informing public policy and urban planning and design. Williams lectures at technology and innovation conferences in Europe and North America and exhibits her work widely. She is the author of numerous journal articles and an editor of &lt;em&gt;Environment and Planning B: Urban Analytics and City Science.&lt;/em&gt; Williams holds a BA from Clark University and an MCP from MIT.&lt;/p&gt;
+
+
+
+
+
+&lt;p&gt;&lt;a href=&quot;http://dusp.mit.edu/faculty/jinhua-zhao&quot;&gt;Jinhua Zhao&lt;/a&gt; has been promoted to associate professor without tenure in the Department of Urban Studies and Planning, where he is the Edward H. and Joyce Linde Associate Professor of Transportation and City Planning and directs the &lt;a href=&quot;https://mobility.mit.edu/&quot;&gt;Urban Mobility Lab&lt;/a&gt;. His research focuses on three interconnected themes: behavioral theories, mobility management in China, and governance of new transportation technology. This work brings a behavioral perspective to an emerging area in the transportation field: advances in information and communication technologies and their implications for mobility innovations based on social networks, autonomous vehicles, and integrated public and private mobility systems. Zhao leads long-term research collaborations with major transportation authorities and operators worldwide, and his work has been published extensively in peer-reviewed journals. He teaches courses in transportation research design and quantitative reasoning and statistical methods for planning. Zhao holds a BH from Tongji University, and an MS, MCP, and PhD from MIT.&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;strong&gt;New faculty members&lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;a href=&quot;http://act.mit.edu/people/faculty/judith-barry-3/&quot;&gt;Judith Barry&lt;/a&gt; has been appointed professor in Art, Culture and Technology in the Department of Architecture. An internationally recognized artist, she utilizes a research–based methodology to explore a wide range of topics. Her work makes use of immersive installations based on experiments incorporating architecture, sculpture, performance, theater, film/video/new media, graphics, and interactivity. She has exhibited internationally at such venues as the Berlin Biennale, Carnegie International, Documenta, Nagoya Biennale, São Paolo Biennale, Sydney Biennale, Sharjah Biennial, Venice Biennale(s) of Art/Architecture, and the Whitney Biennale, among others. Her awards include the Frederick Kiesler Prize for Architecture and the Arts (2000), “Best Pavilion” at the Cairo Biennale (2001), and a Guggenheim Fellowship (2011). Her publications include &quot;Judith Barry: Body without Limits&quot; (2009), &quot;The Study for the Mirror and Garden&quot; (2003), and &quot;Projections: mise en abyme&quot; (1997). &quot;Public Fantasy,&quot; a collection of Barry’s essays, was published by the ICA in London (1991).&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;a href=&quot;http://www.ibanezkim.com/&quot;&gt;Mariana Ibañez&lt;/a&gt; has been named assistant professor in the Department of Architecture. She has taught at Harvard’s Graduate School of Design, Columbia University’s Graduate School of Architecture, Planning and Preservation, and the University of Buenos Aires. Her research focuses on the relationship between technology, culture, and the environment. Ibañez co-founded (with Simon Kim) &lt;a href=&quot;http://www.ibanezkim.com/&quot;&gt;Ibañez Kim Studio&lt;/a&gt;, a research and design practice whose work has received multiple awards and been exhibited in international venues. Other professional work includes positions at ARUP and the office of Zaha Hadid. Recent publications include articles in &lt;em&gt;Harvard Design Magazine&lt;/em&gt;, &lt;em&gt;3D Printing and Additive Manufacturing&lt;/em&gt;, and &lt;em&gt;AD&lt;/em&gt;. She is co-editor of &lt;em&gt;Paradigms in Computing: Making, Machines, and Models for Design Agency in Architecture&lt;/em&gt; (Actar D), and editor of &lt;em&gt;Platform 5&lt;/em&gt; (Harvard GSD) and &lt;em&gt;Organization or Design?&lt;/em&gt; (a+t). Ibañez holds a BA in architecture from the University of Buenos Aires and a master’s of architecture and urbanism from the Architectural Association in London.&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;a href=&quot;https://dusp.mit.edu/faculty/jason-jackson&quot;&gt;Jason Jackson&lt;/a&gt; has been named assistant professor in the Department of Urban Studies and Planning, where he has been a lecturer. His &lt;a href=&quot;https://jasonjackson.net/&quot;&gt;research&lt;/a&gt; focuses on the historical origins and evolution of the institutional arrangements through which states and markets are constituted. Jackson’s work is particularly interested in the role of economic ideas and moral beliefs in shaping market institutions. It assesses the implications of political struggles between business, government, and societal actors for market structure and resulting competitive and distributional outcomes. Empirically his work centers on contexts ranging from the politics of monopoly and foreign investment in India from the late colonial period to the present, to the “sharing economy” and urban transportation markets in contemporary cities in Asia, Europe, and the United States. The recipient of several research grants and awards, Jackson holds a BA&amp;nbsp;from Princeton University, an MS&amp;nbsp;from the University of London SOAS, an MPA from Harvard Kennedy School, and a PhD from MIT.&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;a href=&quot;https://dusp.mit.edu/faculty/erica-c-james&quot;&gt;Erica James&lt;/a&gt; has been appointed associate professor of medical anthropology and urban studies with tenure in the Department of Urban Studies and Planning, in a transfer from MIT’s School of Humanities, Arts, and Social Sciences, where she has been on the faculty since 2004. She is the founding director of MIT’s Global Health and Medical Humanities Initiative. Her work is focused on violence and trauma; philanthropy, humanitarianism, and charity; human rights, democratization, and postconflict transition processes; race, gender, and culture; and religion and healing. Her publications include &quot;&lt;a href=&quot;http://www.ucpress.edu/book.php?isbn=9780520260542&quot; target=&quot;_blank&quot;&gt;Democratic Insecurities: Violence, Trauma, and Intervention in Haiti&lt;/a&gt;&quot;&amp;nbsp;(University of California Press, 2010), which documents the psychosocial experience of Haitian torture survivors targeted during the 1991-94 coup period and analyzes the politics of humanitarian assistance in “postconflict” nations making the transition to democracy.&amp;nbsp;James holds a BA&amp;nbsp;from Princeton University, an MTS from Harvard Divinity School, and an MA and PhD from Harvard University.&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;a href=&quot;https://www.media.mit.edu/people/drwood/overview/&quot;&gt;Danielle Wood&lt;/a&gt; has been named assistant professor in the Program in Media Arts and Sciences, beginning work at the MIT Media Lab in January 2018. Her areas of expertise include aerospace engineering, systems engineering, technology policy, international development, and satellite-based earth observation. She will establish a new research group called “&lt;a href=&quot;https://www.media.mit.edu/groups/space-enabled/overview/&quot;&gt;Space Enabled&lt;/a&gt;,” with the mission of advancing justice and development using designs enabled by space. Her work aims to help developing communities and nations adopt satellite and other technologies for earth and environmental observation. A key focus is the design of satellites that collect data that serves societal needs — for example, data on crops, water, and weather, specifically in Africa and Asia. Wood has presented her research through many scholarly publications, conferences, and invited talks across Africa, Asia, Europe, Australia, and North America. She has received numerous grants, fellowships, and awards. Wood holds a BS, an MS, and a PhD from MIT.&lt;/p&gt;
+</content:encoded><media:content url="http://news.mit.edu/sites/mit.edu.newsoffice/files/styles/article_cover_image_original/public/images/2017/mit-school-architecture-planning-faculty-promotions-2017.jpg" type="image" width="996" height="596"><media:description type="plain">First row (l-r): Erica James, Christoph Reinhart, Ana Miljački, Janelle Knox-Hayes, Hugh Herr. Second row (l-r): Mariana Ibañez, Judith Barry, Danielle Wood, Neri Oxman, Lauren Jacobi. Third row (l-r): Jinhua Zhao, Miho Mazereeuw, Sarah Williams, William (Liam) O’Brien, Jason Jackson. </media:description><media:credit>Photos: David Silverman Photography (Wood); Noah Kalina (Oxman); Chris Crisman (Herr)</media:credit></media:content><story:tags>Faculty, Awards, honors and fellowships, Architecture, Urban studies and planning, Media Lab, Arts, Culture and Technology, Design, School of Architecture and Planning</story:tags>  </item>
+  <item>
+    <title>Summit discusses impact of machines on jobs, productivity, and the global economy </title>
+    <link>http://news.mit.edu/2017/artificial-intelligence-summit-discusses-impact-of-machines-on-jobs-productivity-global-economy-1107</link>
+    <description>Two-day “AI and the Future of Work” summit at MIT focused on the artificial intelligence revolution and the workplace.</description>
+     <pubDate>Tue, 07 Nov 2017 17:15:03 -0500</pubDate>
+ <dc:creator>Rachel Gordon | CSAIL</dc:creator>
+ <guid isPermaLink="true">http://news.mit.edu/2017/artificial-intelligence-summit-discusses-impact-of-machines-on-jobs-productivity-global-economy-1107</guid>
+<content:encoded>&lt;p&gt;This week MIT hosted a summit on “AI and the Future of Work”, focused on helping industry, government, and the workforce navigate the opportunities and challenges of artificial intelligence and automation.&lt;/p&gt;
+
+
+
+&lt;p&gt;Hosted by MIT&#039;s Computer Science and Artificial Intelligence Laboratory (CSAIL) and the Initiative on the Digital Economy (IDE), the event featured speakers such as Alphabet chairman Eric Schmidt and machine-learning pioneer Yann LeCun.&lt;/p&gt;
+
+
+
+&lt;p&gt;Taking place in MIT’s Kresge Auditorium, the summit featured remarks from CSAIL Director Daniela Rus and IDE Director Erik Brynjolfsson, as well as a keynote address by Schmidt. Computer scientists, economists, and industry experts spoke about a range of topics that included legal policy, technical challenges, and assistive technologies.&lt;/p&gt;
+
+
+
+&lt;p&gt;During his opening remarks, MIT President L. Rafael Reif noted the important societal gains that could stem from AI, such as economic growth, higher living standards, longer life spans and less disease. However, he also described the fear that many Americans face related to automation and job loss.&lt;/p&gt;
+
+
+
+&lt;p&gt;“Seventy-two&amp;nbsp;percent of Americans say they feel worried about a future [in which] robots and computers can do many human jobs,” said Reif. “It&#039;s clear to almost everyone that deep change is happening. For most people it&#039;s not clear how to respond.”&lt;/p&gt;
+
+
+
+&lt;p&gt;Still, a common theme throughout the event was the potential physical and mental benefits of automating monotonous work. Schmidt expressed his belief that AI will not only make workers more productive, but help spur a future of ubiquitous personal assistants, saving time and helping people lead happier lives.&lt;/p&gt;
+
+
+
+&lt;p&gt;“The presumption is that existing jobs are lost, and you can’t imagine the jobs that are created,” he said. “[But] AI is replacing tasks.&amp;nbsp;There is a surplus of jobs and not enough people to fill them.”&lt;/p&gt;
+
+
+
+&lt;p&gt;Of course, many technical issues still remain. CSAIL researcher and autonomous-driving expert John Leonard discussed some of the challenges underly
+00002BA8
+ing what he calls the “great space race of the 21st&amp;nbsp;century.” He spoke about the concept of “parallel autonomy,” where humans are are still in control of the car, but the vehicle onboard computer will step in if the driver is about to make a dangerous move. He is among several MIT researchers who are working with Toyota to use this approach with self-driving cars.&lt;/p&gt;
+
+
+
+&lt;p&gt;Cybersecurity expert &lt;a href=&quot;https://internetpolicy.mit.edu/team/daniel-weitzner/&quot; target=&quot;_blank&quot;&gt;Daniel Weitzner&lt;/a&gt; spoke on a panel that examined a delicate practical question about AI: who’s at fault when it makes a mistake? Weitzner spoke about the limits of deep learning systems that are high-performing, but whose decisions still aren’t fully understood by the humans that created them.&lt;/p&gt;
+
+
+
+&lt;p&gt;“People are learning ways to trick these systems, making them downright harmful to individuals and more difficult to figure out who is at fault,” said Weitzner. “I imagine we could create a static mechanism that conforms to a set of rules and regulations that we can lay out, and build to those rules.”&lt;/p&gt;
+
+
+
+&lt;p&gt;Other sessions included a discussion about job training with Rusty Justice, whose company Bit Source “turns coal miners into data miners.” Kai-Fu Lee, an influential former Google China executive who is now CEO of Sinovation Ventures, spoke about the state of AI in China, and predicted that AI would be able to do half all job tasks in China in the next 10 to 15 years.&lt;/p&gt;
+
+
+
+&lt;p&gt;The summit builds off other major MIT AI initiatives, including the &lt;a href=&quot;http://news.mit.edu/2017/ibm-mit-joint-research-watson-artificial-intelligence-lab-0907&quot; target=&quot;_self&quot;&gt;new lab with IBM&lt;/a&gt; and “SystemsThatLearn@CSAIL,”&amp;nbsp;which focuses on democratizing AI systems.&lt;/p&gt;
+
+
+
+&lt;p&gt;Even with all of the AI advances that have been made, most speakers at the summit agreed that there’s still ample room for inventing better and smarter systems.&lt;/p&gt;
+
+
+
+&lt;p&gt;“We’ve always said that human-level intelligence is 20 years off,” said MIT AI Professor Patrick Winston. “Eventually we’ll be right.&quot;&amp;nbsp;&lt;/p&gt;
+</content:encoded><media:content url="http://news.mit.edu/sites/mit.edu.newsoffice/files/styles/article_cover_image_original/public/images/2017/AI%20and%20the%20Future%20of%20Work_%2020_preview_0.jpeg" type="image" width="2048" height="1365"><media:description type="plain">MIT Professor Daniela Rus (right), director of the Computer Science and Artificial Intelligence Laboratory, speaks with Alphabet chairman Eric Schmidt. </media:description><media:credit>Photo: Jason Dorfman/MIT CSAIL </media:credit></media:content><story:tags>Special events and guest speakers, Artificial intelligence, Jobs, Computer Science and Artificial Intelligence Laboratory (CSAIL), Computer science and technology, Technology and society, Electrical Engineering &amp; Computer Science (eecs), Autonomous vehicles, Industry, Data, School of Engineering, Sloan School of Management, Innovation and Entrepreneurship (I&amp;E), Business and management</story:tags>  </item>
+  <item>
+    <title>Fighting a giant foe at a tiny scale</title>
+    <link>http://news.mit.edu/2017/mit-chemical-engineering-paula-hammond-fighting-cancer-with-nanomaterials-1107</link>
+    <description>Professor Paula Hammond uses nanoscale biomaterials to craft anti-cancer treatments tiny enough to get through the bloodstream and enter tumors.</description>
+     <pubDate>Tue, 07 Nov 2017 15:55:00 -0500</pubDate>
+ <dc:creator>Julie Barr | MIT Alumni Association</dc:creator>
+ <guid isPermaLink="true">http://news.mit.edu/2017/mit-chemical-engineering-paula-hammond-fighting-cancer-with-nanomaterials-1107</guid>
+<content:encoded>&lt;p&gt;Paula Hammond’s research focuses on using nanoscale biomaterials to attack cancer, which&amp;nbsp;she calls “a supervillain with incredible superpowers.” Using targeted nanoparticles, she is attempting to turn off the natural defenses of mutant genes and deliver a deadly punch to the cancer cell. Her work will soon be translated into clinical practice through partnerships with pharmaceutical companies, entrepreneurial partners, and startups in health care.&lt;/p&gt;
+
+&lt;p&gt;Long interested in reading and the arts, Hammond&amp;nbsp;’84, PhD ’93&amp;nbsp;considered writing children’s novels before she decided to study chemical engineering as an undergraduate at MIT. After working at Motorola for two years, she earned her master’s degree at Georgia Tech and then returned to MIT for a new PhD program in polymer science. In 1995 Hammond joined the MIT faculty, where she is now the David H. Koch Professor of Engineering and head of the Department of Chemical Engineering.&lt;/p&gt;
+
+&lt;p&gt;During her 2003 sabbatical, she began to focus on biomaterials. As someone entering that field in mid-career, she says, “I brought a new perspective, with a materials design approach.&lt;/p&gt;
+
+&lt;p&gt;Since then, she has merged design and polymer engineering to create breakthroughs in drug delivery technology. By layering negatively and positively charged molecules, Hammond and her team can create coated meshes and wound dressings that gradually release combinations of an antibiotic and a growth factor to help the wound heal, support bone regeneration, or control the scarring that can result from a burn or tissue injury.&lt;/p&gt;
+
+&lt;p&gt;This same layering concept is used to treat cancer, says Hammond. By taking a nanoparticle core loaded with drugs that kill cancer cells, surrounding that core with layers that contain silencing RNA to turn off the genes that promote cancer survival, and adding a final outer layer that helps the nanoparticle reach the tumor, it is possible to target drug-resistant cancer cells.&lt;/p&gt;
+
+&lt;p&gt;During&amp;nbsp;her 2015 presentation for the live show &quot;TED Talks: Science and Wonder,&quot; Hammond said that, using molecular engineering, “we can actually design a superweapon that can travel through the bloodstream. It has to be tiny enough to get through the bloodstream, it has got to be small enough to penetrate the tumor tissue, and it’s got to be tiny enough to be taken up inside the cancer cell. To do this job well, it has to be about one one-thousandth the size of a human hair.”&lt;/p&gt;
+
+&lt;p&gt;Hammond was elected to the National Academy of Engineering in 2017 and the National Academy of Medicine in 2016. She is also a member of the American Academy of Arts and Sciences&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;This story originally appeared in the &lt;a href=&quot;http://www.technologyreview.com/mit-news/&quot; target=&quot;_blank&quot;&gt;September/October 2017&lt;/a&gt; issue&amp;nbsp;of&amp;nbsp;&lt;/em&gt;MIT Technology Review&amp;nbsp;&lt;em&gt;magazine.&lt;/em&gt;&lt;/p&gt;
+</content:encoded><media:content url="http://news.mit.edu/sites/mit.edu.newsoffice/files/styles/article_cover_image_original/public/images/2017/Paula-Hammond-alumna-cancer-nano-MIT-00.jpg" type="image" width="2300" height="1533"><media:description type="plain">MIT Professor Paula Hammond</media:description><media:credit>Photo courtesy of MIT Alumni Association</media:credit></media:content><story:tags>School of Engineering, Cancer, Chemical engineering, Alumni/ae, Faculty, Health sciences and technology, Nanoscience and nanotechnology, Profile</story:tags>  </item>
+  <item>
+    <title>Research for global needs, present and future </title>
+    <link>http://news.mit.edu/2017/mit-cee-research-addresses-global-needs-1107</link>
+    <description>New Research Reception gives alumni and the community an inside look at research and initiatives in Department of Civil and Environmental Engineering.</description>
+     <pubDate>Tue, 07 Nov 2017 15:45:00 -0500</pubDate>
+ <dc:creator>Carolyn Schmitt | Department of Civil and Environmental Engineering</dc:creator>
+ <guid isPermaLink="true">http://news.mit.edu/2017/mit-cee-research-addresses-global-needs-1107</guid>
+<content:encoded>&lt;p&gt;As the world’s most pressing challenges in infrastructure and environment evolve, so do the research areas and specialties of MIT Department of Civil and Environmental Engineering (CEE) faculty to meet these needs. &amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;To keep alumni and community members informed of the current research and initiatives in the department, CEE held its annual New Research Reception on Oct. 26. Featuring an update on the status of the department and presentations on new research developments from four distinguished faculty members, the event highlighted the global contributions of CEE research and provided a glimpse into the imminent impact to come.&lt;/p&gt;
+
+&lt;p&gt;“There’s nothing better than having alumni come back to MIT and see the light and sparkle in their eyes. It reminds me of the time when they were students; some of the alumni here tonight I met when they were students,” said Markus Buehler, the McAfee Professor of Engineering and head of CEE, during the opening remarks.&lt;/p&gt;
+
+&lt;p&gt;Buehler gave an overview of the department, including recent additions to the faculty and&amp;nbsp;updates on the undergraduate and graduate programs&amp;nbsp;and community initiatives. He also spoke about the department’s the unique fieldwork programs: Traveling Research Environmental eXperiences (TREX) and Materials in Art, Archaeology and Architecture (ONE-MA&lt;sup&gt;3&lt;/sup&gt;), which take students to Hawaii for environmental research and Italy for infrastructure and materials research, respectively.&lt;/p&gt;
+
+&lt;p&gt;“In CEE it’s important to see the world as our classroom, and TREX and ONE-MA&lt;sup&gt;3&lt;/sup&gt; bring our students out into the field to get firsthand research experience,” Buehler said. “We hope to build more of these kinds of activities, because there’s nothing better than actually seeing and touching and experiencing what infrastructure and the environment really looks like.”&lt;/p&gt;
+
+&lt;p&gt;Following a networking hour, four faculty members gave brief overviews of their current and ongoing research, and fielded questions about their work.&lt;/p&gt;
+
+&lt;p&gt;Professor &lt;a href=&quot;http://cee.mit.edu/people_individual/oral-buyukozturk/&quot; target=&quot;_blank&quot;&gt;Oral Buyukozturk&lt;/a&gt; began his research presentation by highlighting examples of major structural failures that have occurred around the world. He explained how his research seeks to study and prevent such occurrences through innovative, sustainable materials and an understanding of the mechanics and design of structures.&lt;/p&gt;
+
+&lt;p&gt;Sustainability is a driving factor for Buyukozturk’s research. The production of concrete contributes up to six percent of the world’s carbon dioxide, he said, and one of the goals of his research is to design materials that have low embodied energy and emit lower carbon dioxide.&lt;/p&gt;
+
+&lt;p&gt;“It can be done; the Ro
+00004000
+mans did it more than 2,000 years ago. But they did not use the concrete we are using today. They used local materials;&amp;nbsp;they looked at the local materials to try to come up with the best solution,” Buyukozturk said. “The Romans were able to generate structures that last 2,000 years, but that’s basically through trial and error. Now we’re in the age of science, and we need to go through a more scientific approach.”&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;For this new approach, Buyukozturk and his group start by analyzing the atoms and molecules that make up different cementitious-based construction materials for use in infrastructures. In his overview of recent research in his group, Buyukozturk spoke of the creation of a computer model that simulates the behavior of atomistic level building blocks under a variety of conditions and related this to the macroscopic mechanical behavior showing how the strength develops in concrete materials. The study is expected to open a new era in engineering new materials and structures.&lt;/p&gt;
+
+&lt;p&gt;In addition, Buyukozturk showed examples of dynamic identification and quantification of structural systems including bridges from remote video camera measurements using motion magnification, a new development and innovation of his group.&lt;/p&gt;
+
+&lt;p&gt;He also gave an introduction to a newly launched large scale project related to the City of Groningen in the Netherlands. For this project, Buyukozturk and his team are studying why earthquakes continue to occur after local oil drilling ceased.&amp;nbsp;The ultimate goal of the project is&amp;nbsp;to predict potential damage to local infrastructure from these earthquakes.&lt;/p&gt;
+
+&lt;p&gt;Institute Professor &lt;a href=&quot;https://cee.mit.edu/people_individual/sallie-w-penny-chisholm/&quot; target=&quot;_blank&quot;&gt;Sallie &quot;Penny&quot;&amp;nbsp;Chisholm&lt;/a&gt;, most well-known for her role in discovering &lt;em&gt;Prochlorococcus&lt;/em&gt;, the smallest, most abundant photosynthetic cell, spoke about the significance of the cell on the global carbon cycle. She explained that half of photosynthesis on earth occurs in oceans and bodies of water, and &lt;em&gt;Prochlorococcus&lt;/em&gt;, the smallest of all phytoplankton, is collectively responsible for 10 percent of that, making it a significant player in the global carbon cycle.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Since &lt;em&gt;Prochlorococcus&lt;/em&gt; was discovered in the mid-1980s, Chisholm and her lab have made a number of critical discoveries about the cell. While each cell has on average 200 genes, they each contain flexible genes that vary from cell to cell based on the environment. It is estimated that, collectively, there are more than 80,000 different genes in &lt;em&gt;Prochlorococcus &lt;/em&gt;in the world’s oceans, four times the genetic information in a human being. &amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;“I think of the ocean as dissolved information,” Chisholm said. “There’s this information in microbes and it’s moving around, so one question is, how it is it moving around?”&lt;/p&gt;
+
+&lt;p&gt;By studying the flexible genes, Chisholm’s lab found that the genes can be identified as coming from different species. The lab analyzed vesicles on the &lt;em&gt;Prochlorococcus&lt;/em&gt; cell and found that they contain DNA, RNA, proteins and lipids, and thus could be one of the ways in which DNA is being mixed around and moving from species to species and contributing to the flexible gene pool, Chisholm said.&lt;/p&gt;
+
+&lt;p&gt;Chisholm also spoke about recent developments in her lab, including research from Rogier Braakman, a postdoc&amp;nbsp;in her lab, and that of Professor Mick Follows of CEE and the Department of Earth, Atmospheric and Planetary Sciences. Braakman found that the evolution of &lt;em&gt;Prochlorococcus&lt;/em&gt; could provide insight into the evolution of more complex marine ecosystems.&lt;/p&gt;
+
+&lt;p&gt;Following her presentation, Chisholm was asked about &lt;em&gt;Prochlorococcus’ &lt;/em&gt;response to pollution in oceans, to which she explained that it is found in relatively pristine open ocean ecosystems and is particularly sensitive to trace metals, making it difficult to bring the cell into the lab and recreate its environment.&lt;/p&gt;
+
+&lt;p&gt;Next, Assistant Professor &lt;a href=&quot;https://cee.mit.edu/people_individual/tal-cohen/&quot; target=&quot;_blank&quot;&gt;Tal Cohen&lt;/a&gt;, who specializes in nonlinear solid mechanics and material instabilities, gave an outline of her research and her newly established Nonlinear Solid Mechanics Group. Cohen began her presentation by talking about the trend towards the use of highly deformable materials in engineering, such as flexible phones and wearable sensors.&lt;/p&gt;
+
+&lt;p&gt;“It seems in recent years that our ability to perform very precise experiments, computations, and fabrication techniques has advanced tremendously, but we still have a ways to go in understanding and making sense of all of the data that we are producing,” Cohen said.&lt;/p&gt;
+
+&lt;p&gt;During her talk, entitled “Mechanics of Squishy Things,” Cohen described her interest in understanding how material instabilities form and how materials grow. She discussed how understanding surface growth, a natural process seen in nature, can potentially be translated to engineering applications. Material growth is only one of the focuses of her research group; her group also looks at material instabilities and extreme dynamic loading conditions, and how these three concepts interact.&lt;/p&gt;
+
+&lt;p&gt;Cohen concluded her presentation with an overview of the classes she is teaching this semester, including 1.058 (Structural Dynamics) and 1.101 (Civil and Environmental Engineering Design I).&lt;/p&gt;
+
+&lt;p&gt;“It’s a super exciting experience because [in 1.101] we’re essentially teaching students to invent. We’re putting them in a space where they think about what inspires them in civil and environmental engineering, and we take them through a design process to come to a final product. We try to go outside and to look at what’s going on around campus and how can we improve things on campus using engineering tools.”&lt;/p&gt;
+
+&lt;p&gt;Lastly, H.M. King Bhumibol Professor &lt;a href=&quot;https://cee.mit.edu/people_individual/dennis-mclaughlin/&quot; target=&quot;_blank&quot;&gt;Dennis McLaughlin&lt;/a&gt; spoke to the group about sustainable options for food security. He stressed the challenge of meeting global food demand with a rising population, especially in areas of East Africa.&lt;/p&gt;
+
+&lt;p&gt;“I got interested in food security primarily through its connection with water, because I’m a hydrologist. Most of the water that humans are involved with goes to agriculture,” McLaughlin said at the beginning of his talk. “We have a tendency to take food security for granted and to assume that since our needs are met now they will be met in the future. And yet things are changing very rapidly as the food and resource needs of people in developing countries increase dramatically. Many of the changes are not felt so much by people in this room, who can import all the food they need, but are important for people who are not as well-off.”&lt;/p&gt;
+
+&lt;p&gt;During his presentation, McLaughlin touched upon the primary options for increased food production: expanding cropland;&amp;nbsp;increasing yield through techniques such as irrigation, genetic modifications, and precision agriculture;&amp;nbsp;and better allocation of existing resources. He noted that cropland expansion and yield increases can have adverse environmental impacts that could restrict their effectiveness. More efficient allocation of land, water, and nutrients to both subsistence and cash crops could have great potential for meeting future food needs in the developing world.&lt;/p&gt;
+
+&lt;p&gt;“One of the things you don’t want to do is expand agriculture in a way that is unsustainable because it stresses or depletes natural resources. It would be very useful to know the carrying capacity of agricultural systems from local to global scales. This is the maximum production we can expect with current technology and available resources. Improved understanding of resource limitations could help us identify the best places to grow particular crops and suggest strategies for more efficient and sustainable production,”&amp;nbsp;McLaughlin said.&lt;/p&gt;
+
+&lt;p&gt;McLaughlin and his students are currently using optimization techniques to investigate more efficient and sustainable resource use in India, China, and Africa.&lt;/p&gt;
+
+&lt;p&gt;“The diverse research in CEE at MIT adapts to the world’s needs and seeks to find innovative solutions to these challenges,” Buehler said. “It is always great to reconnect with our alumni, to share our developments and achievements with them, to show them what our current students and researchers are doing to address major global challenges, and to gather useful feedback and new problems to collaborate on.”&lt;/p&gt;
+</content:encoded><media:content url="http://news.mit.edu/sites/mit.edu.newsoffice/files/styles/article_cover_image_original/public/images/2017/Penny-Chisholm-Alumni-Research-Presentation-MIT-00.jpg" type="image" width="3000" height="2000"><media:description type="plain">Institute Professor Sallie "Penny" Chisholm presents her research on Prochlorococcus to the CEE community — including alumni — at the CEE New Research Reception. </media:description><media:credit>Photo: Alan Silfen</media:credit></media:content><story:tags>School of Engineering, Agriculture, Biological engineering, Civil and environmental engineering, EAPS, Food, Materials Science and Engineering, Faculty, Alumni/ae, Special events and guest speakers</story:tags>  </item>
+  <item>
+    <title>Strong current of energy runs through MIT</title>
+    <link>http://news.mit.edu/2017/mit-energy-initiative-creates-robust-energy-research-community-1107</link>
+    <description>Research, education, and student activities help create a robust community focused on fueling the world&amp;#039;s future.</description>
+     <pubDate>Tue, 07 Nov 2017 14:15:00 -0500</pubDate>
+ <dc:creator>Kathryn M. O&#039;Neill | MIT Energy Initiative</dc:creator>
+ <guid isPermaLink="true">http://news.mit.edu/2017/mit-energy-initiative-creates-robust-energy-research-community-1107</guid>
+<content:encoded>&lt;p&gt;On any given day at MIT, undergraduates design hydro-powered desalination systems, graduate students test alternative fuels, and professors work to tap the huge energy-generating potential of nuclear fusion, biomaterials, and more. While some MIT researchers are modeling the impacts of policy on energy markets, others are experimenting with electrochemical forms of energy storage.&lt;/p&gt;
+
+&lt;p&gt;This is the robust energy community at MIT. Developed over the past 10 years with the guidance and support of the MIT Energy Initiative (MITEI) — and with roots extending back into the early days of the Institute — it has engaged more than 300 faculty members and spans more than 900 research projects across all five schools.&lt;/p&gt;
+
+&lt;div class=&quot;cms-placeholder-content-video&quot;&gt;&lt;/div&gt;
+
+&lt;p&gt;In addition, MIT offers a multidisciplinary energy minor and myriad energy-related events and activities throughout the year. Together, these efforts ensure that students who arrive on campus with an interest in energy have free rein to pursue their ambitions.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Opportunities for students&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;“The MIT energy ecosystem is an incredible system, and it’s built from the ground up,” says Robert C. Armstrong, a professor of chemical engineering and the director of MITEI, which is overseen at the Institute level by Vice President for Research Maria Zuber. “It begins with extensive student involvement in energy.”&lt;/p&gt;
+
+&lt;p&gt;Opportunities begin the moment undergraduates arrive on campus, with a freshman pre-orientation program offered through MITEI that includes such hands-on activities as building motors and visiting the Institute’s nuclear research reactor.&lt;/p&gt;
+
+&lt;p&gt;“I got accepted into the pre-orientation program and from there, I was just hooked. I learned about solar technology, wind technology, different types of alternative fuels, bio fuels, even wave power,” says graduate student Priyanka Chatterjee ’15, who minored in energy studies and majored in mechanical and ocean engineering.&lt;/p&gt;
+
+&lt;p&gt;Those who choose the minor take a core set of subjects encompassing energy science, technology, and social science. Those interested in a deep dive into research can participate in the Energy Undergraduate Research Opportunities Program (UROP), which provides full-time summer positions. UROP students are mentored by graduate students and postdocs, many of them members of the Society of Energy Fellows, who are also conducting their own energy research at MIT.&lt;/p&gt;
+
+&lt;p&gt;For extracurricular activities, students can join the MIT Energy Club, which is among the largest student-run organizations at MIT&amp;nbsp;with more than 5,000 members. They can also compete for the MIT Clean Energy Prize, a student competition that awards more than $200,000 each year for energy innovation. And there are&amp;nbsp;many other opportunities.&lt;/p&gt;
+
+&lt;p&gt;The Tata Center for Technology and Design, now in its sixth year, extends MIT’s reach abroad. It&amp;nbsp;supports&amp;nbsp;65 graduate students every year who conduct research central to improving life in developing countries — including lowering costs of rural electrification and using solar energy in novel ways.&lt;/p&gt;
+
+&lt;p&gt;Students have other opportunities to conduct and share energy research internationally as well.&lt;/p&gt;
+
+&lt;p&gt;“Over the years, MITEI has made it possible for several of the students I’ve advised to engage more directly in global energy and climate policy negotiations,” says Valerie Karplus, an assistant professor of global economics and management.&amp;nbsp;“In 2015, I joined them at the Paris climate conference, which was a tremendous educational and outreach experience for all of us.”&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Holistic problem-solving&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;“What is important is to provide our students a holistic understanding of the energy challenges,” says MIT Associate Dean for Innovation Vladimir Bulović.&lt;/p&gt;
+
+&lt;p&gt;Adds Karplus:&amp;nbsp;“There’s been an evolution in thinking from ‘How do we build a better mousetrap?’ to ‘How do we bring about change in society at a system level?’”&lt;/p&gt;
+
+&lt;p&gt;This kind of thinking is at the root of MIT’s multidisciplinary approach to addressing the global energy challenge — and it has been since MITEI was conceived and launched by then-MIT President Susan Hockfield, a professor of neuroscience. While energy research has been part of the Institute since its founding (MIT’s first president, William Barton Rogers, famously collapsed and died after uttering the words “bituminous coal” at the 1882 commencement), the concerted effort to connect researchers across the five schools for collaborative projects is a more recent development.&lt;/p&gt;
+
+&lt;p&gt;“The objective of MITEI was really to solve the big energy problems, which we feel needs all of the schools’ and departments’ contributions,” says Ernest J. Moniz, a professor emeritus of physics and special advisor to MIT’s president. Moniz was the founding director of MITEI before serving as U.S. Secretary of Energy during President Obama’s administration.&lt;/p&gt;
+
+&lt;p&gt;Hockfield says great technology by itself “can’t go anywhere without great policy.”&lt;/p&gt;
+
+&lt;p&gt;“It’s the economics, it’s the sociology, it’s the science and the engineering, it’s the architecture — it’s all of the pieces of MIT that had to come together if we were going to develop really impactful sustainable energy solutions,” she says.&lt;/p&gt;
+
+&lt;p&gt;This multidisciplinary approach is eviden
+00004000
+t in much of MIT’s energy research — notably the series of comprehensive studies MITEI has conducted on such topics as the future of solar energy, natural gas, the electric grid, and more.&lt;/p&gt;
+
+&lt;p&gt;“To make a better world, it’s essential that we figure out how to take what we’ve learned at MIT in energy and get that out into the world,” Armstrong says.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Fostering collaborations&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;MITEI’s eight low-carbon energy research centers — focused on a range of topics from materials design to solar generation to carbon capture and storage — similarly address challenges on multiple technology and policy fronts. These centers are a core component of MIT’s five-year Plan for Action on Climate Change, announced by President L. Rafael Reif in October 2015. The centers employ a strategy that has been fundamental to MIT’s energy work since the founding of MITEI: broad, sustained collaboration with stakeholders from industry, government, and the philanthropic and non-governmental organization communities.&lt;/p&gt;
+
+&lt;p&gt;“It’s one thing to do research that’s interesting in a laboratory. It’s something very different to take that laboratory discovery into the world and deliver practical applications,” Hockfield says. “Our collaboration with industry allowed us to do that with a kind of alacrity that we could never have done on our own.”&lt;/p&gt;
+
+&lt;p&gt;For example, MITEI’s members have supported more than 160 energy-focused research projects,&amp;nbsp;representing $21.4 million in funding over the past nine years,&amp;nbsp;through the Seed Fund Program. Projects have led to follow-on federal and industry funding, startup companies, and pilot plants for solar desalinization systems in India and Gaza, among other outcomes.&lt;/p&gt;
+
+&lt;p&gt;What has MIT’s energy community as a whole accomplished over the past decade? Hockfield says it’s raised the visibility of the world’s energy problems, contributed solutions — both technical and sociopolitical — and provided “an army of young people” to lead the way to a sustainable energy future.&lt;/p&gt;
+
+&lt;p&gt;“I couldn’t be prouder of what MIT has contributed,” she says. “We are in the midst of a reinvention of how we make energy and how we use energy. And we will develop sustainable energy practices for a larger population, a wealthier population, and a healthier planet.”&lt;/p&gt;
+</content:encoded><media:content url="http://news.mit.edu/sites/mit.edu.newsoffice/files/styles/article_cover_image_original/public/images/2017/MIT-Energy-Past-Future-borders-01%20small.png" type="image" width="1500" height="1000"><media:description type="plain">Top row (l-r): Tata Center spinoff Khethworks develops affordable irrigation for the developing world; students discuss utility research in Washington; thin, lightweight solar cell developed by Professor Vladimir Bulović and team. Bottom row (l-r): MIT's record-setting Alcator tokamak fusion research reactor; a researcher in the MIT Energy Laboratory's Combustion Research Facility; Professor Kripa Varanasi, whose research on slippery surfaces has led to a spinoff co-founded with Associate Provost Karen Gleason.
+</media:description><media:credit>Photos: Tata Center for Technology and Design, MITEI, Joel Jean and Anna Osherov, Bob Mumgaard/PSFC, Energy Laboratory Archives, Bryce Vickmark.</media:credit></media:content><story:tags>Alternative energy, Energy, MIT Energy Initiative, Renewable energy, School of Science, School of Engineering, SHASS, School of Architecture + Planning, Sloan School of Management, Tata Center</story:tags>  </item>
+  <item>
+    <title>3Q: Robert Armstrong on 10 years of energy research at MIT</title>
+    <link>http://news.mit.edu/2017/3q-robert-armstrong-10-years-of-energy-research-at-mit-1107</link>
+    <description>MIT Energy Initiative Director Robert Armstrong shares perspectives on past successes and ongoing and future energy projects at the Institute.</description>
+     <pubDate>Tue, 07 Nov 2017 14:10:00 -0500</pubDate>
+ <dc:creator>MIT Energy Initiative</dc:creator>
+ <guid isPermaLink="true">http://news.mit.edu/2017/3q-robert-armstrong-10-years-of-energy-research-at-mit-1107</guid>
+<content:encoded>&lt;p&gt;&lt;em&gt;This year marks 10 years since the MIT Energy Initiative (MITEI) was founded as MIT’s hub for energy research, education, and outreach. To mark the occasion, MITEI Director Robert Armstrong shared his thoughts on some of the MIT energy community’s achievements to date and highlighted promising projects that could lead to breakthroughs in the decades to come. He also discussed the characteristics and resources that have helped MIT develop a thriving center of energy research.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Q: &lt;/strong&gt;What are some of the most significant research impacts the MIT energy community has made over the past decade?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;A: &lt;/strong&gt;While the horizon for the majority of energy research we do here at MIT is generally at least several decades, some researchers have already been able to translate their research into technologies and start-up companies — many with early funding support from MITEI member companies and donors. A few examples include:&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;flexible, thin-film solar photovoltaics that can be printed on nearly any surface, developed by Professor Vladimir Bulović and colleagues;&lt;/li&gt;
+	&lt;li&gt;Khethworks, a Tata Center for Technology and Design spinoff that is developing affordable irrigation for the developing world, co-founded by Katherine Taylor SM ’15, Victor Lesniewski, and PhD student Kevin Simon SM ’15;&lt;/li&gt;
+	&lt;li&gt;the solar-powered village-scale electrodialysis desalination system developed by PhD candidate Natasha Wright with Professor Amos Winter to provide clean drinking water to rural, off-grid villages in India — another project originating from the Tata Center;&lt;/li&gt;
+	&lt;li&gt;energy storage companies including Professor Yet-Ming Chiang’s 24M and Baseload Renewables, Professor Donald Sadoway’s Ambri, and FastCAP Systems, co-founded by Riccardo Signorelli PhD ’09 and Professor Joel Schindall;&lt;/li&gt;
+	&lt;li&gt;Keystone Tower Systems, co-founded by Eric Smith ’01, SM ’07, Rosalind Takata ’00, SM ’06, and Professor Alexander Slocum, which has made it possible to fabricate wind turbine towers on location, making taller towers economically feasible&lt;/li&gt;
+	&lt;li&gt;Professor Kripa Varanisi’s research on engineering slippery surfaces to eliminate waste from manufacturing, which has led to a coating, LiquiGlide, and a start-up company, Dropwise — co-founded with Associate Provost Karen Gleason — that is developing coatings for power plants and industrial machinery to improve efficiency;&lt;/li&gt;
+	&lt;li&gt;the MIT-developed tokamak fusion research reactor, which set a record for plasma pressure and has paved the way for future fusion reactors; and&lt;/li&gt;
+	&lt;li&gt;multidisciplinary studies such as “The Future of Solar Energy” and “Utility of the Future,” which have taken a comprehensive, system-level approach to energy challenges, with recommendations for policymakers, regulators, and industry.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Q:&lt;/strong&gt; What do you see as the most promising energy developments for the future?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;A: &lt;/strong&gt;Our faculty and students are working on projects with great potential for the future. Among those that could have transformative implications for our energy system are:&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;next-generation solar technologies that lower manufacturing and system integration costs;&lt;/li&gt;
+	&lt;li&gt;long-term energy storage technologies to enable wind and solar deployment at scale;&lt;/li&gt;
+	&lt;li&gt;design and implementation of more robust electric grids for developing and developed nations — complemented by analysis and outreach that encourages innovative policies, regulations, and business models;&lt;/li&gt;
+	&lt;li&gt;energy- and climate-conscious urban planning to reduce intrinsic energy needs of new cities and neighborhoods, helping to mitigate climate change and increase resilience while making communities more livable — from materials like less carbon-intensive concrete to renewable energy and energy efficiency technologies;&lt;/li&gt;
+	&lt;li&gt;insights into how transportation will evolve with developments in technology, fuel, infrastructure, policy, and consumer preference, currently being examined through MITEI’s &quot;Mobility of the Future&quot;&lt;em&gt; &lt;/em&gt;study, expected to be published in 2019;&lt;/li&gt;
+	&lt;li&gt;new approaches to fusion that could begin to come to fruition, such as the small-scale reactor currently being designed at MIT;&lt;/li&gt;
+	&lt;li&gt;development of advanced nanoscale materials engineered for high performance in devices — for example, quantum dot materials for solar photovoltaics, light-emitting diodes, and thermoelectric systems, and carbon nanotube electrodes for capacitors, batteries, and water desalination systems; and&lt;/li&gt;
+	&lt;li&gt;student and alumni research, technology, and policy development.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;While we may not even know yet where our current or future students’ research will take them, or what our alumni may achieve in industry, government, or academic roles, I am confident that we’re preparing future innovators to meet energy and climate challenges.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Q: &lt;/strong&gt;Why is MIT a compelling place for energy research?&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;strong&gt;A:&lt;/strong&gt; First and foremost, it’s the people here: the impressive expertise of the faculty and the intelligence and enthusiasm of the students, coupled with their eagerness to work across disciplines and to engage with industry and government on urgent energy challenges and issues. When the Energy Research Council was forming the MIT Energy Initiative, we thought that MIT had the right characteristics for cultivating an energy research and education community. As our researchers have developed projects with about 90 industry and public entities, we’ve seen an amazing degree and depth of collaboration across sectors, including many innovative outcomes that we couldn’t have anticipated.&lt;/p&gt;
+
+
+
+&lt;p&gt;We’re increasingly working to translate completed research into commercializable ideas and companies. For example, the Tata Center for Technology and Design has interesting work going on to help their teams of graduate students and faculty deploy their projects at a larger scale. And we work with and draw on the knowledge of entities like the Martin Trust Center for MIT Entrepreneurship; having these kinds of resources right here on campus makes a huge difference in our ability to launch new business enterprises. The Engine is another prime illustration of a uniquely MIT-developed resource that is already having a positive impact: raising and investing patient capital to support promising projects within and outside of MIT, including energy ventures like Professor Yet-Ming Chiang’s Baseload Renewables or Professor Jeff Grossman’s Via Separations. MITEI’s Low-Carbon Energy Centers continue to convene researchers around specific energy technology areas to address climate change in areas from energy storage to advanced materials for energy applications, working with industry member companies — providing fertile ground for student projects and theses.&lt;/p&gt;
+
+
+
+&lt;p&gt;Our community also has a symbiotic relationship with the vibrant energy ecosystem here in Massachusetts and in the greater northeast region: Our Undergraduate Research Opportunities Program and Energy Studies Minor students have many local internships and careers to choose from, and companies and governments can tap our faculty expertise for speaking events, studies, and projects.&lt;/p&gt;
+
+
+
+&lt;p&gt;The administration’s five-year Plan for Action on Climate Change, support for using the campus as a living laboratory, and interest in exploring other ways of reducing our carbon footprint all generate opportunities for faculty, students, and staff. A few examples include the Office of Sustainability’s work with the Department of Facilities and MIT energy researchers to develop a greenhouse gas inventory, followed by the collaboration with Boston Medical Center and Post Office Square Redevelopment Corporation to develop the solar power purchase agreement for Summit Farms in North Carolina. The upgrades to MIT’s central utilities cogeneration plant also present learning opportunities for MIT and the broader community.&lt;/p&gt;
+
+
+
+&lt;p&gt;These and numerous other factors make MIT a great place for energy research, and I anticipate even greater growth in our energy community in the years to come.&lt;/p&gt;
+
+
+</content:encoded><media:content url="http://news.mit.edu/sites/mit.edu.newsoffice/files/styles/article_cover_image_original/public/images/2017/mit-energy-initiative-mitei-10-years-00_1.png" type="image" width="1320" height="880"><media:description type="plain">A look at 10 years of the MIT Energy Initiative, by the numbers</media:description><media:credit>Image: Jenn Schlick/MIT Energy Initiative</media:credit></media:content><story:tags>Energy, MIT Energy Initiative, Renewable energy, 3 Questions, Sustainability, Climate change, Innovation and Entrepreneurship (I&amp;E), School of Engineering, School of Science, School of Architecture and Planning, SHASS, Sloan School of Management</story:tags>  </item>
+  <item>
+    <title>Jesse Thaler: Seeking the fundamental nature of matter </title>
+    <link>http://news.mit.edu/2017/faculty-profile-jesse-thaler-1107</link>
+    <description>Theorist explores particle physics at the boundary of “messy and elegant.” </description>
+     <pubDate>Tue, 07 Nov 2017 00:00:00 -0500</pubDate>
+ <dc:creator>Jennifer Chu | MIT News Office</dc:creator>
+ <guid isPermaLink="true">http://news.mit.edu/2017/faculty-profile-jesse-thaler-1107</guid>
+<content:encoded>&lt;p&gt;Jesse Thaler was a high school student in 1995, when a pivotal discovery in science turned his life’s path toward particle physics.&lt;/p&gt;
+
+
+
+&lt;p&gt;That year, physicists at the Fermi National Accelerator Laboratory confirmed that its Tevatron particle accelerator had detected, for the first time, a subatomic particle known as the top quark. This particle had been a missing piece in the Standard Model of particle physics — a theory that describes all the known elementary particles and several major, fundamental forces governing the universe.&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p&gt;“I remember my physics teacher had a big poster of the Standard Model on the wall, with a question mark next to the top quark,” says Thaler, who recently was granted tenure as an associate professor in MIT’s Department of Physics. “When it was discovered, I remember him writing down the mass of that top quark where there used to be a question mark. I thought discoveries must happen all the time. Little did I know that particle physics is a decades-long, even centuries-long, endeavor to try to understand the fundamental nature of matter, and that I would eventually become a part of that.”&lt;/p&gt;
+
+
+
+&lt;p&gt;Thaler, a member of MIT’s Center for Theoretical Physics and the Laboratory for Nuclear Science, is a self-described “pencil and paper, chalk and chalkboard” theorist, and works to derive theoretical insights to characterize the behavior of subatomic particles, and the fundamental forces that give structure to the universe.&lt;/p&gt;
+
+
+
+&lt;p&gt;He’s applying his theories to describe in greater detail the particles that are already known to the Standard Model, as well as predict the behavior of those beyond the Standard Model, which scientific theory cannot quite yet describe — namely, dark matter, which is thought to make up more than a quarter of the total mass-energy of the universe but has yet to be directly detected.&lt;/p&gt;
+
+
+
+&lt;p&gt;Thaler i
+00004000
+s collaborating with experimental physicists on projects ranging from small tabletop detectors to massive collaborations such as the Large Hadron Collider, and applying his theoretical insights to interpret data from current experiments and guide the design of future experiments.&lt;/p&gt;
+
+
+
+&lt;p&gt;“My research is always a balance between exploring what could, but might not, be there, and what must be there,” Thaler says. “Some would say everything should be beautiful and elegant and mathematical, and others would say the world is messy; you just have to study it. But at this boundary, it’s true some things are messy, and others are elegant, and living at that boundary is where I feel most comfortable.”&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;strong&gt;“Subtleties at play”&lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;Thaler grew up in York, Maine, where his mother worked as a high school guidance counselor, and his father practiced family medicine. For high school, he attended Phillips Exeter Academy, where he quickly learned to think his way through tricky mathematical problems on his own.&lt;/p&gt;
+
+
+
+&lt;p&gt;“There wasn’t a textbook,” Thaler recalls. “You showed up the first day, they gave you a relatively thin stack of problems, and you went to class and had discussions but basically had to teach yourself. It was a very humanities-minded way of thinking of mathematics, which could also apply to physics.”&lt;/p&gt;
+
+
+
+&lt;p&gt;Thaler went on to Brown University, where he pursued a degree in math and physics, doing research into the formation of black holes, while also taking courses in the humanities, from Japanese theatre, to the role of women in Islamic society, to race relations in Brazilian history.&lt;/p&gt;
+
+
+
+&lt;p&gt;“Those classes helped me see that there is nuance, even in cases where you think things might be clear-cut,” Thaler says. “In physics, there are similar types of subtleties at play, where you can take different views on the same problem, and the answer comes from the full synthesis of those views. I try to take that approach in the physics research I do.”&lt;/p&gt;
+
+
+
+&lt;p&gt;To blow off some academic steam, Thaler picked up the electric bass as part of an eight-piece ’70s funk band, and put in late-night hours at the college radio station, playing jazz records under the pseudonym Lester, after legendary jazz saxophonist Lester Young. &amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p&gt;“I would spin vinyl from 2 to 5:30 a.m. and then would have my 9 a.m. quantum mechanics class,” Thaler fondly recalls. “It was rough.”&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;strong&gt;Flexible physics&lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;From Brown, he went on to graduate school at Harvard University, with the intention of studying string theory, which at the time was thought to uniquely explain the synthesis of gravity and quantum mechanics, in one unifying theory.&lt;/p&gt;
+
+
+
+&lt;p&gt;“Now I know that to be not quite the right story,” Thaler says. “The modern view of string theory is not that there’s one theory of everything, but many different theories that come out of string theory, and it’s a challenge to figure out which one of those corresponds to our universe, if any. So there’s not inevitability built in.”&lt;/p&gt;
+
+
+
+&lt;p&gt;During his second-semester quantum field theory course, Thaler’s professor, who would become his thesis advisor, helped him redirect his focus toward another theory, not of everything, but of almost everything: the Standard Model of particle physics. It was in this class that Thaler began to see this model as something that could predict, with 100 percent certainty, that many things in the universe, such as the universal strength of gravity, would always be true. He also started to appreciate that there were limits to the Standard Model, and that there are some things about the universe, such as dark matter, that the theory so far has failed to describe in any organized, mathematical way.&lt;/p&gt;
+
+
+
+&lt;p&gt;“This represented a totally new, flexible way of thinking of quantum field theory where you really poked and prodded it from all angles and figured out where it really breaks down,” Thaler says. “So you have these twin realizations: that certain aspects of the Standard Model are fixed and inevitable, and certain aspects are not fixed and are therefore a source of confusion and a target for future research. Those twin aspects really inspired me.”&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;strong&gt;Knowns and unknowns&lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;Thaler spent three and a half years in Berkeley, California, after graduating from Harvard, working as a postdoc at the Miller Institute for Basic Research in Science at the University of California at Berkeley, and at the Lawrence Berkeley National Laboratory, which was just up the hill from the university. At the time, he was wrestling with whether to concentrate on the dynamics of behaviors that are known in the Standard Model, or explore phenemona beyond the Standard Model.&lt;/p&gt;
+
+
+
+&lt;p&gt;He was able to get a taste of both sides at Berkeley. On campus, he found that researchers tended to theorize about the more speculative, uncertain parts of the Standard Model, while researchers at the laboratory were looking in detail at more fixed phenomena.&lt;/p&gt;
+
+
+
+&lt;p&gt;“I would spend half my time on campus and half at the lab, and got the synthesis of the two, taking the shuttle bus up and down the hill,” Thaler says. “And sometimes the most exciting things are at the intersection of those two perspectives.”&lt;/p&gt;
+
+
+
+&lt;p&gt;In 2009, he applied for a faculty position at MIT and while interviewing got to talking with physics professor Richard Milner about ways to test for the existence of dark matter. From that conversation, Thaler proposed an experimental design, which has since evolved to become DarkLight, an MIT-led experiment that aims to look for “dark forces,” or interactions that are thought influence dark matter.&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;strong&gt;Finding structure within chaos&lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;In January 2010, Thaler moved, “in the dead of winter,” as he recalls, from Berkeley to Cambridge, as an assistant professor in MIT’s Department of Physics. He expected a steep curve in learning how to juggle the various teaching and research responsibilities that come with being a professor. What he didn’t anticipate was how difficult it would be for him to hand over some of those responsibilities, particularly in research, to his students.&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p&gt;“Learning to let go and trust my students was eye-opening,” Thaler says. “The students at MIT are fantastically brilliant, and oftentimes I would have the wrong idea of how something should work. But my students have wonderfully stuck to their guns, even if I was skeptical of their results, and convinced me that they were right.”&lt;/p&gt;
+
+
+
+&lt;p&gt;At MIT, Thaler’s research has made a major impact on several areas of physics, most notably on understanding the structure and behavior of jets produced from the collision of protons at high energies. Protons are made from accumulations of subatomic particles called quarks and gluons, which are held together by a glue-like interaction called the strong force. When protons collide at significant speeds, they release sprays or jets of quarks and gluons, which can rebind into collections of subatomic particles such as pions and kaons.&lt;/p&gt;
+
+
+
+&lt;p&gt;Thaler has developed theoretical techniques to study the strong force and the structure of these jets in detail. His techniques are now being applied at the Large Hadron Collider — the largest, most powerful particle accelerator in the world, based in Geneva, Switzerland — to look for interesting physics, and even signs of dark matter.&lt;/p&gt;
+
+
+
+&lt;p&gt;“Studying these jets is a messy business,” Thaler says. “They look like they’re just chaos. But if you work your way up to the boundary of theoretical insights, you realize within that messiness, there’s structure, and you can exploit that structure to figure out what’s going on. We haven’t yet discovered dark matter in this way, but we have been able to search for it in more exquisite detail than in the past.”&lt;/p&gt;
+
+
+
+&lt;p&gt;Looking to the future, Thaler is eager to explore more uncharted territories beyond the Standard Model, and is working on theoretical designs for other experiments to detect dark matter.&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p&gt;“I have a responsibility to push on whatever I think I can make an impact on, and push it forward,” Thaler says. “For that, I can’t think of a better place to be than MIT, for the next however many decades.”&lt;/p&gt;
+</content:encoded><media:content url="http://news.mit.edu/sites/mit.edu.newsoffice/files/styles/article_cover_image_original/public/images/2017/MIT-Thaler-Jesse.jpg" type="image" width="948" height="632"><media:description type="plain">Professor Jesse Thaler, who recently was granted tenure as an associate professor in MIT’s Department of Physics, is applying his theoretical insights to interpret data from current experiments and guide the design of future experiments.
+</media:description><media:credit>Image: Jared Charney</media:credit></media:content><story:tags>Center for Theoretical Physics, Physics, Faculty, Profile, School of Science</story:tags>  </item>
+  <item>
+    <title>New techniques give blood biopsies greater promise</title>
+    <link>http://news.mit.edu/2017/new-techniques-give-blood-biopsies-greater-promise-1106</link>
+    <description>Improved methods validate the use of blood samples for studying patients’ cancer genomes.</description>
+     <pubDate>Mon, 06 Nov 2017 05:00:00 -0500</pubDate>
+ <dc:creator>Broad Institute</dc:creator>
+ <guid isPermaLink="true">http://news.mit.edu/2017/new-techniques-give-blood-biopsies-greater-promise-1106</guid>
+<content:encoded>&lt;p&gt;Researchers at the Broad Institute of MIT and Harvard, the Koch Institute for Integrative Cancer Research at MIT, Dana-Farber Cancer Institute, and Massachusetts General Hospital have developed an accurate, scalable approach for monitoring cancer DNA from blood samples.&lt;/p&gt;
+
+
+
+&lt;p&gt;Reporting in &lt;em&gt;Nature Communications&lt;/em&gt;, the team demonstrates that nearly 90 percent of a tumor’s genetic features can be detected in blood samples using whole-exome sequencing, and that the method can be effectively applied in up to 49 percent of patients with advanced cancer — a number likely to increase as sequencing becomes cheaper. This less-invasive tumor sampling, which can provide a window into the cancer’s genome, has a range of potential applications.&lt;/p&gt;
+
+
+
+&lt;p&gt;“Our ultimate hope is to use blood biopsies to exhaustively search for and characterize even the smallest remnants of tumors,” explains Viktor Adalsteinsson, co-first author on the paper and group leader at the Broad Institute, where he leads the Blood Biopsy Team. “And, as tumors evolve in more advanced stages of cancer, developing resistance or becoming metastatic, we might access timepoints that could be pivotal in deciding which therapies are right for that patient.”&lt;/p&gt;
+
+
+
+&lt;p&gt;This ability to detect and analyze cancer DNA from a patient’s blood sample is emerging as a promising alternative to invasive surgical biopsies, which can be difficult, painful, and costly — especially when tumors have appeared in locations that are challenging to access.&lt;/p&gt;
+
+
+
+&lt;p&gt;Blood biopsies (also called liquid biopsies) are poised to overcome many of these issues. They have the potential to allow doctors to track the progress of disease and treatment in real-time and to help researchers understand how tumors resist treatment with far greater resolution.&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;strong&gt;Understanding cancer without invasive procedures&lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;Cells in the body, including tumor cells, regularly expel fragments of DNA into the bloodstream when they die. With blood biopsies, clinicians collect this “cell-free” DNA from a blood draw and then detect and comprehensively profile the fragments originating from cancer cells. Tracking these data could make it possible to monitor cancer recurrence, a patient’s response to treatment, and other clinically important features, all from blood samples.&lt;/p&gt;
+
+
+
+&lt;p&gt;The research and development arena for blood biopsies is frequented by both academic and industry players, but with scalable whole-exome sequencing, a team led by Adalsteinsson and colleagues Gavin Ha, Sam Freeman, Matthew Meyerson, J. Christopher Love, and Gad Getz is taking the field in a new and innovative direction. Love is a Broad associate member, associate professor of chemical engineering at MIT, and a member of the Koch Institute for Integrative Cancer Research at MIT&lt;/p&gt;
+
+
+
+&lt;p&gt;Compiling a whole exome from DNA fragments currently requires at least 10 percent tumor DNA in a blood sample, but the fraction of tumor DNA in the blood can vary wildly from patient to patient. Because of this variation, the team first desired an unbiased approach for detecting and measuring levels of cancer DNA before attempting whole-exome sequencing.&lt;/p&gt;
+
+
+
+&lt;p&gt;Across the field, many blood biopsy methods detect tumor DNA by screening for mutations in known cancer-related genes, but this targeted sequencing misses cancers without those mutations.&lt;/p&gt;
+
+
+
+&lt;p&gt;Co-first author Ha, a postdoc at the Broad Institute and Dana-Farber Cancer Institute (DFCI), led the development of a tool called ichorCNA that can analyze DNA fragments for mutation patterns nearly universal in cancer genomes, and as a result capture cancers with both known and unknown mutations. Ha focused on detecting stretches of DNA that have either fewer or greater copies in cancer cells, in contrast to healthy cells.&lt;/p&gt;
+
+
+
+&lt;p&gt;The research team tested and refined ichorCNA on 1,439 blood samples collected prospectively from 520 metastatic breast or prostate cancer patients at DFCI (a significant effort championed by medical oncologists Atish Choudhury, Daniel Stover, Heather Parsons, Nikhil Wagle, and colleagues).&lt;/p&gt;
+
+
+
+&lt;p&gt;Using this approach, the researchers found that in 33 to 49 percent of the metastatic breast and prostate cancer patients, depending upon whether one or multiple blood samples were examined, tumor DNA made up greater than 10 percent of the cell-free DNA in their blood — enough to make whole-exome sequencing of cell-free DNA feasible.&lt;/p&gt;
+
+
+
+&lt;p&gt;Then, to determine whether this sequencing of cell-free tumor DNA could offer the same level of insight into cancer genetics as a tissue biopsy could, the team compared surgically obtained tumor biopsies to data collected from whole-exome sequencing of cell-free DNA from a group of 41 patients. The researchers found that genetic data from blood whole-exome sequencing and tissue biopsies matched significantly across a number of genetic features, such as clonal somatic mutations (88 percent match) and copy number alterations (80 percent match).&lt;/p&gt;
+
+
+
+&lt;p&gt;These results support cell-free DNA whole-exome sequencing, from blood samples, as a potential substitute for metastatic tumor biopsy sequencing for many patients.&lt;/p&gt;
+
+
+
+&lt;p&gt;“Our study has demonstrated that we can get a cancer whole exome reliably, from blood; that it reflects the matched tumor biopsy; and that it can be done for a significant fraction of patients with metastatic cancer,” says Adalsteinsson, who was a postdoc in Love’s lab before joining the Broad Institute. “This validation suggests that we can use blood biopsies for large-scale genomic characterization of disease in patients with metastatic cancer.”&lt;/p&gt;
+
+
+
+&lt;p&gt;“It unlocks the potential for a lot of studies that we couldn’t do before,” adds Getz, institute member and director of the Cancer Genome Computational Analysis group at Broad and associate professor of Pathology a
+00000829
+nd director of Bioinformatics at the Massachusetts General Hospital Cancer Center and Department of Pathology. “The technology will allow us to track the dynamics of cancer and understand the evolution of drug resistance, or the development of the metastatic state, in a way that isn’t possible through surgical biopsies.”&lt;/p&gt;
+
+
+
+&lt;p&gt;The new study improves the analysis pipeline for blood biopsies and allows it to be performed at expanded scale. The researchers are actively applying their work to thousands of patients with metastatic cancer who may otherwise not have their tumors biopsied.&lt;/p&gt;
+
+
+
+&lt;p&gt;“With this work, we now have a framework for the precise measurement and quality control of tumor DNA in the plasma, enabling the genomic analysis of blood biopsies with high technical accuracy,” explains Meyerson, institute member at Broad and professor of pathology at DFCI and Harvard Medical School.&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;strong&gt;Method is already in use with patients for cancer research&lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;On the back of the team’s success, ichorCNA and subsequent whole-exome sequencing of cell-free DNA have been incorporated into a collaboration with the Broad Institute Genomics Platform to enable comprehensive mapping of metastatic and drug-resistant tumors from blood samples at scale. This approach has also been integrated into &lt;a href=&quot;https://www.broadinstitute.org/node/129806/&quot;&gt;direct-to-patient research efforts&lt;/a&gt; underway at Broad, including the Metastatic Breast Cancer (MBC) Project, a patient outreach effort that collects saliva and tissue samples — and now blood samples — donated from metastatic breast cancer patients for DNA sequencing to further therapeutic research. Similar efforts to incorporate blood biopsies are underway in the Angiosarcoma Project and upcoming Metastatic Prostate Cancer Project.&lt;/p&gt;
+
+
+
+&lt;p&gt;“We are excited about using blood biopsies to understand metastatic breast cancer, drug resistance, and tumor evolution,
+00004000
+ and to get a snapshot of the metastatic setting in patients who might not have available tissue from a metastatic biopsy,” says Nikhil Wagle, an associate member at the Broad Institute, deputy director of the Center for Cancer Precision Medicine at DFCI, and leader of the MBC Project. “With the Blood Biopsy Team’s latest results, it was clear that this technology had reached the right point for us to incorporate into the Metastatic Breast Cancer project.”&lt;/p&gt;
+
+
+
+&lt;p&gt;A means to perform large-scale blood biopsies could allow researchers and clinicians easy access to the cancer genome, with exciting implications for the way physicians monitor response to treatment, watch for recurrence, and more. The ability to frequently and noninvasively monitor cancer and its treatment could alter clinical trials, increase the resolution with which clinicians understand metastatic cancer, and potentially increase accessibility to quality precision medicine approaches.&lt;/p&gt;
+
+
+
+&lt;p&gt;“Using cell-free DNA to track cancer is not a new idea, but we’re developing the tools to understand how we can better qualify materials for those types of analyses, and we’re doing it in a way that allows us to look across the genome broadly,” says Love. “We’ve established quality metrics to make sure that this technology is cost-effective and scalable for thousands of patients and samples a year.”&lt;/p&gt;
+
+
+
+&lt;p&gt;This study was funded by the Gerstner Family Foundation, Janssen Pharmaceuticals, Inc., and a Koch Institute Support (core) grant from the National Cancer Institute.&lt;/p&gt;
+</content:encoded><media:content url="http://news.mit.edu/sites/mit.edu.newsoffice/files/styles/article_cover_image_original/public/images/2017/MIT-Blood-Biopsies.jpg" type="image" width="948" height="632"><media:description type="plain">Researchers have developed a new method for making “blood biopsies” for cancer more effective by using whole exome sequencing to monitor tumor DNA from blood samples.
+</media:description><media:credit>Image: Susanna Hamilton</media:credit></media:content><story:tags>Research, Broad Institute, Koch Institute, School of Engineering, Chemical engineering, Cancer, DNA, Genetics, Medicine</story:tags>  </item>
+  <item>
+    <title>Artificial intelligence aids materials fabrication</title>
+    <link>http://news.mit.edu/2017/artificial-intelligence-aids-materials-fabrication-1106</link>
+    <description>System could pore through millions of research papers to extract “recipes” for producing materials.</description>
+     <pubDate>Sun, 05 Nov 2017 23:59:59 -0500</pubDate>
+ <dc:creator>Larry Hardesty | MIT News Office</dc:creator>
+ <guid isPermaLink="true">http://news.mit.edu/2017/artificial-intelligence-aids-materials-fabrication-1106</guid>
+<content:encoded>&lt;p&gt;In recent years, research efforts such as the &lt;a href=&quot;https://www.mgi.gov/&quot;&gt;Materials Genome Initiative&lt;/a&gt; and the &lt;a href=&quot;http://news.mit.edu/2014/materials-database-proves-its-mettle-with-new-discoveries-0204&quot;&gt;Materials Project&lt;/a&gt; have produced a wealth of computational tools for designing new materials useful for a range of applications, from energy and electronics to aeronautics and civil engineering.&lt;/p&gt;
+
+
+
+&lt;p&gt;But developing processes for producing those materials has continued to depend on a combination of experience, intuition, and manual literature reviews.&lt;/p&gt;
+
+
+
+&lt;p&gt;A team of researchers at MIT, the University of Massachusetts at Amherst, and the University of California at Berkeley hope to close that materials-science automation gap, with a new artificial-intelligence system that would pore through research papers to deduce “recipes” for producing particular materials.&lt;/p&gt;
+
+
+
+&lt;p&gt;“Computational materials scientists have made a lot of progress in the ‘what’ to make — what material to design based on desired properties,” says Elsa Olivetti, the Atlantic Richfield Assistant Professor of Energy Studies in MIT’s Department of Materials Science and Engineering (DMSE). “But because of that success, the bottleneck has shifted to, ‘Okay, now how do I make it?’”&lt;/p&gt;
+
+
+
+&lt;p&gt;The researchers envision a database that contains materials recipes extracted from millions of papers. Scientists and engineers could enter the name of a target material and any other criteria — precursor materials, reaction conditions, fabrication processes — and pull up suggested recipes.&lt;/p&gt;
+
+
+
+&lt;p&gt;As a step toward realizing that vision, Olivetti and her colleagues have developed a machine-learning system that can analyze a research paper, deduce which of its paragraphs contain materials recipes, and classify the words in those paragraphs according to their roles within the recipes: names of target materials, numeric quantities, names of pieces of equipment, operating conditions, descriptive adjectives, and the like.&lt;/p&gt;
+
+
+
+&lt;p&gt;In a paper appearing in the latest issue of the journal &lt;em&gt;Chemistry of Materials&lt;/em&gt;, they also demonstrate that a machine-learning system can analyze the extracted data to infer general characteristics of classes of materials — such as the different temperature ranges that their synthesis requires — or particular characteristics of individual materials — such as the different physical forms they will take when their fabrication conditions vary.&lt;/p&gt;
+
+
+
+&lt;p&gt;Olivetti is the senior author on the paper, and she’s joined by Edward Kim, an MIT graduate student in DMSE; Kevin Huang, a DMSE postdoc; Adam Saunders and Andrew McCallum, computer scientists at UMass Amherst; and Gerbrand Ceder, a Chancellor’s Professor in the Department of Materials Science and Engineering at Berkeley.&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;strong&gt;Filling in the gaps&lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;The researchers trained their system using a combination of supervised and unsupervised machine-learning techniques. “Supervised” means that the training data fed to the system is first annotated by humans; the system tries to find correlations between the raw data and the annotations. “Unsupervised” means that the training data is unannotated, and the system instead learns to cluster data together according to structural similarities.&lt;/p&gt;
+
+
+
+&lt;p&gt;Because materials-recipe extraction is a new area of research, Olivetti and her colleagues didn’t have the luxury of large, annotated data sets accumulated over years by diverse teams of researchers. Instead, they had to annotate their data themselves — ultimately, about 100 papers.&lt;/p&gt;
+
+
+
+&lt;p&gt;By machine-learning standards, that’s a pretty small data set. To improve it, they used an algorithm developed at Google called Word2vec. Word2vec looks at the contexts in which words occur — the words’ syntactic roles within sentences and the other words around them — and groups together words that tend to have similar contexts. So, for instance, if one paper contained the sentence “We heated the titanium tetracholoride to 500 C,” and another contained the sentence “The sodium hydroxide was heated to 500 C,” Word2vec would group “titanium tetracholoride” and “sodium hydroxide” together.&lt;/p&gt;
+
+
+
+&lt;p&gt;With Word2vec, the researchers were able to greatly expand their training set, since the machine-learning system could infer that a label attached to any given word was likely to apply to other words clustered with it. Instead of 100 papers, the researchers could thus train their system on around 640,000 papers.&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;strong&gt;Tip of the iceberg&lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;To test the system’s accuracy, however, they had to rely on the labeled data, since they had no criterion for evaluating its performance on the unlabeled data. In those tests, the system was able to identify with 99 percent accuracy the paragraphs that contained recipes and to label with 86 percent accuracy the words within those paragraphs.&lt;/p&gt;
+
+
+
+&lt;p&gt;The researchers hope that further work will improve the system’s accuracy, and in ongoing work they are exploring a battery of deep learning techniques that can make further generalizations about the structure of materials recipes, with the goal of automatically devising recipes for materials not considered in the existing literature.&lt;/p&gt;
+
+
+
+&lt;p&gt;Much of Olivetti’s prior research has concentrated on finding more cost-effective and environmentally responsible ways to produce useful materials, and she hopes that a database of materials recipes could abet that project.&lt;/p&gt;
+
+
+
+&lt;p&gt;“This is landmark work,&quot; says Ram Seshadri, the Fred and Linda R. Wudl Professor of Materials Science at the University of California at Santa Barbara. “The authors have taken on the difficult and ambitious challenge of capturing, through AI methods, strategies employed for the preparation of new materials. The work demonstrates the power of machine learning, but it would be accurate to say that the eventual judge of success or failure would require convincing practitioners that the utility of such methods can enable them to abandon their more instinctual approaches.&quot;&lt;/p&gt;
+
+&lt;p&gt;This research was supporting by the National Science Foundation, Office of Naval Research, the Department of Energy, and seed support through the MIT Energy Initiative. Kim was partially supported by Natural Sciences and Engineering Research Council of Canada.&lt;/p&gt;
+</content:encoded><media:content url="http://news.mit.edu/sites/mit.edu.newsoffice/files/styles/article_cover_image_original/public/images/2017/MIT-Materials-AI.jpg" type="image" width="948" height="632"><media:description type="plain">A team of researchers at MIT, the University of Massachusetts at Amherst, and the University of California at Berkeley hope to close the materials-science automation gap, with a new artificial-intelligence system that would pore through research papers to deduce “recipes” for producing particular materials.
+</media:description><media:credit>Image: Chelsea Turner/MIT</media:credit></media:content><story:tags>Research, School of Engineering, Computer science and technology, Energy, Environment, Machine learning, Manufacturing, Materials Science and Engineering, DMSE, Artificial intelligence</story:tags>  </item>
+  <item>
+    <title>Interdisciplinary materials science a key to progress</title>
+    <link>http://news.mit.edu/2017/mit-materials-day-symposium-1106</link>
+    <description>Bringing together researchers from different science and engineering fields for Materials Day Symposium promises solutions to energy, health, and other needs.</description>
+     <pubDate>Sun, 05 Nov 2017 15:30:00 -0500</pubDate>
+ <dc:creator>Denis Paiste | Materials Research Laboratory</dc:creator>
+ <guid isPermaLink="true">http://news.mit.edu/2017/mit-materials-day-symposium-1106</guid>
+<content:encoded>&lt;p&gt;Interdisciplinary materials research holds the key to solving the existential challenges facing humanity, former Sandia National Laboratories executive Julia M. Phillips told researchers who gathered for&amp;nbsp;the annual MIT Materials Research Laboratory (MRL)&amp;nbsp;Materials Day Symposium last month.&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;“What is both very exciting for us as materials researchers, also a little frustrating, is that the real impact of materials occurs when they turn into something that you actually carry around in your pocket or whatever,” Phillips said at the Oct. 11 event.&lt;/p&gt;
+
+&lt;p&gt;During the second half of the 20th century, many of the technological advances that we take for granted today, such as laptop computers and smart phones, came from fundamental advances in materials research and the ability to control and make materials, she said. Phillips, who retired from Sandia National Laboratories as vice president and chief technology officer, also serves as chair of the MRL External Advisory Board and is a member of the National Science Board.&lt;/p&gt;
+
+&lt;p&gt;MRL was formed from the&amp;nbsp;&lt;a dir=&quot;ltr&quot; href=&quot;http://news.mit.edu/2017/introducing-mit-materials-research-laboratory-mrl-1010&quot; rel=&quot;noopener noreferrer&quot; target=&quot;_self&quot;&gt;merger&lt;/a&gt;&amp;nbsp;of the Materials Processing Center and the Center for Materials Science and Engineering, which became&amp;nbsp;effective on Oct. 1. In his introductory remarks, MRL Director Carl V. Thompson noted&amp;nbsp;the appointment of Geoffrey S.D. Beach, an associate professor of materials science and engineering&amp;nbsp; as co-director of the MRL and principal investigator for the National Science Foundation Materials Research Science and Engineering Center.&lt;/p&gt;
+
+&lt;p&gt;Fueled by industrial needs and government-funded research in the post-World War II era, “materials research was undeniably an early model for interdisciplinary research,” Phillips said. With new tools such as scanning probe microscopes to understand the structure and properties of materials, materials scientists in the last half of the 20th century created whole new classes of materials and products, ranging from super alloys that enabled larger and more reliable jet engines to strained layer superlattices that underlie modern magnetic recording,&amp;nbsp;lasers, and infrared detectors.&lt;/p&gt;
+
+&lt;p&gt;Future gains will come from the ability to synthesize and control increasingly complex materials, Phillips said, noting progress in areas such as high-temperature superconductors, porous solids like metal organic frameworks, and&amp;nbsp;&lt;a dir=&quot;ltr&quot; href=&quot;https://www.nature.com/subjects/metamaterials&quot; rel=&quot;noopener noreferrer&quot; target=&quot;_blank&quot;&gt;metamaterials&lt;/a&gt;&amp;nbsp;that generate new properties from combining biological materials, organics, ceramic, and metals at near molecular scale precision in ways not found in nature.&lt;/p&gt;
+
+&lt;p&gt;“Somewhere in the fuzzy space between molecules and materials,”&amp;nbsp;these newer materials have very interesting properties that are still in the process of being fully explored, and they will be exploited in the years to come, &amp;nbsp;Phillips noted. “It’s very clear to many people that these also will be transformational as we move forward.”&lt;/p&gt;
+
+&lt;p&gt;The materials research approach, which brings together researchers from across different science and engineering fields to solve complex problems, provides a model for solving 21st century challenges in energy, environment and sustainability; health care and medicine; vulnerability to human and natural threats; and expanding and enhancing human capability and joy. “These are exemplars, but you can see materials written all over this list, and I would posit that any comparable list you might come up with would have materials written all over it,” Phillips said. “In order to address those grand challenges, we really need to be able to treat realistically complex systems that bring together all of these disciplines from the sciences, from engineering, from the social and behavioral sciences, and arguably even from the arts.”&lt;/p&gt;
+
+&lt;p&gt;Progress in scientific understanding and computational modeling are accelerating researchers’ ability to predict the structure and properties of new materials before actually making them, Phillips said.&lt;/p&gt;
+
+&lt;p&gt;MIT faculty members Antoine Allanore, Polina Anikeeva, A. John Hart, Pablo Jarillo-Herrero, Juejun Hu, and Jennifer Rupp presented research updates on their recent work which spans a range from ultra-thin layered materials for new electronic devices and cellular level probes for the brain and spinal cord to larger scale methods for 3D printing and metals processing.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Merging 2-D materials with CMOS&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Associate professor of physics&amp;nbsp;&lt;a dir=&quot;ltr&quot; href=&quot;http://web.mit.edu/physics/people/faculty/jarillo-herrero_pablo.html&quot; rel=&quot;noopener noreferrer&quot; target=&quot;_blank&quot;&
+00006000
+gt;Pablo Jarillo-Herrero&lt;/a&gt;&amp;nbsp;stacks atomically thin, two-dimensional&amp;nbsp;layers of different materials to discover new properties. Jarillo-Herrero’s lab demonstrated photodetectors, solar cells and the world’s thinnest LED. With materials such as tungsten selenide, changing the number of layers also changes their electronic properties. Although graphene itself has no bandgap, closely aligning the lattices of graphene and boron nitride opens a 30-millivolt bandgap in graphene, he said.&lt;/p&gt;
+
+&lt;p&gt;“You have full electronic control with gate voltages,” Jarillo-Herrero said. Using bilayer molybdenum ditelluride, which is 10,000 times thinner than a silicon solar cell, he showed in work published in&amp;nbsp;&lt;em&gt;Nature Nanotechnology&lt;/em&gt;, a photodetector just 10 nanometers thick can be integrated on a silicon photonic crystal waveguide.&lt;br /&gt;
+&lt;br /&gt;
+“You can just stack this at the very end of your CMOS [complementary metal oxide semiconductor] processing, and you don’t have to do any extra fabrication, any extra growth, you can just slap it on top,” Jarillo-Herrero explained. “It can be made as thin as 4 nanometers, so it’s still ultra thin, and you have a high degree of control in an ultra thin platform. The whole thing is semitransparent so we can see the light go in and out.” These new devices can be operated at telecommunications wavelengths by tuning the bandgap of the material.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Phase change materials&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a dir=&quot;ltr&quot; href=&quot;http://dmse.mit.edu/faculty/profile/hu&quot; rel=&quot;noopener noreferrer&quot; target=&quot;_blank&quot;&gt;Juejun &quot;JJ&quot; Hu&lt;/a&gt;, the Merton C. Flemings Associate Professor of Materials Science and Engineering, is reducing power consumption, shrinking device size, and ramping up processing speed with innovative combinations of materials that alternate between two different solid states, or phases, such as an alloy of germanium, antimony, selenium, and tellurium. These materials are the basis for nonvolatile storage, meaning their memory state is preserved even when the power is turned off. Hu collaborated with Professor Jeffrey C. Grossman and former postdoc Huashan Li to identify desirable materials for these alloys from first principles calculations, and graduate materials science and engineering student Yifei Zhang did much of the experimental work.&lt;/p&gt;
+
+&lt;p&gt;An earlier generation of devices based on germanium, antimony, and tellurium (GST) suffers from losses to light absorption by the material. To overcome this problem, Hu substituted some of the tellurium with a lighter element, selenium, creating a new four-element structure of germanium, antimony, selenium and tellurium (GSST). “We increase the bandgap to suppress short wavelength absorption, and we actually minimize any carrier mobility to mitigate the free carrier absorption,” he explained. Switching between amorphous and crystalline states can be triggered with a laser pulse or an electrical signal.&lt;/p&gt;
+
+&lt;p&gt;Although the structural state switching happens on the order of 100 nanoseconds, figuring out the techniques to accomplish it took a year of work, Hu said. Specifically, he found that using materials that switch between amorphous and crystalline states allows light to be directed over two different paths and reduces power consumption. He coupled this GSST optical phase change material with silicon nitride microresonators and waveguides to show this behavior. These switches based on phase change materials can be connected in a matrix to enable variable light control on a chip. Ultimately, Hu hopes to use this technology to build re-programmable photonic integrated circuits.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;New tools for brain exploration&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Class of 1942 Associate Professor in Materials Science and Engineering&amp;nbsp;&lt;a dir=&quot;ltr&quot; href=&quot;https://dmse.mit.edu/faculty/profile/anikeeva&quot; rel=&quot;noopener noreferrer&quot; target=&quot;_blank&quot;&gt;Polina Anikeeva&lt;/a&gt;&amp;nbsp;works at the border between synthetic devices and the nervous system. Traditional electronic devices, with hardness like a knife, can trigger a foreign-body response from brain tissue, which typically is as soft as pudding or yogurt. Working with Prof. Yoel Fink and other MIT colleagues, Anikeeva developed soft polymer-based devices to stimulate and record activity of brain and spinal cord tissue borrowing from optical fiber drawing techniques.&lt;/p&gt;
+
+&lt;p&gt;An early version of their&amp;nbsp;&lt;a dir=&quot;ltr&quot; href=&quot;http://news.mit.edu/2015/fibers-deliver-simultaneous-stimuli-0119&quot; rel=&quot;noopener noreferrer&quot; target=&quot;_self&quot;&gt;multi-functional fibers&lt;/a&gt;&amp;nbsp;included three key elements: conductive polyethylene carbon composite electrodes to record brain cell activity; a transparent polycarbonate waveguide with cyclic olefin copolymer cladding to deliver light; and microfluidic channels to deliver drugs.&lt;/p&gt;
+
+&lt;p&gt;“Using this structure, for the first time, we were able to record, stimulate and pharmacologically modulate neural activity,” Anikeeva said. But the device recorded activity from clusters of neurons, not individual neurons. Anikeeva and her team addressed this problem by integrating graphite into the polyethylene composite electrodes, which increased their conductivity enough to shrink them into a structure that is as thin as a human hair. The&amp;nbsp;&lt;a dir=&quot;ltr&quot; href=&quot;http://news.mit.edu/2017/multifunctional-tiny-fibers-brain-0221&quot; rel=&quot;noopener noreferrer&quot; target=&quot;_self&quot;&gt;device&lt;/a&gt;&amp;nbsp;has six electrodes, an optical waveguide and two microfluidic channels.&lt;/p&gt;
+
+&lt;p&gt;Yet adding graphite increased the size and hardness of the glassy polycarbonate device, so her group turned to a new process using rubbery, stretchy polymers that they then coated with a conductive metal nanowire mesh. “This mesh of conductive metal nanowires can maintain low impedance even at 100 percent strain, and it maintains its structural integrity without any changes up to 20 percent strain, which is sufficient for us to operate in the spinal cord,” Anikeeva said.&lt;/p&gt;
+
+&lt;p&gt;Her students implanted these&amp;nbsp;&lt;a dir=&quot;ltr&quot; href=&quot;http://news.mit.edu/2017/stretching-boundaries-neural-implants-0331&quot; rel=&quot;noopener noreferrer&quot; target=&quot;_self&quot;&gt;nanowire-mesh coated fibers&lt;/a&gt;&amp;nbsp;in mice, which allowed them to stimulate and record neural activity in the spinal cord. A video showed a mouse moving its hindlimb when an optical signal delivered to the lumbar spinal cord traveled down the sciatic nerve to the gastrocnemius muscle. In these experiments, the device implanted in mice showed no decline in performance a year after surgery, Anikeeva said.&lt;/p&gt;
+
+&lt;p&gt;More recently, Anikeeva developed iron oxide-based nanoparticles that heat up in an applied magnetic field, which can trigger a response from neurons in the brain that express ion channels that are sensitive to heat such as capsaicin receptor, the same mechanism that is triggered when we eat hot peppers. Experimenting with mice, Anikeeva injected these tiny particles deep in the brain in a section that is associated with reward.&lt;/p&gt;
+
+&lt;p&gt;“In our lab, we have started by modeling hysteresis in magnetic nanoparticles, synthesizing a broad range of these nanomaterials by engineering iron oxide with dopants and looking at different sizes and shapes, developing power electronics and a biological tool kit to assess this process,” Anikeeva explained. “In this case, there is no external hardwire, no wires, no implants, nothing is sticking out of the brain. … However, they can now perceive magnetic field.” she said. To quantify their results, the researchers measured&amp;nbsp;&lt;a dir=&quot;ltr&quot; href=&quot;http://news.mit.edu/2015/magnetic-brain-stimulation-0312&quot; rel=&quot;noopener noreferrer&quot; target=&quot;_self&quot;&gt;calcium ion influx into neurons&lt;/a&gt;. Work is now focused on shortening the response time to a few thousandths of a second by improving the heat output of the magnetic nanoparticles.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Ceramics for solid-state batteries, carbon dioxide&amp;nbsp;sensors, and memristive computing&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a dir=&quot;ltr&quot; href=&quot;https://dmse.mit.edu/faculty/profile/jrupp&quot; rel=&quot;noopener noreferrer&quot; target=&quot;_blank&quot;&gt;Jennifer L. M. Rupp&lt;/a&gt;, the Thomas Lord Assistant Professor of Materials Science and Engineering, presented research showing a solid lithium garnet electrolyte can lead to batteries miniaturized on an integrated circuit chip.&lt;/p&gt;
+
+&lt;p&gt;Safety concerns regarding lithium batteries stem from their liquid component, which serves as the electrolyte and presents a risk of catching fire in air. Replacing the liquid electrolyte with a solid one could make batteries safer, Rupp explained. Her research shows that a ceramic material made of garnet, a material that is perhaps more familiar as a gemstone, can effectively pass lithium through a battery cell, but because it is solid, can be very safe for batteries and also have the opportunity to be miniaturized to thin film architectures. This garnet is a four-element compound of lithium, lanthanum, zirconium and oxygen.&lt;/p&gt;
+
+&lt;p&gt;“The lithium is completely encapsulated; there is no risk of inflammation,” Rupp said.&lt;/p&gt;
+
+&lt;p&gt;In&amp;nbsp;&lt;a dir=&quot;ltr&quot; href=&quot;http://dx.doi.org/10.1002/aenm.201600736&quot; rel=&quot;noopener noreferrer&quot; target=&quot;_blank&quot;&gt;published research&lt;/a&gt;, Rupp showed that pairing a lithium titanium oxide anode with a ceramic garnet electrolyte and blurring the interface between the two materials allowed much faster battery charging time for large-scale cells. Lessons learned from applying these garnet materials pointed also to a new use for carbon dioxide sensing.&lt;/p&gt;
+
+&lt;p&gt;“We can reconfigure the electrodes to have one electrode which simply goes as a reference, and another which undergoes a chemical reaction with carbon dioxide, and we use a tracker potential to track the effective change of carbon dioxide concentration in the environment based on bulk processing,” she explained. Rupp is also developing strained multi-layer materials to improve storage for memristive memory and computing elements.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Frontier for metals at high temperature&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Associate Professor of Metallurgy&amp;nbsp;&lt;a dir=&quot;ltr&quot; href=&quot;https://dmse.mit.edu/faculty/profile/allanore&quot; rel=&quot;noopener noreferrer&quot; target=&quot;_blank&quot;&gt;Antoine Allanore&lt;/a&gt;&amp;nbsp;pointed out that from 1980 to 2010, the world almost doubled its consumption of materials, with the fastest growth in metals and minerals. Such demand is due to the formidable low cost and high productivity of materials processing. The majority of such processes involve at some stage a high temperature operation and often the molten state of matter. Developing the science and engineering of the molten state brings huge opportunities, for example heat management in high-temperature processes such as metals extraction and glass making.&lt;br /&gt;
+&lt;br /&gt;
+Steelmaking, for example, is already a highly efficient manufacturing process, turning out rebar, coil or wires of steel at a cost less than 32 cents per kilogram. “Productivity is actually the key criteria to make materials processing successful and matter at the scale of the challenge of adding 2 billion people in the next 20 years,” he said.&lt;/p&gt;
+
+&lt;p&gt;Allanore’s group demonstrated that tin sulfide at high temperature, about 1,130 degrees Celsius, is an&amp;nbsp;&lt;a dir=&quot;ltr&quot; href=&quot;http://mpc-www.mit.edu/component/k2/item/5983&quot; rel=&quot;noopener noreferrer&quot; target=&quot;_blank&quot;&gt;effective thermoelectric generator&lt;/a&gt;. “We have indications that the theoretical figure of merit for some sulfides, can be up to 1 at 1,130 [degrees Celsius]. For molten copper sulfide for example, we have estimates of the thermal conductivity, the melting point, and we have a cost that is a little bit high in my opinion, but that’s the nature of the research,” Allanore said. When his group looked at existing data, they found that for many molten compounds of sulfur and a metal, such as tin, lead or nickel, the thermoelectric figure of merit, as well as the compositional phases, had never been quantified, opening a frontier for new materials science research at high temperature.&lt;/p&gt;
+
+&lt;p&gt;“It’s actually very difficult to know what are the true properties of the liquid,” Allanore said. “I need to know if that material will have semiconductivity. I need to know if it’s going to be denser or lighter than another liquid. … We don’t actually have computational methods to predict such property for liquids at high temperature.”&lt;/p&gt;
+
+&lt;p&gt;To address the problem, Allanore studied the relation in high-temperature melts between transport properties, including electrical conductivity and Seebeck coefficients, and a thermodynamic property called entropy. “We’ve put together a&amp;nbsp;&lt;a dir=&quot;ltr&quot; href=&quot;https://mpc-www.mit.edu/component/k2/item/5984&quot; rel=&quot;noopener noreferrer&quot; target=&quot;_blank&quot;&gt;theoretical model&lt;/a&gt;&amp;nbsp;that connects the transport property, like thermal power, and the thermodynamic property like entropy. This is important because it works for semiconductors, it works for metallic materials and more importantly it allows to find out regions of immiscibility in liquids,” Allanore said.&amp;nbsp;Immiscibility means a material in the given condition will separate into two phases that do not mix together and remain separate.&lt;/p&gt;
+
+&lt;p&gt;Allanore has also developed a new method for observing molten compounds such as alumina, using a floating zone furnace, which is a transparent quartz tube located at the focal distance of four lamps. “If we can do that with oxides, we would really like to do that with sulfides,” he explained, showing a picture of molten tin sulfide sitting on a graphite plate in the floating zone furnace. The wide range of temperatures and properties of molten materials, “the ultimate state of condensed matter”, allows for better heat management, higher processing temperatures and electricity harvesting or electrical control of heat flow, he said.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3-D printing a new&amp;nbsp;&lt;strong&gt;manufacturing&amp;nbsp;&lt;/strong&gt;model&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Traditional manufacturing requires economies of scale, in particular, large production volumes because of the fixed costs necessary to set up the production process, but 3-D printing and other additive manufacturing technologies offer an alternative of high-performance, customizable products and devices, Associate Professor of Mechanical Engineering&amp;nbsp;&lt;a dir=&quot;ltr&quot; href=&quot;http://meche.mit.edu/people/faculty/ajhart@mit.edu&quot; rel=&quot;noopener noreferrer&quot; target=&quot;_blank&quot;&gt;A. John Hart&lt;/a&gt;&amp;nbsp;said.&lt;/p&gt;
+
+&lt;p&gt;Additive manufacturing is already a $6 billion a year business with reach from Hollywood special effects to high-tech jet engine nozzles. “Additive manufacturing already enables a diverse collection of materials, applications, and related processes – including by extrusion of plastics, melting metals, using lasers, and by coordinated chemical reactions that essentially are done with point wise control,” Hart explained.&lt;/p&gt;
+
+&lt;p&gt;“We can think of accessing new spaces in terms of the value of the products we create using additive manufacturing, also generally known as 3-D printing. 3-D printing is reshaping the axes by which we judge the economic viability of a manufacturing process, and allowing us to access new value spaces. For instance, we can think not only about production volume, but think about advantages in complexity of geometries, and advantages by customization of products to specific markets or even individuals. In these ways, 3-D printing is influencing the entire product life cycle,” Hart said.&lt;/p&gt;
+
+&lt;p&gt;For instance, Hart’s group&amp;nbsp;&lt;a dir=&quot;ltr&quot; href=&quot;http://dx.doi.org/10.1016/j.addma.2017.03.007&quot; rel=&quot;noopener noreferrer&quot; target=&quot;_blank&quot;&gt;studied existing 3-D printers&lt;/a&gt;&amp;nbsp;to discover how to speed up the process from about 60 minutes to just 5 to 10 minutes to print a handheld mechanical part such as a gear. Former graduate student Jamison Go, SM &#039;15&amp;nbsp;led this work, Hart said, building a desktop 3-D printer about the size of a small microwave oven. The system features a control system for the printhead that moves the motors to the corner; an extrusion mechanism that drives the feedstock polymer filament like a screw; and a laser that penetrates and melts the polymer.&lt;/p&gt;
+
+&lt;p&gt;“By combining the fast motion control, the high heat transfer, and the high force, we can overcome the limits of the existing system,” Hart explained. The new design is three to 10 times faster in build rate than existing machines.&lt;/p&gt;
+
+&lt;p&gt;“These kinds of steps forward can also change how we think about producing objects. If you can make something fast, you can think about how you might, or how others might, work differently,” he said. He mentioned, for instance, physicians who may need to 3-D print a part for an emergency medical operation, or a repair technician who could use a 3-D printer rather than hold inventory of many spare parts.&lt;/p&gt;
+
+&lt;p&gt;Hart’s group is currently working in collaboration with&amp;nbsp;&lt;a dir=&quot;ltr&quot; href=&quot;https://www.ornl.gov&quot; rel=&quot;noopener noreferrer&quot; target=&quot;_blank&quot;&gt;Oak Ridge National Lab&lt;/a&gt;&amp;nbsp;on algorithms for optimization of 3-D printing toolpaths, and adapting his innovations to large-scale 3-D&amp;nbsp;printers. “We can think about upscaling these principles to high productivity systems that are not only printing small things but printing big things,” Hart said.&lt;/p&gt;
+
+&lt;p&gt;Hart has also worked with 3-D printing of&amp;nbsp;&lt;a dir=&quot;ltr&quot; href=&quot;http://news.mit.edu/2017/3-d-printing-cellulose-0303&quot; rel=&quot;noopener noreferrer&quot; target=&quot;_blank&quot;&gt;cellulose&lt;/a&gt;, which can be used for customization of consumer products and antimicrobial devices, and is the world’s most abundant natural polymer. He co-founded the company Desktop Metal with three other MIT faculty members and Ric Fulop, SL ’06, who serves as Desktop Metal’s CEO. “The company is only two years old and will soon ship its first product which enables an entirely new approach to metal 3-D printing,” Hart said.&lt;/p&gt;
+</content:encoded><media:content url="http://news.mit.edu/sites/mit.edu.newsoffice/files/styles/article_cover_image_original/public/images/2017/Materials-Day-2017-Polina-Anikeev-MIT-00.png" type="image" width="1080" height="720"><media:description type="plain">New tools for brain exploration: Class of 1942 Associate Professor in Materials Science and Engineering Polina Anikeeva and colleagues developed soft polymer-based devices to stimulate and record activity of brain and and spinal cord tissue.</media:description><media:credit> Photo: Denis Paiste/MIT MRL</media:credit></media:content><story:tags>3-D printing, Batteries, DMSE, Materials Science and Engineering, School of Engineering, Materials Research Laboratory, Special events and guest speakers</story:tags>  </item>
+  <item>
+    <title>Why we should welcome warnings</title>
+    <link>http://news.mit.edu/2017/starr-forum-welcome-warnings-1103</link>
+    <description>At MIT event, experts call for a new approach to worst-case scenarios.</description>
+     <pubDate>Fri, 03 Nov 2017 10:00:00 -0400</pubDate>
+ <dc:creator>Peter Dizikes | MIT News Office</dc:creator>
+ <guid isPermaLink="true">http://news.mit.edu/2017/starr-forum-welcome-warnings-1103</guid>
+<content:encoded>&lt;p&gt;Nuclear accidents. Sea level rise. Terror threats. The world is full of potential catastrophes, but most of the time, most of us are oblivious to them.&lt;/p&gt;
+
+
+
+&lt;p&gt;Still, at times, experts warn the rest of us about these potential crises. Sometimes those warnings work, but many times they go unheeded. Why do we ignore information we could use to stave off a disaster?&lt;/p&gt;
+
+
+
+&lt;p&gt;Prominent national security expert Richard Clarke SM ’79 weighed in on this issue at MIT’s latest Starr Forum event on Wednesday, making the case that we should be more receptive to the possibility of dire news, as well as more systematic about analyzing it.&lt;/p&gt;
+
+
+
+&lt;p&gt;Clarke, the former chief counter-terrorism advisor on the National Security Council, expanded on ideas in his new book, “Warnings,” asserting that specialists in a range of fields can “see the thing buried in the data that other people don’t see. They see it first.”&lt;/p&gt;
+
+
+
+&lt;p&gt;Clarke called these people “Cassandras,” after the figure in Greek mythology who could see the future, and described them as experts with accumulated knowledge and a willingness to explore worst-case scenarios.&lt;/p&gt;
+
+
+
+&lt;p&gt;“It just can’t be any old person off the street saying the sky is falling,” Clarke said. “It&lt;/p&gt;
+
+&lt;p&gt;has to be a recognized, acknowledged expert in the field they were giving the warning in. … They had to have studied it and been data-driven.”&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;strong&gt;Prove me wrong&lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;Examples of this dynamic abound. Engineers warned that Japan’s nuclear power industry was vulnerable to natural disasters well before the Fukushima earthquake and tsunami of 2011. Experts stated that New Orleans was vulnerable to flooding before Hurricane Katrina hit in 2005. Climate scientists, for decades, have warned the world that global warming could upend life as we know it.&lt;/p&gt;
+
+
+
+&lt;p&gt;And Clarke, for his part, gained a significant public profile after being one of the U.S. security officials most concerned about the threat of the al Qaeda terror group before the attacks of Sept. 11, 2001.&lt;/p&gt;
+
+
+
+&lt;p&gt;But plenty of dire-sounding warnings can also be unfounded and ultimately incorrect. So how can leaders — in government, business, or elsewhere — distinguish between legitimate fears and simplistic scare-mongering?&lt;/p&gt;
+
+
+
+&lt;p&gt;To Clarke, a person with a legitimate warning to offer will be willing to have their ideas tested by others: “Cassandras repeatedly say, ‘Well, I gave my data to other experts in the field and said, prove me wrong, and none of them could. They could never prove my data wrong.’”&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;strong&gt;Why not act?&lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;But if experts are often raising concerns, why do those warnings get ignored? Clarke emphasized that being quick to recognize concerns produces its own set of problems, starting with a lack of consensus. When experts are “yelling to a decison maker, ‘There’s a problem,’ the decision maker says, ‘Yeah? Who else believes you? What other experts in the field agree?’”&lt;/p&gt;
+
+
+
+&lt;p&gt;Then too, Clarke said, data-based concerns over catastrophes can be ignored due to what he calls “first occurrence syndrome,” namely, the fact that many potential problems have “never happened before, in the memory of the people involved.” New Orleans, for example, had never previously flooded to the degree that it did due to Hurricane Katrina. It is easier to imagine that history will continue within its recent bounds. &amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p&gt;Meanwhile, Clarke noted, there can be a “diffusion of accountability” in organizations. One data scientist re
+00006000
+peatedly told the firm Equifax recently that it was vulnerable to being hacked, he said. But the responsibility for acting on that was essentially distributed among several people — which can lead to institutional inertia.&lt;/p&gt;
+
+
+
+&lt;p&gt;Additionally, Clarke added, to stave off disaster, especially in matters related to climate change, “You might have to do something ideologically abhorrent to you. You might have to raise taxes or try carbon capture or enact regulations.” Thus solutions mean to pre-empt catastrophes of all kinds can languish.&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;strong&gt;See the sea rise&lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;The Starr Forum consists of a series of public discussions, sponsored by MIT’s Center for International Studies, focused on global security issues and other matters of international politics. About 125 people attended the event Wednesday, which was open to the public.&lt;/p&gt;
+
+
+
+&lt;p&gt;Clarke’s remarks were followed by a dialogue with counterintelligence expert and Center for International Studies Fellow Joel Brenner, as well as a question-and-answer session with the audience.&lt;/p&gt;
+
+
+
+&lt;p&gt;In his remarks, Clarke observed that being a “Cassandra” can take a heavy psychological toll on experts who find their ideas marginalized.&lt;/p&gt;
+
+
+
+&lt;p&gt;“A lot of these people get agitated when they are ignored,” he said.&lt;/p&gt;
+
+
+
+&lt;p&gt;Brenner largely concurred, but wryly noted that “a lot of these people have a special talent for burning bridges” within the organizations they are serving. Still, Brenner noted, the complications of contemporary society and technology mean it is generally safe to assume, at any given time, that “something is going seriously wrong somewhere.”&lt;/p&gt;
+
+
+
+&lt;p&gt;Asked to produce a hierarchy of issues for us to worry about, Clarke emphasized the vast problems that sea level rise, as a product of climate change, could create in the decades ahead. Rather than the consensus estimate of 3 meters of sea level rise by the year 2100, Clarke stated, we could see 6 to 9 meters of sea level rise by 2050 or 2075.&lt;/p&gt;
+
+
+
+&lt;p&gt;‘Think about the economic, political, social implications of that,” Clarke said. “Some countries diappear. Mass migrations of people.” He also cited the potential for economic “collapse” in some areas.&lt;/p&gt;
+
+
+
+&lt;p&gt;Still, Clarke did try to inject some hope into the proceedings.&lt;/p&gt;
+
+
+
+&lt;p&gt;“I believe in good government’s ability to be rational and save the world from some of these disasters,” Clarke said, adding: “I think it’s an optimistic book, because it holds out the hope that if you had systematic thinking [and] rational analysis, systems thinking, if you want to call it that, we could see problems coming, and stop them from being really big problems.” &amp;nbsp;&lt;/p&gt;
+</content:encoded><media:content url="http://news.mit.edu/sites/mit.edu.newsoffice/files/styles/article_cover_image_original/public/images/2017/MIT-Starr-Cassandras-1.jpg" type="image" width="948" height="632"><media:description type="plain">Left to right: Richard Clarke SM ’79, former national coordinator for Security, Infrastructure Protection and Counter-terrorism for the United States; and Joel Brenner, former head of counterintelligence under the Director of National Intelligence for the United States and Senior Research Fellow at the MIT Center for International Studies and CSAIL.
+</media:description><media:credit>Courtesy of the MIT Center for International Studies</media:credit></media:content><story:tags>SHASS, Center for International Studies, International relations, Security studies and military, Policy, Government, Climate change, Books and authors, Special events and guest speakers, Alumnai/ae</story:tags>  </item>
+  <item>
+    <title>“A good negotiator can be exactly who you are&amp;quot;</title>
+    <link>http://news.mit.edu/2017/class-negotiation-skills-1103</link>
+    <description>Bruno Verdini leads a popular new class on negotiation skills.</description>
+     <pubDate>Thu, 02 Nov 2017 23:59:59 -0400</pubDate>
+ <dc:creator>Meg Murphy | School of Engineering</dc:creator>
+ <guid isPermaLink="true">http://news.mit.edu/2017/class-negotiation-skills-1103</guid>
+<content:encoded>&lt;p&gt;Marol Escajeda ’17 is trained in materials science and engineering, yet she finds that success on the job pivots on her leadership and negotiation abilities. “Your skills have to extend beyond your technical field,” says Escajeda, a materials and processes engineer at the aerospace and defense technology company Northrop Grumman. “You need the ability to handle intense interpersonal situations.”&lt;/p&gt;
+
+
+
+&lt;p&gt;She and Matthew Basile ’17, an electrical engineering and computer science major, earned their undergraduate degrees at MIT last year. Now a program manager at Microsoft, Basile says: “My current job is nontechnical. I’m working with engineers to get product features implemented on time. I rely on advocacy skills.”&lt;/p&gt;
+
+
+
+&lt;p&gt;These young engineers are former students in 11.011 (The Art and Science of Negotiation), which has grown into one of the most popular and highest-ranked Humanities, Arts, and Social Sciences electives at MIT. “It was one of the best classes I took at MIT,” Escajeda says. Basile is similarly enthusiastic: “In all honesty, 11.011 was by far the most relevant class for what I’m doing now.”&lt;/p&gt;
+
+
+
+&lt;p&gt;While at MIT, Escajeda and Basile also participated in the Gordon-MIT Engineering Leadership (GEL) Program, which helps develop leadership skills among more than 120 undergraduates per year. “If you appreciate the value of personal interaction, 11.011 is for you,” Escajeda says. “Like with GEL, you’ll get out what you put in, and you’ll find it really applicable to life beyond engineering classes.”&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;strong&gt;Seeking people skills&lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;The popularity of 11.011 coincides with the arrival of Bruno Verdini, a recent MIT PhD graduate in “Negotiation, Communication, Diplomacy, and Leadership” — an interdepartmental degree he negotiated into existence. In the spring of 2016, Eran Ben-Joseph, the chair of MIT’s Department of Urban Studies and Planning, invited Verdini to teach the undergraduate course.&lt;/p&gt;
+
+
+
+&lt;p&gt;The transformation of 11.011 was immediate. Verdini redesigned the entire course syllabus, introducing 25 new sessions with new readings and new negotiation exercises. He capped the class size at 42 to guarantee familiarity with every student and optimize weekly role-playing simulations, which involve practicing communication, collaboration, and leadership strategies.&lt;/p&gt;
+
+
+
+&lt;p&gt;The subject’s popularity skyrocketed. The course had previously attracted about 35 students per year. In the fall of 2016, 85 students from all five schools and more than 20 departments preregistered for 11.011; in spring 2017, there were 180, and this semester there were 230.&lt;/p&gt;
+
+
+
+&lt;p&gt;The enthusiasm for 11.011 is evidence, Verdini says, of a broader emphasis in students’ core concerns. “MIT students don’t want to get put in a corner in the workplace to only do things that require technical dexterity, while other people do the management,” he says. “They want to develop their people skills and showcase their strategic vision. And they want more professional recognition for their abilities in this area.”&lt;/p&gt;
+
+
+
+&lt;p&gt;This is one of the reasons Verdini structured the course around peer-to-peer feedback. He aims to empower both those students in the class and on the teaching team to take center stage in negotiation coaching. “One of the coolest parts of 11.011 is the guidance from the TAs,” Basile says.&lt;/p&gt;
+
+
+
+
+
+&lt;p&gt;&lt;strong&gt;Makings of a good negotiator&lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;Verdini’s career is marked by firsts. Not only did he develop a path to his own PhD at MIT, but for his doctoral work in water, environmental, and energy negotiations between countries, he was the first MIT recipient of the Harvard Law School Award for the Best Research of the Year in Negotiation, Decision-Making, Mediation, and Dispute Resolution. This also marked the first time the award went to someone born and raised in Latin America.&lt;/p&gt;
+
+
+
+&lt;p&gt;This spring, Verdini will offer 11.111 (The Art and Science of Negotiation, Advanced Applications), “one of the first advanced undergraduate courses in negotiation at a top U.S. university,” says his mentor Professor Lawrence Susskind, one of the founding fathers of the conflict resolution field with five decades of expertise. The upper-level course is a direct response to student demand for more of the material — and more of Verdini.&lt;/p&gt;
+
+
+
+&lt;p&gt;His ability to ignite passion for negotiation is a common theme in course evaluations from the last three semesters. Students discover passion in themselves, and see it in him. “Even when sick, exhausted, or in a horrible mood, I dragged myself out of bed for his lectures,” wrote Tatyana Gubin, co-founder of a thriving startup, in the fall of 2016. “And I would leave inspired, educated, and ready to tackle the next negotiation.”&lt;/p&gt;
+
+
+
+&lt;p&gt;“Negotiation allows you to share your values and principles with others,” says Verdini, also executive director of the MIT-Harvard Mexico Negotiation Program and author of &lt;em&gt;Winning Together: The Natural Resource Negotiation Playbook&lt;/em&gt;, which is published by MIT Press and hits the bookshelves this December. “Our world suffers when people disconnect intellectual decisions from what they feel inside. My teaching and research is structured as a personal journey that centers around negotiation as a means to get to know yourself better.”&lt;/p&gt;
+
+
+
+&lt;p&gt;MIT students often enter his class aware of only one side of themselves, Verdini adds. They might see themselves as shy, or guarded, or without the personality to be a good negotiator. They discover otherwise. “A good negotiator can be exactly who you are — caring, attentive, and someone who thinks of others,” he says. “You can be all of those things and at the same time lead and facilitate solutions to make a better world.”&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;strong&gt;Connecting the dots&lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;Ben-Joseph says the class serves the wider undergraduate population by, among other things, shifting their thinking in new ways. “Students learn that negotiation is part of how you deal with ethics, with power, with politics, with decision making,” he says. “They come out of this class more rounded and sensitive adults as they enter the workforce and deal with issues of life.”&lt;/p&gt;
+
+
+
+&lt;p&gt;In the fall of 2018, MIT students will have an opportunity to take a deeper dive into such thinking with a new HASS Concentration in Negotiation and Leadership, which will offer a diverse roster of classes in the relevant subject area to fulfill an Institute requirement designed to deepen and broaden student learning.&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p&gt;MIT chemical engineering alumna Alexandria Miskho ’17, who consults in New York City on how businesses account for climate risks, is a former 11.011 teaching assistant who was at the forefront of student-led efforts to create the concentration. “We need to enter the world with a comprehensive negotiation toolkit,” she says.&lt;/p&gt;
+
+
+
+&lt;p&gt;Jillian Dressler has discovered as much,&amp;nbsp;in tandem with many of her professional female colleagues.&amp;nbsp;Dressler, a senior in civil and environmental engineering, says 11.011 empowered her to push back against discrimination. “As many of us have unfortunately experienced,&amp;nbsp;there are times when I’ve been made to feel uncomfortable as a woman,” says Dressler, now a teaching assistant in the course. “I would never have possessed the&amp;nbsp;resolve&amp;nbsp;to initiate a conversation about it before 11.011. Now I do. I take on difficult situations. I’ve discovered strengths that I never knew I had.”&lt;/p&gt;
+</content:encoded><media:content url="http://news.mit.edu/sites/mit.edu.newsoffice/files/styles/article_cover_image_original/public/images/2017/MIT-Negotiation-Class-1.jpg" type="image" width="948" height="632"><media:description type="plain">Bruno Verdini leads a class discussion for 11.011 (The Art and Science of Negotiation.) Verdini is a lecturer on urban planning and negotiation in the MIT Department of Urban Studies and Planning, as well as the executive director of the MIT-Harvard Mexico Negotiation Program.
+</media:description><media:credit>Photo: Tom Gearty</media:credit></media:content><story:tags>School of Architecture and Planning, Urban studies and planning, Classes and programs, Business and management, School of Engineering, Students, Faculty, Alumnai/ae</story:tags>  </item>
+  <item>
+    <title>Tech and Tec: Nanoscale international engagement</title>
+    <link>http://news.mit.edu/2017/tec-and-tech-fostering-engagement-international-nanoscale-1102</link>
+    <description>Monterrey Tec Chairman José Antonio Fernández Carbajal tours MIT.nano during his first meeting as the newest member of the MIT Corporation.</description>
+     <pubDate>Thu, 02 Nov 2017 12:55:00 -0400</pubDate>
+ <dc:creator>Tina Gilman | MIT.nano</dc:creator>
+ <guid isPermaLink="true">http://news.mit.edu/2017/tec-and-tech-fostering-engagement-international-nanoscale-1102</guid>
+<content:encoded>&lt;p&gt;On Oct. 4, MIT.nano and the Microsystems Technology Laboratories (MTL) received a visit from José Antonio Fernández Carbajal, chair of the board of Instituto Tecnológico y de Estudios Superiores de Monterrey (ITESM), casually known as Monterrey Tec. Fernandez Carbajal was at MIT for his first meeting as the newest member of the MIT Corporation&amp;nbsp;and&amp;nbsp;reserved time to tour MIT.nano and get an update on its progress.&lt;/p&gt;
+
+&lt;p&gt;Monterrey Tec is a private, nonprofit, independent institution in Mexico known for its emphasis on social responsibility and entrepreneurship. It was founded in 1943 by Don Eugenio Garza Sada, who graduated from MIT with a bachelor&#039;s degree&amp;nbsp;in civil engineering in 1914, just before the new Cambridge, Massachusetts campus opened.&lt;/p&gt;
+
+&lt;p&gt;In 2015, MIT and Monterrey Tec established a program, MIT-Tec, designed to support the Tec in its quest to become a world-class research university. Initiated by Vladimir Bulović, associate dean for innovation and director of MIT.nano, and led by MTL Director Jesús del Alamo, the&amp;nbsp;program hosts research visits of Monterrey Tec’s students, postdocs, and faculty at MIT in the general areas of nanotechnology and nanoscience.&amp;nbsp;To date, eight different research groups at MIT have already hosted extended stays for&amp;nbsp;five Monterrey Tec students, seven postdocs, and four professors. Eight more are scheduled to arrive in the next few months. Their areas of research encompass microfluidics, nanostructures for biomedical applications, telecommunications, nanoscale 3-D printing, microelectromechanical systems (MEMS), and organ-on-a-chip.&lt;/p&gt;
+
+&lt;p&gt;The hands-on research underpins a robust and&amp;nbsp;growing program of MIT-Tec educational exchanges. In May 2016, the &quot;MIT Day at the Tec: Workshop on Sensors and Actuators&quot; hosted 11 MIT and 12 Tec technical presentations at the Monterey Tec campus. Over the last three years at MIT, more than 70 Tec students, postdocs, and professors have attended the MTL nanoLab, a one-week hands-on course on nanotechnology.&lt;/p&gt;
+
+&lt;p&gt;Monterrey Tec is an esteemed partner of MIT.nano, which will open its new building&amp;nbsp;in&amp;nbsp;mid-2018. Visiting Monterrey Tec students, postdocs, and faculty will be conducting research in the new state-of-the-art facility, including the prototyping facility, which will be named in recognition and appreciation of Monterrey Tec and its valued partnership with MIT.&lt;/p&gt;
+</content:encoded><media:content url="http://news.mit.edu/sites/mit.edu.newsoffice/files/styles/article_cover_image_original/public/images/2017/Monterrey-Tec-Jose-Antonio-Fernandez-Carbajal-visit-MIT-00.jpeg" type="image" width="2000" height="1333"><media:description type="plain">Touring the MIT.nano site are (l-r) Jesús del Alamo, director of the MIT Microsystems Technology Laboratories; Vladimir Bulović, associate dean for innovation and director of MIT.nano; José Antonio Fernández Carbajal, chariman of Monterrey Tec; and Marco Munoz, senior director of MIT’s Office of Philanthropic Partnerships.</media:description><media:credit>Image courtesy of MIT Microsystems Technology Laboratories</media:credit></media:content><story:tags>School of Engineering, School of Science, Campus buildings and architecture, International initiatives, Nanoscience and nanotechnology, MIT.nano, Mexico, Collaboration</story:tags>  </item>
+  <item>
+    <title>Author Édouard Louis examines contexts for violence</title>
+    <link>http://news.mit.edu/2017/mit-author-edouard-louis-examines-contexts-for-violence-1102</link>
+    <description>The acclaimed writer, whose work has become a cause célèbre in France and beyond, speaks as part of the MIT Global France Seminar series.</description>
+     <pubDate>Thu, 02 Nov 2017 12:40:00 -0400</pubDate>
+ <dc:creator>School of Humanities, Arts, and Social Sciences</dc:creator>
+ <guid isPermaLink="true">http://news.mit.edu/2017/mit-author-edouard-louis-examines-contexts-for-violence-1102</guid>
+<content:encoded>&lt;p&gt;At the MIT Global France Seminar on Oct. 27, author Édouard Louis demonstrated to an overflow MIT audience why his writing has become a cause célèbre in France and beyond. During the event, the fourth in this year’s lecture and discussion series, the 25-year-old Louis read from work that simultaneously links the personal to the political and that describes, with brutal candor, growing up poor, gay, and persecuted.&lt;/p&gt;
+
+&lt;p&gt;The seminar series, sponsored by the French Initiatives Endowment Fund, was founded by Bruno Perreau, the Cynthia L. Reed Associate Professor of French Studies, who also served as the event&#039;s moderator.&lt;/p&gt;
+
+&lt;p&gt;Louis introduced his talk in eye-opening fashion.&lt;/p&gt;
+
+&lt;p&gt;“If we consider politics to be the governance of human beings by other human beings and the existence of individuals within a community that they didn’t choose, then politics is the distinction between populations where life is supported, promoted, protected, and populations that are exposed to persecution, murder, and death,” he said.&lt;br /&gt;
+&lt;br /&gt;
+Throughout the evening, Louis drew on vivid and often savage details from his personal history —&amp;nbsp;a trademark of his writing. His first book, &quot;The End of Eddy,&quot;&amp;nbsp;is an autobiographical novel describing the flight of Eddy Bellegueule (Louis’ name at birth) from his working-class family and the village of Hallencourt in northern France.&lt;br /&gt;
+&lt;br /&gt;
+A bestseller in France and translated into dozens of languages, the novel describes what it is like growing up poor, queer, and bookish in a family that struggles to put food on the table, and derides both homosexuality and education. Shamed and physically bullied by family and schoolmates, Louis escaped to university in Paris, where he turned to writing as a way not just of examining the violence he was exposed to growing up, but as a way of understanding the context in which such violence could arise.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Responses to violence&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;“If you suffer from violence all your life, in the end you inflict it upon others, for example, upon gays, upon what people call ‘strangers,’” Louis has said in interviews.&lt;/p&gt;
+
+&lt;p&gt;The kind of unemployment and hardscrabble lives his family and others endured in Hallencourt was a form of violence, he said, perpetrated on this community by an indifferent state. And this violence cascades beyond its immediate victims.&lt;br /&gt;
+&lt;br /&gt;
+The preoccupation with violence is central to his most recent work: &quot;History of Violence: A Novel,&quot; which will appear in English translation in summer 2018. The novel concerns the story of a romantic liaison on Christmas Eve 2012 that goes terribly wrong, leading to Louis’ rape and near-death.&lt;br /&gt;
+&lt;br /&gt;
+But as Louis explained to his MIT audience, the conventional means of securing justice through the French legal system did not sit right with him.&lt;/p&gt;
+
+&lt;p&gt;“Talking about this trauma with the police, they made more suffering and punishment,” said Louis. “They took pictures of my body, humiliating me, stealing my body again, and used these pictures to put somebody in jail.”&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Louis also learned that his assaulter had previously served time, and had his own difficult history. “The guy was violent, but I didn’t want him in jail, I didn’t want my body used to inflict hurt and revenge, creating more violence,” he said.&lt;br /&gt;
+&lt;br /&gt;
+&lt;strong&gt;Politics as a matter of life and death&lt;/strong&gt;&lt;br /&gt;
+&lt;br /&gt;
+This capacity to transform personal suffering into a meditation on the larger wounds society inflicts on the powerless and marginalized defines Louis’ literary voice. He read excerpts from a new work, a series of vignettes about his relationship to his father, addressed to his father, who lies tethered to a machine to help him breathe — the victim of a factory accident years ago that left him permanently disabled.&lt;br /&gt;
+&lt;br /&gt;
+“After I ran away, I said I hated you, and felt the need to tell others I detested you. ... You told people in a café you’d have preferred a different son. I felt like I wanted to die. When you drank you said you didn’t understand. You were a victim as much of the violence you dispensed as the violence you endured.’”&lt;br /&gt;
+&lt;br /&gt;
+Louis described policies enacted by a succession of French leaders that took a terrible toll on his father’s health. For instance, in 2006, then-French President Jacques Chirac raised the cost of medicine his father needed to avoid digestive disorders: “Chirac made you sick to your stomach.” And when President Nicolas Sarkozy decided to reduce welfare benefits to encourage a return to work by the poor, Louis father was forced to accept a job as street sweeper in a city 40 miles away, in spite of his disastrous health.&lt;/p&gt;
+
+&lt;p&gt;“Sarkozy broke your back,” said Louis. “Politics is a question of life and death.”&lt;br /&gt;
+&lt;br /&gt;
+&lt;strong&gt;The effects of inequities&lt;/strong&gt;&lt;br /&gt;
+&lt;br /&gt;
+During a question-and-answer session&amp;nbsp;with the audience, Louis suggested that the rise of right wing extremism worldwide, often linked to attacks on vulnerable communities, flows from class inequities that leave the working class neglected and powerless.&lt;br /&gt;
+&lt;br /&gt;
+“The reason why people from my village voted for Le Pen, or people here voted for your president is because there is a lack of representation for the working class,” said Louis.&lt;br /&gt;
+&lt;br /&gt;
+Confronting structural inequality and violence, Louis concluded, must involve acknowledging the reality of the working class and that their oppression shares a common root with the persecution of gay, immigrant, and racial minorities.&lt;/p&gt;
+
+&lt;p&gt;“The world is so full of fiction, with leaders who lie to us, and pretend to help people like my family when they only care about the rich,” he said.&lt;/p&gt;
+
+&lt;p&gt;Whether through academic research, writing novels, painting, or demonstrating, he said, “it is urgent, it is necessary to build new spaces to address the question of domination and exclusion.”&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Story prepared by MIT SHASS Communications&lt;br /&gt;
+Writer: Leda Zimmerman&lt;/em&gt;&lt;/p&gt;
+</content:encoded><media:content url="http://news.mit.edu/sites/mit.edu.newsoffice/files/styles/article_cover_image
+000028FF
+_original/public/images/2017/French-writer-edouard-louis-speech-MIT-00.jpg" type="image" width="1200" height="800"><media:description type="plain">The capacity to transform personal suffering into a meditation on the larger wounds society inflicts on the powerless and marginalized defines Edouard Louis’ literary voice.</media:description><media:credit>Photo: John Foley </media:credit></media:content><story:tags>SHASS, Books and authors, Literature, languages and writing, Lesbian, gay, bisexual, transgender, queer/questioning (LGBTQ), Politics, Poverty, France, Writing, Special events and guest speakers</story:tags>  </item>
+  <item>
+    <title>MIT joins court brief in support of “Dreamers”</title>
+    <link>http://news.mit.edu/2017/mit-joins-court-brief-support-dreamers-1102</link>
+    <description>Legal filing is part of larger set of Institute actions to aid DACA students.</description>
+     <pubDate>Thu, 02 Nov 2017 11:00:00 -0400</pubDate>
+ <dc:creator>Peter Dizikes | MIT News Office</dc:creator>
+ <guid isPermaLink="true">http://news.mit.edu/2017/mit-joins-court-brief-support-dreamers-1102</guid>
+<content:encoded>&lt;p&gt;MIT, together with 18 peer institutions, has filed an amicus curiae brief in a federal court lawsuit challenging the repeal of the Deferred Action for Childhood Arrivals (DACA) program — part of a growing set of Institute actions designed to support MIT community members affected by changes to federal immigration policy.&lt;/p&gt;
+
+
+
+&lt;p&gt;In the brief, the schools focus on the effects the repeal of DACA will have on their DACA-protected students and recent graduates whose status as U.S. residents depends on the program; the impact that ending DACA would have on the institutions’ ability to attract the most talented students; and the loss to the nation if these individuals are not able to stay in the U.S. and use their talents and education to contribute to society.&lt;/p&gt;
+
+
+
+&lt;p&gt;Those students, the brief notes, are some of the most gifted and motivated young people in the world. However, with the repeal of DACA, the brief adds, many students now risk being unable to obtain the “full and complete education” they have been working toward since being brought to the U.S. as children.&lt;/p&gt;
+
+
+
+&lt;p&gt;U.S. residents dependent on DACA are often referred to as “Dreamers,” after the proposed legislation known as the “DREAM Act,” which was introduced in Congress over a decade ago but has not yet passed.&lt;/p&gt;
+
+
+
+&lt;p&gt;The brief highlights the real-life situations of a number of undocumented students and recent graduates, including two MIT students — one a recent graduate, the other still enrolled — who have benefited from the protections afforded by DACA.&lt;/p&gt;
+
+
+
+&lt;p&gt;One of them, Jose Gomez ’17, an aerospace engineering major who participated in NASA research as an MIT student, was brought to the U.S. by his family at age 5; he is now working for a robotics startup and is a public advocate for DACA. The other, sophomore Johan Villanueva, is a chemical engineering major who graduated second in his class from Chicago’s largest public high school after serving as a co-captain of the math team, volunteering to help the homeless, and being named to the National Honor Society.&lt;/p&gt;
+
+
+
+&lt;p&gt;“Though they are called Dreamers, these young people are doers, in the best American tradition,” says MIT President L. Rafael Reif. “They are undocumented through no fault of their own. And when our government offered them an opportunity to come out of the shadows, they did — because they trusted that they would not be punished for doing so. I believe that as a nation we owe them fairness and certainty.”&lt;/p&gt;
+
+
+
+&lt;p&gt;The brief was submitted in support of the plaintiffs in &lt;em&gt;State of California, et al. v. U.S. Department of Homeland Security, et. al&lt;/em&gt;, and &lt;em&gt;Regents of University of California, et al. v. U.S. Department of Homeland Security, et al.&lt;/em&gt;, and was filed on Nov. 1. For purposes of the issues the court is currently considering, these cases have been consolidated with two other cases challenging DACA. MIT expects to join its peers in filing a similar brief in a lawsuit filed in New York by 16 states (including Massachusetts) and the District of Columbia.&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;strong&gt;Legal residents hope for permanent status&lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;The DACA program, established by the Obama administration in 2012, applies to about 800,000 U.S. residents who were brought to the country as children but have not acquired legal immigration status. In September, the Trump administration announced the rescission of the DACA program, effective in March 2018.&lt;/p&gt;
+
+
+
+&lt;p&gt;Under DACA, Dreamers were permitted to reside in the U.S. without fear of deportation and were able to obtain authorization to work legally. DACA protection lasted for two years (with renewals possible) but did not include a standardized path to citizenship.&lt;/p&gt;
+
+
+
+&lt;p&gt;Under the specific terms of the rescission, those with DACA status could lose their protections as early as March 2018, although some have applied for a two-year extension of this protection before an October 2017 deadline.&lt;/p&gt;
+
+
+
+&lt;p&gt;MIT’s amicus brief makes the case that DACA recipients, who by definition are the product of this nation’s education system, have much to give back to the country that raised them. Rescinding DACA, the brief argues, would waste a tremendous national investment by forcing these talented young people to return to the shadows of our society.&lt;/p&gt;
+
+
+
+&lt;p&gt;“Every MIT student deserves the same opportunities to study, to work, to travel — in short, to thrive here,” says MIT Chancellor Cynthia Barnhart. “By joining our peer institutions in filing this amicus brief to preserve the DACA program, we are again showing that MIT stands firmly behind our nation&#039;s Dreamers. And by continuing to provide MIT’s DACA students with the direct support and resources they need during this uncertain time, we are showing that our commitment to them will not change, regardless of what happens in Washington.&quot;&lt;/p&gt;
+
+
+
+&lt;p&gt;In a &lt;em&gt;Washington Post&lt;/em&gt;/ABC News poll released in September, 86 percent of respondents said they supported the DACA program.&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;strong&gt;Overview: MIT’s resources for Dreamers&lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;The new amicus brief is one example of many activities MIT has engaged in to support international members of its community in the face of changing immigration policy. These measures include public advocacy on the subject by MIT President L. Rafael Reif, dedicated legal support for DACA students, information briefings on campus, an MIT working group to monitor post-election changes in federal policies, and multiple open letters to the entire MIT community informing them about the Institute&#039;s evolving efforts and resources on this front. MIT has also joined with groups of colleges and universities to issue open letters in support of DACA and the Dreamers.&lt;/p&gt;
+
+
+
+&lt;p&gt;President Reif has emerged as a high-profile advocate on behalf of the Dreamers. In &lt;a href=&quot;https://www.bostonglobe.com/opinion/2017/08/31/trump-shouldn-repeal-daca/9sqIjciw0UseCKGTSVCRlK/story.html&quot;&gt;an opinion piece&lt;/a&gt; published in &lt;em&gt;The Boston Globe&lt;/em&gt; on Aug. 31, he stated that pushing Dreamers out of the U.S. would constitute &quot;throwing away a tremendous national investment.&quot;&lt;/p&gt;
+
+
+
+&lt;p&gt;In the piece, Reif added, terminating the DACA program would also be &quot;a violation of deep American principles. The plight of the Dreamers presents a profound question of fairness. Often starting from harsh personal circumstances, these young people have done what any American family might dream of for their child: Study hard, aim high, and earn a degree or a place in college or the military, on the road to a productive career.&quot;&lt;/p&gt;
+
+
+
+&lt;p&gt;Reif also joined the &lt;a href=&quot;https://www.dreamcoalition.us/&quot;&gt;Dream Coalition&lt;/a&gt;, a nonprofit advocacy group with national scope that is seeking a permanent legislative solution for DACA-eligible U.S. residents — a step he also endorsed in his &lt;em&gt;Boston Globe&lt;/em&gt; piece.&lt;/p&gt;
+
+
+
+&lt;p&gt;This fall, MIT partnered with an outside immigration attorney to provide all DACA students with free legal consultations.&lt;/p&gt;
+
+
+
+&lt;p&gt;In January of 2017, MIT also established a &lt;a href=&quot;http://chancellor.mit.edu/monitoring-student-access-issues&quot;&gt;Post-Election Working Group&lt;/a&gt; to monitor and evaluate the evolution of federal policy regarding immigration and other related topics. In coordination with the Office of the Chancellor and the Office of the General Counsel, the group, chaired by associate professor of history Christopher Capozzola, has hosted two on-campus immigration briefings to inform the community of current developments. MIT has also developed &lt;a href=&quot;http://chancellor.mit.edu/faq-information-about-undocumented-students-at-mit&quot;&gt;FAQ pages&lt;/a&gt; available to the community, and, through the International Students Office and International Scholars Office, provides travel advice and other guidance to students and community members.&lt;/p&gt;
+
+
+
+&lt;p&gt;This September, MIT joined a letter issued by 57 members of the Association of American Universities, calling for Congress to enact permanent legislation on DACA. In October, MIT was one of nearly 800 institutions signing on to a letter from the American Council on Education that also called for a “long-term legislative fix as soon as possible to protect Dreamers,” terming such a policy “in America’s best interest.”&lt;/p&gt;
+</content:encoded><media:content url="http://news.mit.edu/sites/mit.edu.newsoffice/files/styles/article_cover_image_original/public/images/2017/NewsImage_dome-spring-Patrick-Gillooly_7.jpg" type="image" width="948" height="632"><media:credit>Image: Patrick Gillooly</media:credit></media:content><story:tags>Administration, Chancellor, Community, Government, President L. Rafael Reif, Immigration, Policy, Students</story:tags>  </item>
+  </channel>
+</rss>
+
+00000000
+
