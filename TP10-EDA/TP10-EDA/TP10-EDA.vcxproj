@@ -134,14 +134,18 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="channel.cpp" />
     <ClCompile Include="ev_handler.cpp" />
     <ClCompile Include="hitachi_lcd.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="titular.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="basic_lcd.h" />
+    <ClInclude Include="channel.h" />
     <ClInclude Include="ev_handler.h" />
     <ClInclude Include="hitachi_lcd.h" />
+    <ClInclude Include="titular.h" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
@@ -150,6 +154,9 @@
   <ImportGroup Label="ExtensionTargets">
     <Import Project="..\packages\AllegroDeps.1.7.0.0\build\native\AllegroDeps.targets" Condition="Exists('..\packages\AllegroDeps.1.7.0.0\build\native\AllegroDeps.targets')" />
     <Import Project="..\packages\Allegro.5.2.3.1\build\native\Allegro.targets" Condition="Exists('..\packages\Allegro.5.2.3.1\build\native\Allegro.targets')" />
+    <Import Project="..\packages\expat.v141.2.2.5\build\native\expat.v141.targets" Condition="Exists('..\packages\expat.v141.2.2.5\build\native\expat.v141.targets')" />
+    <Import Project="..\packages\expat.redist.2.1.0.11\build\native\expat.redist.targets" Condition="Exists('..\packages\expat.redist.2.1.0.11\build\native\expat.redist.targets')" />
+    <Import Project="..\packages\expat.2.1.0.11\build\native\expat.targets" Condition="Exists('..\packages\expat.2.1.0.11\build\native\expat.targets')" />
   </ImportGroup>
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
     <PropertyGroup>
@@ -157,5 +164,8 @@
     </PropertyGroup>
     <Error Condition="!Exists('..\packages\AllegroDeps.1.7.0.0\build\native\AllegroDeps.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\AllegroDeps.1.7.0.0\build\native\AllegroDeps.targets'))" />
     <Error Condition="!Exists('..\packages\Allegro.5.2.3.1\build\native\Allegro.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Allegro.5.2.3.1\build\native\Allegro.targets'))" />
+    <Error Condition="!Exists('..\packages\expat.v141.2.2.5\build\native\expat.v141.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\expat.v141.2.2.5\build\native\expat.v141.targets'))" />
+    <Error Condition="!Exists('..\packages\expat.redist.2.1.0.11\build\native\expat.redist.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\expat.redist.2.1.0.11\build\native\expat.redist.targets'))" />
+    <Error Condition="!Exists('..\packages\expat.2.1.0.11\build\native\expat.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\expat.2.1.0.11\build\native\expat.targets'))" />
   </Target>
 </Project>

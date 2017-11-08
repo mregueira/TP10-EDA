@@ -3,6 +3,7 @@
 #include "windows.h"
 #define FTD2XX_EXPORTS
 #include "ftd2xx.h"
+#include <vector>
 #define ENABLE 0x01
 #define RS_IR 0x00
 #define RS_DR 0x02
@@ -11,6 +12,8 @@
 #define CURSOR_MOVE_L 0x00
 #define CURSOR_MOVE_R 0x04
 #define EMPTY_CHAR 0x20
+
+using namespace std;
 
 class hitachi_lcd : public basic_lcd 
 {
@@ -30,7 +33,8 @@ public:
 	virtual bool lcdSetCursorPosition(const cursorPosition pos);
 	virtual cursorPosition lcdGetCursorPosition();
 
-	bool lcdScrollMsg(char* msg);
+	bool lcdScrollMsg(string Tit);
+	void lcdPrintDate(vector<char>& Date);
 
 	~hitachi_lcd();
 
