@@ -13,12 +13,16 @@ int main()
 	{
 		lcd << "En EDA no anda nada";
 	}
+	cursorPosition aux;
+	aux.row = 1;
+	aux.column = 0;
+	lcd.lcdSetCursorPosition(aux);
 
 	while (1)
 	{
 		if (ev.get_next_allegro_ev())
 		{
-			ev.process_evs();
+			ev.process_evs(lcd, "The quick brown fox jumps over the lazy dog");
 		}
 	}
 

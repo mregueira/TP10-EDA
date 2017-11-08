@@ -1,14 +1,21 @@
 #include "hitachi_lcd.h"
 #include <chrono>
+#include <string>
+
+using namespace std;
+
 #define HITACHI_LINE 40
 #define LCD_LINE 16
 
 #define LCD_DESCRIPTION "EDA LCD 1 B"
 #define CONNECTING_TIME 5 //in seconds
 
+const cursorPosition title_pos = {1, 0};
+
 hitachi_lcd::hitachi_lcd()
 {
 	bool found = false;
+	char_count = 0;
 	lcd_stat = !FT_OK;
 	cadd = 1;
 	error_log = true; // No usable LCD at start
@@ -197,7 +204,7 @@ basic_lcd & hitachi_lcd::operator<<(const unsigned char c)
 basic_lcd & hitachi_lcd::operator<<(const char * c)
 {
 	unsigned int i = 0;
-	while (c[i] != NULL)
+	while (c[i] != '\0')
 	{
 		this->write_byte_to_dr(Handle, int(c[i]));
 		i++;
@@ -364,6 +371,37 @@ cursorPosition hitachi_lcd::lcdGetCursorPosition()
 		aux.column = cadd - 1;
 	}
 	return aux;
+}
+
+bool hitachi_lcd::lcdScrollMsg(char * msg)
+{
+	this->lcdSetCursorPosition(title_pos);
+	string temp(msg);
+
+	for (int i = 0; (i < LCD_LINE) && ((i+char_count) < temp.size()); i++)
+	{
+		*this << (msg+char_count)[i];
+	}
+	
+	//if (aux_str.size() < LCD_LINE)
+	//{
+	//	for (size_t j = aux_str.size(); j < LCD_LINE; j++)
+	//	{
+	//		aux_str += " ";
+	//	}
+	//}
+
+	char_count++;
+	
+	//*this << aux_str.c_str();
+
+	//if (aux_str.size() == 0)
+	//{
+	//	char_count = 0;
+	//	return true;
+	//}
+
+	return false;
 }
 
 hitachi_lcd::~hitachi_lcd()

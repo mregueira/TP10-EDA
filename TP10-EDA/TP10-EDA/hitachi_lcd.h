@@ -30,6 +30,8 @@ public:
 	virtual bool lcdSetCursorPosition(const cursorPosition pos);
 	virtual cursorPosition lcdGetCursorPosition();
 
+	bool lcdScrollMsg(char* msg);
+
 	~hitachi_lcd();
 
 private:
@@ -43,4 +45,6 @@ private:
 	void init_4_bit_mode(FT_HANDLE h);
 	virtual void lcdUpdateCursor() {}
 	bool error_log;
+
+	unsigned int char_count;
 };
