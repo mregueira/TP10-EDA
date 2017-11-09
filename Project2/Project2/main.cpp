@@ -38,6 +38,18 @@ int main() {
 	string rss_str;
 	cortar(data_ans, rss_str);
 	//cout << rss_str << '\n';
+	//cout << data_ans << '\n';
+	//ofstream file_test("output.txt");
+	//file_test << rss_str << '\n';
+	//file_test.close();
+
+	getchar();
+	//return 0;
+
+	//return 0;
+	///ofstream file_test("output.txt");
+	//file_test << rss_str << '\n';
+	//return 0;
 
 	//getchar();
 	//
@@ -47,16 +59,22 @@ int main() {
 	/*getchar();
 	return 0;
 
-	ifstream file("hola4.txt");
+	
 	
 	string rss_str , aux;
-	while (getline(file, aux)) {
-		rss_str += aux + "\n";
-	}*/
+	strin aux;
+	*/
 
-	cout << rss_str << endl;
+	ifstream file("output.txt");
+	string aux;
+	rss_str = "";
+	while (getline(file, aux)) {
+		rss_str += aux;
+	}
+
+	/*cout << rss_str << endl;
 	cout << "-----------\n";
-	cout << "end of content \n";
+	cout << "end of content \n";*/
 	
 	channel main_ch("link al que se le va a hacer get");
 

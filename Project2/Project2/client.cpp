@@ -9,6 +9,7 @@
 
 const string CLIENT_PORT = "80";
 
+
 client::client() {
 	IO_handler = new boost::asio::io_service();
 	socket_forClient = new boost::asio::ip::tcp::socket(*IO_handler);
@@ -29,9 +30,6 @@ void client::startConnection(const char* host) {
 		cout << "Trying to connect to " << host << " on port " << CLIENT_PORT << std::endl;
 		endpoint = client_resolver->resolve(
 			boost::asio::ip::tcp::resolver::query(host, CLIENT_PORT));
-
-	
-	
 		boost::asio::connect(*socket_forClient, endpoint);
 		//socket_forClient->non_blocking(true);
 	}catch (std::exception const&  ex){
@@ -45,32 +43,21 @@ bool client::success() {
 }
 
 void client::receiveMessage(string &ans,int maxsize) {
-
 	boost::system::error_code error;
-	char buf[1000];
 
+	while (ans.find("00000000") == string::npos) {
 
-	int end = 0;
-	while (!end) {
-
-		int len = 0;
-		buf[999] = '\0';
-		len = socket_forClient->read_some(boost::asio::buffer(buf), error);
-		_sleep(10);
-
-		if (buf[999] == '\0') {
-			end = 1;
-		}
+		char buf[10000];
+		size_t len = socket_forClient->read_some(boost::asio::buffer(buf, 10000), error);
 
 		int size_buf = strlen(buf);
 		for (int i = 0; i < size_buf; i++) {
-				//cout << buf[i] << '\n';
+			//cout << buf[i] << '\n';
 			ans += buf[i];
 		}
-		buf[0] = '\0';
-			
-		
 	}
+	//buf[0] = '\0';
+			
 	cout << ans.size() << '\n';
 	if (!error) {
 		//std::cout << std::endl << "Server said: " << buf << std::endl;
