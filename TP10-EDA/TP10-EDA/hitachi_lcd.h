@@ -35,6 +35,7 @@ public:
 
 	bool lcdScrollMsg(string Tit);
 	void lcdPrintDate(vector<char>& Date);
+	void lcdResetCharCount();
 
 	~hitachi_lcd();
 

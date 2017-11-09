@@ -10,12 +10,14 @@ int main()
 	ev_handler ev(FPS_DEF);
 	ev.start_and_reg();
 	channel ch("LINK");
-	ch.titles.push_back(ch.temptit); // Provisorio
-
+	//////////////////
+	ch.titles.push_back(ch.temptit); // Provisorio 1
+	ch.titles.push_back(ch.temptit); // Provisorio 2
+	
 	string tit1 = "The quick brown fox";
 	string src1 = "Fuente: ";
 	string date1 = "08/11/17 - 12:34";
-	//////////////////
+
 	for (int i = 0; i < src1.size(); i++)
 	{
 		ch.titles[0].fuente.push_back(src1[i]);
@@ -28,6 +30,24 @@ int main()
 	{
 		ch.titles[0].pubdate.push_back(date1[k]);
 	}
+
+
+	tit1 = "Liking apples";
+	src1 = "Mimo&Co: ";
+	date1 = "29/11/18 - 01:39";
+
+	for (int i = 0; i < src1.size(); i++)
+	{
+		ch.titles[1].fuente.push_back(src1[i]);
+	}
+	for (int j = 0; j < tit1.size(); j++)
+	{
+		ch.titles[1].titulo.push_back(tit1[j]);
+	}
+	for (int k = 0; k < date1.size(); k++)
+	{
+		ch.titles[1].pubdate.push_back(date1[k]);
+	}
 	//////////////////
 	if (lcd.lcdInitOk())
 	{
@@ -38,14 +58,12 @@ int main()
 	aux.row = 1;
 	aux.column = 0;
 	lcd.lcdSetCursorPosition(aux);
-	ev.set_title_cant(1);
+	ev.set_title_cant(2);
 
 	while (!ev.is_exit())
 	{
-		if (ev.get_next_allegro_ev())
-		{
-			ev.process_evs(lcd, ch.titles);
-		}
+		ev.get_next_allegro_ev();
+		ev.process_evs(lcd, ch.titles);
 	}
 
 	return 0;

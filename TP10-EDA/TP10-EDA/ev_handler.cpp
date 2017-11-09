@@ -17,19 +17,24 @@ ev_handler::ev_handler(float FPS_)
 	exit = false;
 	show_flag = DATE_TXT;
 	title_cant = 0;
+	end_delay = 0;
 
 	event_queue = nullptr;
 	disp = nullptr;
-	timer = nullptr;
 
 }
 
 void ev_handler::process_evs(hitachi_lcd& lcd, vector<titular>& rx_titulars)
 {
+	process_title(lcd, rx_titulars);
+
+	if (show_flag == FINISH_TXT)
+	{
+		exit = true;
+		lcd.lcdClear();
+	}
+
 	switch (evs.type) {
-	case ALLEGRO_EVENT_TIMER:
-		process_title(lcd, rx_titulars);
-		break;
 	case ALLEGRO_EVENT_KEY_UP:
 		
 		if (toggle_key == 1) {
@@ -49,19 +54,38 @@ void ev_handler::process_evs(hitachi_lcd& lcd, vector<titular>& rx_titulars)
 
 		if (key_pressed == ALLEGRO_KEY_R)
 		{
-			cout << "apreto R" << endl;
+			cout << "apreto R" << endl; // Repetir actual
+			lcd.lcdResetCharCount();
+			lcd.lcdClear();
+			show_flag = DATE_TXT;
 		}
 		else if (key_pressed == ALLEGRO_KEY_S)
 		{
-			cout << "apreto S" << endl;
+			cout << "apreto S" << endl; // Mostrar siguiente
+			if (title_cant != (show_count + 1))
+			{
+				lcd.lcdResetCharCount();
+				lcd.lcdClear();
+				show_flag = DATE_TXT;
+				show_count++;
+			}
 		}
 		else if (key_pressed == ALLEGRO_KEY_A)
 		{
-			cout << "apreto A" << endl;
+			cout << "apreto A" << endl; // Uno hacia atras
+			if (show_count != 0)
+			{
+				lcd.lcdResetCharCount();
+				lcd.lcdClear();
+				show_flag = DATE_TXT;
+				show_count--;
+			}
 		}
 		else if (key_pressed == ALLEGRO_KEY_Q)
 		{
 			cout << "apreto Q" << endl;
+			exit = true;
+			lcd.lcdClear();
 		}
 		else if ((key_pressed == ALLEGRO_KEY_PAD_MINUS) || (key_pressed == ALLEGRO_KEY_MINUS))
 		{
@@ -103,20 +127,12 @@ bool ev_handler::start_and_reg(void)
 		return -1;
 	}
 
-	timer = al_create_timer(1.0 / FPS);
-	if (!timer) {
-		al_destroy_display(disp);
-		return 1;
-	}
 	event_queue = al_create_event_queue();
 	if (!event_queue) {
-		al_destroy_timer(timer);
 		al_destroy_display(disp);
 		return 1;
 	}
 
-	al_start_timer(timer);
-	al_register_event_source(event_queue, al_get_timer_event_source(timer));
 	al_register_event_source(event_queue, al_get_keyboard_event_source());
 
 	return false;
@@ -132,10 +148,11 @@ void ev_handler::set_title_cant(unsigned int num)
 
 ev_handler::~ev_handler()
 {
-	al_destroy_timer(timer);
+	al_destroy_event_queue(event_queue);
+	al_destroy_display(disp);
 }
 
-void ev_handler::process_title(hitachi_lcd & lcd, vector<titular>& rx_titulars)
+void ev_handler::process_title(hitachi_lcd & lcd, vector<titular>& in_titles)
 {
 	if ((title_cant > 0) && (!exit))
 	{
@@ -143,15 +160,15 @@ void ev_handler::process_title(hitachi_lcd & lcd, vector<titular>& rx_titulars)
 		{
 		case DATE_TXT:
 			temp_tit.clear();
-			lcd.lcdPrintDate(rx_titulars[show_count].pubdate);
+			lcd.lcdPrintDate(in_titles[show_count].pubdate);
 
-			for (int i = 0; i < rx_titulars[show_count].fuente.size(); i++)
+			for (int i = 0; i < in_titles[show_count].fuente.size(); i++)
 			{
-				temp_tit += rx_titulars[show_count].fuente[i];
+				temp_tit += in_titles[show_count].fuente[i];
 			}
-			for (int i = 0; i < rx_titulars[show_count].titulo.size(); i++)
+			for (int i = 0; i < in_titles[show_count].titulo.size(); i++)
 			{
-				temp_tit += rx_titulars[show_count].titulo[i];
+				temp_tit += in_titles[show_count].titulo[i];
 			}
 			show_flag = TITULAR_TXT;
 			break;
@@ -162,11 +179,13 @@ void ev_handler::process_title(hitachi_lcd & lcd, vector<titular>& rx_titulars)
 				show_count++;
 				if (show_count == title_cant)
 				{
-					exit = true;
+					show_flag = FINISH_TXT;
+					lcd.lcdClear();
+					lcd << " Ultimo titular ";
+					lcd << "----------------";
 				}
+				al_rest(3.0);
 			}
-			break;
-		case FINISH_TXT:
 			break;
 		}
 	}

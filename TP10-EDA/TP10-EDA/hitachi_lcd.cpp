@@ -10,6 +10,8 @@ using namespace std;
 #define LCD_DESCRIPTION "EDA LCD 1 B"
 #define CONNECTING_TIME 5 //in seconds
 
+const cursorPosition aux = {1, 0};
+
 hitachi_lcd::hitachi_lcd()
 {
 	bool found = false;
@@ -373,9 +375,16 @@ cursorPosition hitachi_lcd::lcdGetCursorPosition()
 
 bool hitachi_lcd::lcdScrollMsg(string Tit)
 {
-	for (int i = 0; i < LCD_LINE; i++)
+	if (cadd >= 2*LCD_LINE)
 	{
-		this->lcdMoveCursorLeft();
+		for (int i = 0; i < LCD_LINE; i++)
+		{
+			this->lcdMoveCursorLeft();
+		}
+	}
+	else
+	{
+		this->lcdSetCursorPosition(aux);
 	}
 
 	string aux_str;
@@ -415,6 +424,11 @@ void hitachi_lcd::lcdPrintDate(vector<char>& Date)
 	}
 
 	*this << aux_date.c_str();
+}
+
+void hitachi_lcd::lcdResetCharCount()
+{
+	char_count = 0;
 }
 
 hitachi_lcd::~hitachi_lcd()

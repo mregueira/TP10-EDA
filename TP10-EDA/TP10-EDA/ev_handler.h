@@ -19,12 +19,11 @@ public:
 	~ev_handler();
 
 private:
-	float FPS;
+	double FPS;
 
 	ALLEGRO_EVENT evs;
 	ALLEGRO_EVENT_QUEUE * event_queue;
 	ALLEGRO_DISPLAY *disp;
-	ALLEGRO_TIMER * timer;
 	bool exit;
 	int key_pressed;
 	bool toggle_key;
@@ -33,6 +32,7 @@ private:
 	unsigned int title_cant;
 	unsigned int show_flag;
 	unsigned int show_count;
+	unsigned int end_delay;
 	string temp_tit;
-	void process_title(hitachi_lcd& lcd, vector<titular>& rx_titulars);
+	void process_title(hitachi_lcd& lcd, vector<titular>& in_titles);
 };
