@@ -34,11 +34,9 @@ int main() {
 	string data_ans;
 	my_client.receiveMessage(data_ans, 10000);
 
-	//cout << data_ans << '\n';
 	string rss_str;
 	cortar(data_ans, rss_str);
-	//cout << rss_str << '\n';
-	//cout << data_ans << '\n';
+
 	ofstream file_test("output.txt");
 	string ans_data = "";
 	bool start = 0;
@@ -52,26 +50,6 @@ int main() {
 	file_test.close();
 
 	getchar();
-	//return 0;
-
-	//return 0;
-	///ofstream file_test("output.txt");
-	//file_test << rss_str << '\n';
-	//return 0;
-
-	//getchar();
-	//
-
-	//cortar(data_ans);
-
-	/*getchar();
-	return 0;
-
-	
-	
-	string rss_str , aux;
-	strin aux;
-	*/
 
 	ifstream file("output.txt");
 	string aux;
