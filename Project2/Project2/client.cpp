@@ -44,17 +44,23 @@ bool client::success() {
 
 void client::receiveMessage(string &ans,int maxsize) {
 	boost::system::error_code error;
-
-	while (ans.find("00000000") == string::npos) {
+	bool cont = 1;
+	
+	while (cont){  
 
 		char buf[10000];
-		size_t len = socket_forClient->read_some(boost::asio::buffer(buf, 10000), error);
+		size_t len = socket_forClient->read_some(boost::asio::buffer(buf), error);
 
 		int size_buf = strlen(buf);
-		for (int i = 0; i < size_buf; i++) {
+		string part_ans = "";
+		for (int i = 0; i < len; i++) {
 			//cout << buf[i] << '\n';
-			ans += buf[i];
+			part_ans += buf[i];
 		}
+		if (part_ans.find("00000000") != string::npos) {
+			cont = 0;
+		}
+		ans += part_ans;
 	}
 	//buf[0] = '\0';
 			

@@ -39,9 +39,9 @@ int main() {
 	cortar(data_ans, rss_str);
 	//cout << rss_str << '\n';
 	//cout << data_ans << '\n';
-	//ofstream file_test("output.txt");
-	//file_test << rss_str << '\n';
-	//file_test.close();
+	ofstream file_test("output.txt");
+	file_test << rss_str << '\n';
+	file_test.close();
 
 	getchar();
 	//return 0;
@@ -69,7 +69,7 @@ int main() {
 	string aux;
 	rss_str = "";
 	while (getline(file, aux)) {
-		rss_str += aux;
+		rss_str += aux + "\n";
 	}
 
 	/*cout << rss_str << endl;
