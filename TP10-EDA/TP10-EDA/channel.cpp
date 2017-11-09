@@ -134,6 +134,8 @@ handle_data(void *data, const char *content, int length)
 			//ch->get_next_titular();
 			// con esto deberia obtener los titulares
 		}
+		fuente_actual.push_back(':');
+		fuente_actual.push_back(' ');
 		ch->temptit.fuente = fuente_actual;
 	}
 	if (ch->get_state() == I_TITLE) {   // ESTOS SON LOS TITULARES EFECTIVAMENTE
@@ -184,7 +186,9 @@ handle_data(void *data, const char *content, int length)
 		for (int i = 0; i < aux_year.size(); i++) {
 			actual_pubdate.push_back(aux_year[i]);
 		}
+		actual_pubdate.push_back(' ');
 		actual_pubdate.push_back('-');
+		actual_pubdate.push_back(' ');
 		for (int i = 0; i < aux_hour.size(); i++) {
 			actual_pubdate.push_back(aux_hour[i]);
 		}

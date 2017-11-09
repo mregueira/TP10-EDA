@@ -32,6 +32,7 @@ void ev_handler::process_evs(hitachi_lcd& lcd, vector<titular>& rx_titulars)
 	{
 		exit = true;
 		lcd.lcdClear();
+		lcd << "Ya puede desconectar el LCD.";
 	}
 
 	switch (evs.type) {
@@ -54,14 +55,14 @@ void ev_handler::process_evs(hitachi_lcd& lcd, vector<titular>& rx_titulars)
 
 		if (key_pressed == ALLEGRO_KEY_R)
 		{
-			cout << "apreto R" << endl; // Repetir actual
+			// Repetir actual
 			lcd.lcdResetCharCount();
 			lcd.lcdClear();
 			show_flag = DATE_TXT;
 		}
 		else if (key_pressed == ALLEGRO_KEY_S)
 		{
-			cout << "apreto S" << endl; // Mostrar siguiente
+			// Mostrar siguiente
 			if (title_cant != (show_count + 1))
 			{
 				lcd.lcdResetCharCount();
@@ -72,7 +73,7 @@ void ev_handler::process_evs(hitachi_lcd& lcd, vector<titular>& rx_titulars)
 		}
 		else if (key_pressed == ALLEGRO_KEY_A)
 		{
-			cout << "apreto A" << endl; // Uno hacia atras
+			// Uno hacia atras
 			if (show_count != 0)
 			{
 				lcd.lcdResetCharCount();
@@ -83,17 +84,19 @@ void ev_handler::process_evs(hitachi_lcd& lcd, vector<titular>& rx_titulars)
 		}
 		else if (key_pressed == ALLEGRO_KEY_Q)
 		{
-			cout << "apreto Q" << endl;
 			exit = true;
 			lcd.lcdClear();
+			lcd << "Ya puede desconectar el LCD.";
 		}
 		else if ((key_pressed == ALLEGRO_KEY_PAD_MINUS) || (key_pressed == ALLEGRO_KEY_MINUS))
 		{
-			cout << "apreto -" << endl;
+			// No se implemento dado el largo tiempo que requiere
+			// el lcd para escribir.-
 		}
 		else if (key_pressed == ALLEGRO_KEY_PAD_PLUS)
 		{
-			cout << "apreto +" << endl;
+			// No se implemento dado el largo tiempo que requiere
+			// el lcd para escribir.-
 		}
 
 		flush_var = 0;

@@ -1,9 +1,9 @@
 #pragma once
 #include "basic_lcd.h"
+#include <vector>
 #include "windows.h"
 #define FTD2XX_EXPORTS
 #include "ftd2xx.h"
-#include <vector>
 #define ENABLE 0x01
 #define RS_IR 0x00
 #define RS_DR 0x02
