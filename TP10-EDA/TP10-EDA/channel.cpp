@@ -136,6 +136,8 @@ handle_data(void *data, const char *content, int length)
 		}
 		fuente_actual.push_back(':');
 		fuente_actual.push_back(' ');
+		fuente_actual.push_back('-');
+		fuente_actual.push_back(' ');
 		ch->temptit.fuente = fuente_actual;
 	}
 	if (ch->get_state() == I_TITLE) {   // ESTOS SON LOS TITULARES EFECTIVAMENTE
