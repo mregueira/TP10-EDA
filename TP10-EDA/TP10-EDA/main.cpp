@@ -36,6 +36,12 @@ int main(int argc, char* argv[])
 		return -1;
 	}
 
+	cout << '\n';
+	cout << "---------------------" << endl;
+	cout << "| TP10 - LCD FASE 3 |" << endl;
+	cout << "|      GRUPO 1      |" << endl;
+	cout << "---------------------" << endl;
+
 	client my_client;
 	my_client.startConnection(argv[1]);
 	
