@@ -40,7 +40,15 @@ int main() {
 	//cout << rss_str << '\n';
 	//cout << data_ans << '\n';
 	ofstream file_test("output.txt");
-	file_test << rss_str << '\n';
+	string ans_data = "";
+	bool start = 0;
+	for (int i = 0; i < rss_str.size(); i++) {
+		if ((rss_str[i] != '\n' && rss_str[i] != '\r')  || start) {
+			ans_data += rss_str[i];
+			start = 1;
+		}
+	}
+	file_test << ans_data << '\n';
 	file_test.close();
 
 	getchar();
@@ -68,6 +76,7 @@ int main() {
 	ifstream file("output.txt");
 	string aux;
 	rss_str = "";
+	
 	while (getline(file, aux)) {
 		rss_str += aux + "\n";
 	}
