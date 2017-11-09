@@ -1,11 +1,275 @@
-﻿<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="http://newsoffice.mit.edu/" xmlns:story="http://newsoffice.mit.edu/ns/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="http://newsoffice.mit.edu/" xmlns:story="http://newsoffice.mit.edu/ns/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>MIT News</title>
     <link>http://news.mit.edu/mitnews-rss.xml</link>
     <description>MIT News is dedicated to communicating to the media and the public the news and achievements of the students, faculty, staff and the greater MIT community.</description>
     <language>en</language>
      <atom:link href="http://news.mit.edu/mitnews-rss.xml" rel="self" type="application/rss+xml" />
-<lastBuildDate>Tue, 07 Nov 2017 17:40:01 -0500</lastBuildDate>      <item>
+<lastBuildDate>Wed, 08 Nov 2017 09:00:00 -0500</lastBuildDate>      <item>
+    <title>3 Questions: Joseph Coughlin on innovation for an aging population</title>
+    <link>http://news.mit.edu/2017/3-questions-joseph-coughlin-innovation-aging-population-1108</link>
+    <description>New book, “The Longevity Economy,” calls for rethinking our ideas about what the elderly can do.</description>
+     <pubDate>Wed, 08 Nov 2017 09:00:00 -0500</pubDate>
+ <dc:creator>Peter Dizikes | MIT News Office</dc:creator>
+ <guid isPermaLink="true">http://news.mit.edu/2017/3-questions-joseph-coughlin-innovation-aging-population-1108</guid>
+<content:encoded>&lt;p&gt;&lt;em&gt;The populations of many developed countries are aging markedly, due to a suite of medical, social, and economic changes. Will this notable demographic trend force us to change our image of the older adults and regard them as a more vital force in society? Joseph F. Coughlin, director of the MIT AgeLab, which is part of the Center for Transportation and Logistics, hopes so. Coughlin’s new book, “The Longevity Economy,” published this week by PublicAffairs, makes a pointed call for companies and policymakers to expand their ideas about what seniors can and want to do in life. &lt;/em&gt;MIT News&lt;em&gt; sat down with Coughlin to talk about innovation for an aging population. &lt;/em&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;strong&gt;Q:&lt;/strong&gt; Your new book, “The Longevity Economy,” makes the case that we’ve developed misleading social narratives about aging. What do you mean by that?&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;strong&gt;A:&lt;/strong&gt; One of the oldest and most powerful innovations in humankind is the story: It shapes how we view the world, it powers causality, it helps us make sense of what we do. We have this story, which itself is only about 100 years old, that birthdays predict everything, that at a certain age you retire, hold back from life, and don’t do certain things.&lt;/p&gt;
+
+
+
+&lt;p&gt;But rather than continuing to believe this old story, I say, let’s find out how technology is going to extend our ability to stay mobile and connected — to activate the talent and knowledge of our growing older population. Transportation technologies, for instance, are only as good as where you can go, what things there are to do — and that means not just going to the doctor’s office and grocery store, but visiting friends and grandchildren, working if you want to, or volunteering with passion and purpose. &amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p&gt;The longevity economy is not just about the money to be made, but the reality that after about age 65, we run out of narrative. We may walk a child down the aisle or go on a cruise ship or play a bad round of golf, but after 65, society says, “You’re done.” That’s the story we’re told, but in reality, at 65, you’re very likely to make it not just to 85, but further. That’s 8,000 days! That’s roughly the same amount of time an MIT undergraduate spends from birth to graduation. Our challenge is to ensure quality of life, for a century of life.&lt;/p&gt;
+
+
+
+&lt;p&gt;In many ways the Baby Boomers are largely to blame, and I’m one of them myself — one of those 76 million people who seemed like they’d be young forever. They trained companies, researchers, and designers to believe the 18-35 age range is the only one worth worrying about in order to get consumers hooked for life on their products and ideas. Well, guess what? The Boomers are now inheriting what they created, at the very moment when we need to think of new products, technologies, services, and experiences for the later age ranges.&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;strong&gt;Q:&lt;/strong&gt; Okay, more specifically, what are the problems with our current products for the elderly?&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;strong&gt;A:&lt;/strong&gt; Whenever you start a research program around aging, it always devolves into falls, pills, and reminder systems. The instinct is always to “solve” the problem of aging. And that’s a worthy and necessary goal for a part of the population, part of the time. But it’s incomplete: Older adults are people first, not a puzzle to be solved. It is not until very recently that we’ve begun to think beyond medicalized technologies that beep, buzz, and badger us, to consider things that may connect you with a family member or a more extended social network. Think about the internet of things: We have houses that are aware of our well-being, systems making sure we haven’t fallen, and toilets talking about what we ate. How about connecting some of those things to social networks or friends and family, so that a grandchild wants to know my cookie recipe, not just whether or not I took my beta blocker?&lt;/p&gt;
+
+
+
+&lt;p&gt;Take personal emergency response systems, such as those necklaces with an emergency call button. As a technology, they are well-meaning, virtuous, cheap, and easy-to-use, but the penetration rate is just 2 percent among the 65-plus. In the U.K. with the National Health Service paying for them, the penetration rate is still a low 16 percent. What we’re selling is an image no one wants.&lt;/p&gt;
+
+
+
+&lt;p&gt;At the MIT AgeLab, we’ve learned to ask questions beyond “what’s good for you” to understand the new motivations in old age. We [should think] about fun, about learning for a lifetime. One thing about the study of longevity that MIT is profoundly qualified for is that it’s interdiciplinary. You need to have technologists work with artists to create style in products for the aging, and they have to work with the business people to get it out of the lab and into your living room.&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;strong&gt;Q:&lt;/strong&gt; And yet there is big money to be made from retirement communities and lifestyles which, in many ways, reinforce the idea that the elderly are not active, as you observe in a chapter of your book that is set in Florida. So what’s wrong with this segment of the market for the aging?&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;strong&gt;A:&lt;/strong&gt; I probably will never be allowed back in Florida, as much as I love the state. But even if you have money and health, our outdated narrative says, “You’ve retired now. It’s time to leave. And you can have as much fun as you want, because you earned it. But still, you’re cut off.” Essentially you’re being told you’ve earned the reward of being segregated from the rest of society. On a moral level I don’t think that’s appropriate. I do, however, completely understand why people double down on the idea of retirement and move to age-segregated communities. It’s because there’s no narrative competition in how we think about later life.&amp;nbsp;&lt;/p&gt;
+
+
+
+&lt;p&gt;But that’s already changing, and practically speaking, it couldn’t come soon enough. &amp;nbsp;Those people we are sending away in retirement are taking away what one of my colleagues terms “lost knowledge.” For example, computer systems we’re trying to protect are written in languages you only learned if you were in school in the 1970s. Or, in major companies and government, people who have the contacts with clients and best knowledge are walking out the door. That’s not just bad politics and policy, that’s bad economics. And we find when people don’t wake up with a purpose, it’s not good for their health. It’s not good for individuals, and it’s not good for families.&lt;/p&gt;
+
+
+
+&lt;p&gt;We’re entering a moment when all that can change. That vision of retiring and no longer participating is often not fair to all that talent. What I’m saying is the longevity economy is about activating the full life span — so we can live not just longer, but better.&lt;/p&gt;
+</content:encoded><media:content url="http://news.mit.edu/sites/mit.edu.newsoffice/files/styles/article_cover_image_original/public/images/2017/MIT-3Q-Longevity.jpg" type="image" width="948" height="632"><media:description type="plain">Joseph F. Coughlin, the MIT AgeLab’s founder and director, has a new book coming out this month, “The Longevity Economy: Unlocking the World’s Fastest-growing, Most Misunderstood Market.”
+</media:description><media:credit>Courtesy of Joseph Coughlin</media:credit></media:content><story:tags>Aging, Technology and society, Social networks, 3 Questions, Books and authors, Staff</story:tags>  </item>
+  <item>
+    <title>Sensors applied to plant leaves warn of water shortage</title>
+    <link>http://news.mit.edu/2017/sensors-applied-plant-leaves-warn-water-shortage-1108</link>
+    <description>Electronic circuits reveal when a plant begins to experience drought conditions.</description>
+     <pubDate>Wed, 08 Nov 2017 09:00:00 -0500</pubDate>
+ <dc:creator>Anne Trafton | MIT News Office</dc:creator>
+ <guid isPermaLink="true">http://news.mit.edu/2017/sensors-applied-plant-leaves-warn-water-shortage-1108</guid>
+<content:encoded>&lt;p&gt;Forgot to water that plant on your desk again? It may soon be able to send out an SOS.&lt;/p&gt;
+
+
+
+&lt;p&gt;MIT engineers have created sensors that can be printed onto plant leaves and reveal when the plants are experiencing a water shortage. This kind of technology could not only save neglected houseplants but, more importantly, give farmers an early warning when their crops are in danger, says Michael Strano, the Carbon P. Dubbs Professor of Chemical Engineering at MIT and the senior author of the new study.&lt;/p&gt;
+
+
+
+&lt;p&gt;“This appears to be the earliest indicator of drought that we have for agricultural applications,” Strano says. “It’s hard to get this information any other way. You can put sensors into the soil, or you can do satellite imaging and mapping, but you never really know what a particular plant is detecting as the water potential.”&lt;/p&gt;
+
+
+
+&lt;p&gt;Strano has already begun working with a large agricultural producer to develop these sensors for use on crops, and he believes that the technology could also be useful to gardeners and urban farmers. It may also help researchers develop new ways to engineer drought-resistant plants, he says.&lt;/p&gt;
+
+
+
+&lt;p&gt;Volodymyr Koman, an MIT postdoc, is the lead author of the paper, which appears in the Nov. 8 online edition of the journal &lt;em&gt;Lab on a Chip&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;/sites/mit.edu.newsoffice/files/stoma.gif&quot; style=&quot;width: 594px; height: 508px;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;span style=&quot;font-size:10px;&quot;&gt;MIT chemical engineers have developed a sensor that detects the opening and closing of plant stomata. (Image: Volodymyr Koman/MIT Chemical Engineering)&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;strong&gt;Printable sensors&lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;When soil dries out, plants slow down their growth, reduce photosynthetic activity, and suffer damage to their tissues. Some plants begin to wilt, but others show no visible signs of trouble until they have already experienced significant harm.&lt;/p&gt;
+
+
+
+&lt;p&gt;The new MIT sensor takes advantage of plants’ stomata — small pores in the surface of a leaf that allow water to evaporate. As water evaporates from the leaf, water pressure in the plant falls, allowing it to draw water up from the soil through a process called transpiration.&lt;/p&gt;
+
+
+
+&lt;p&gt;Plant biologists know that stomata open when exposed to light and close in darkness, but the dynamics of this opening and closing have been little studied because there hasn’t been a good way to directly measure them in real time.&lt;/p&gt;
+
+
+
+&lt;p&gt;“People already knew that stomata respond to light, to carbon dioxide concentration, to drought, but now we have been able to monitor it continuously,” Koman says. “Previous methods were unable to produce this kind of information.”&lt;/p&gt;
+
+
+
+&lt;p&gt;To create their sensor, the MIT researchers used an ink made of carbon nanotubes — tiny hollow tubes of carbon that conduct electricity — dissolved in an organic compound called sodium dodecyl sulfate, which does not damage the stomata. This ink can be printed across a pore to create an electronic circuit. When the pore is closed, the circuit is intact and the current can be measured by connecting the circuit to a device called a multimeter. When the pore opens, the circuit is broken and the current stops flowing, allowing the researchers to measure, very precisely, when a single pore is open or closed.&lt;/p&gt;
+
+
+
+&lt;p&gt;By measuring this opening and closing over a few days, under normal and dry conditions, the researchers found that they can detect, within two days, when a plant is experiencing water stress. They found that it takes stomata about seven minutes to open after light exposure and 53 minutes to close when darkness falls, but these responses change during dry conditions. When the plants are deprived of water, the researchers found that stomata take an average of 25 minutes to open, while the amount of time for the stomata to close falls to 45 minutes.&lt;/p&gt;
+
+
+
+&lt;p&gt;“This work is exciting because it opens up the possibility of directly printing electronics onto plant life for long-term monitoring of plant physiological responses to environmental factors, such as drought,” says Michael McAlpine, an associate professor of mechanical engineering at the University of Minnesota, who was not involved in the research.&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;strong&gt;Drought alert&lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;For this study, the researchers tested the sensors on a plant called the peace lily, which they chose in part because it has large stomata. To apply the ink to the leaves, the researchers created a printing mold with a microfluidic channel. When the mold is placed on a leaf, ink flowing through the channel is deposited onto the leaf surface.&lt;/p&gt;
+
+
+
+&lt;p&gt;The MIT team is now working on a new way to apply the electronic circuits by simply placing a sticker on the leaf surface. In addition to large-scale agricultural producers, gardeners and urban farmers may be interested in such a device, the researchers propose.&lt;/p&gt;
+
+
+
+&lt;p&gt;“It could have big implications for farming, especially with climate change, where you will have water shortages and changes in environmental temperatures,” Koman says.&lt;/p&gt;
+
+
+
+&lt;p&gt;In related work, Strano’s lab is exploring the possibility of creating arrays of these sensors that could be used to detect light and capture images, much like a camera.&lt;/p&gt;
+
+
+
+&lt;p&gt;The research was funded by the U.S. Department of Energy, the Swiss National Science Foundation, and Singapore’s Agency for Science, Research, and Technology.&lt;/p&gt;
+</content:encoded><media:content url="http://news.mit.edu/sites/mit.edu.newsoffice/files/styles/article_cover_image_original/public/images/2017/MIT-Drough-Sensor-1.jpg" type="image" width="948" height="632"><media:description type="plain">Artist's impression of the sensor comprised of conductive ink printed across a stoma with two micropillars. 
+</media:description><media:credit>Image: Betsy Skrip</media:credit></media:content><story:tags>Research, Chemical engineering, Plants, Agriculture, Nanoscience and nanotechnology, School of Engineering, Department of Energy (DoE)</story:tags>  </item>
+  <item>
+    <title>A new way to mix oil and water</title>
+    <link>http://news.mit.edu/2017/new-way-mix-oil-and-water-1108</link>
+    <description>Condensation-based method developed at MIT could create stable nanoscale emulsions.</description>
+     <pubDate>Wed, 08 Nov 2017 04:59:59 -0500</pubDate>
+ <dc:creator>David L. Chandler | MIT News Office</dc:creator>
+ <guid isPermaLink="true">http://news.mit.edu/2017/new-way-mix-oil-and-water-1108</guid>
+<content:encoded>&lt;p&gt;The reluctance of oil and water to mix together and stay that way is so well-known that it has become a cliché for describing any two things that do not go together well. Now, a new finding from researchers at MIT might turn that expression on its head, providing a way to get the two substances to mix and remain stable for long periods — no shaking required. The process may find applications in pharmaceuticals, cosmetics, and processed foods, among other areas.&lt;/p&gt;
+
+
+
+&lt;p&gt;The new process involves cooling a bath of oil containing a small amount of a surfactant (a soap-like substance), and then letting water vapor from the surrounding air condense onto the oil surface. Experiments have shown that this can produce tiny, uniform water droplets on the surface that then sink into the oil, and their size can be controlled by adjusting the proportion of surfactant. The findings, by MIT graduate student Ingrid Guha, former postdoc Sushant Anand, and associate professor Kripa Varanasi, are reported in the journal &lt;em&gt;Nature Communications&lt;/em&gt;.&lt;/p&gt;
+
+
+
+&lt;p&gt;As anyone who has ever used salad dressing knows, no matter how vigorously the mixture gets shaken, the oil and the vinegar (a water-based solution) will separate within minutes. But for many uses, including new drug-delivery systems and food-processing methods, it’s important to be able to get oil in water (or water in oil) to form tiny droplets — only a few hundred nanometers across, too small to see with the naked eye — and to have them stay tiny rather than coalescing into larger droplets and eventually separating from the other liquid.&lt;/p&gt;
+
+
+
+&lt;p&gt;Typically, in industrial processes these emulsions are made by either mechanically shaking the mix or using sound waves to set up intense vibrations within the liquid, a process called sonicating. But both of these processes “require a lot of energy,” Varanasi says, “and the finer the drops, the more energy it takes.” By contrast, “our approach is very energy inexpensive,” he adds.&lt;/p&gt;
+
+
+
+&lt;p&gt;“The key to overcoming that separation is to have really small, nanoscale droplets,” Guha explains. “When the drops are small, gravity can’t overcome them,” and they can remain suspended indefinitely.&lt;/p&gt;
+
+&lt;div class=&quot;cms-placeholder-content-video&quot;&gt;&lt;/div&gt;
+
+&lt;p&gt;For the new process, the team set up a reservoir of oil with an added surfactant that can bind to both oil and water molecules. They placed this inside a chamber with very humid air and then cooled the oil. Like a glass of cold water on a hot summer day, the colder surface causes the water vapor to precipitate. The condensing water then forms droplets at the surface that spread through the oil-surfactant mixture, and the sizes of these droplets are quite uniform, the team found. “If you get the chemistry just right, you can get just the right dispersion,” Guha says. By adjusting the proportion of surfactant in the oil, the droplet sizes can be well-controlled.&lt;/p&gt;
+
+
+
+&lt;p&gt;In the experiments, the team produced nanoscale emulsions that remained stable over periods of several months, compared to the few minutes that it takes for the same mixture of oil and water to separate without the added surfactant. “The droplets stay so small that they’re hard to see even under a microscope,” Guha says.&lt;/p&gt;
+
+
+
+&lt;p&gt;Unlike the shaking or sonicating methods, which take the large, separate masses of oil and water and gradually get them to break down into smaller drops — a “top down” approach — the condensation method starts off right away with the tiny droplets condensing out from the vapor, which the researchers call a bottom-up approach. “By cloaking the freshly condensed nanoscale water droplets with oil, we are taking advantage of the inherent nature of phase-change and spreading phenomena,” Varanasi says.&lt;/p&gt;
+
+
+
+&lt;p&gt;“Our bottom-up approach of creating nanoscale emulsions is highly scalable owing to the simplicity of the process,” Anand says. “We have uncovered many new phenomena during this work. We have found how the presence of surfactant can change the oil and water interactions under such conditions, promoting oil spreading on water droplets and stabilizing them at the nanoscale.”&lt;/p&gt;
+
+
+
+&lt;p&gt;The team says that the approach should work with a variety of oils and surfactants, and now that the process has been identified, their findings “provide a kind of design guideline for someone to use” for a particular kind of application, Varanasi says.&lt;/p&gt;
+
+
+
+&lt;p&gt;“It’s such an important thing,” he says, because “foods and pharmaceuticals always have an expiration date,” and often that has to do with the instability of the emulsions in them. The experiments used a particular surfactant that is widely used, but many other varieties are available, including some that are approved for food-grade products.&lt;/p&gt;
+
+
+
+&lt;p&gt;In addition, Guha says, “we envision that you could use multiple liquids and make much more complex emulsions.” And besides being used in food, cosmetics, and drugs, the method could have other applications, such as in the oil and gas industry, where fluids such as the drilling “muds” sent down wells are also emulsions, Varanasi says.&lt;/p&gt;
+
+
+
+&lt;p&gt;The work was supported by the MIT Energy Initiative, the National Science Foundation, and a Society in Science fellowship. Anand, the co-author who was a postdoc at MIT, is now an assistant professor at the University of Illinois.&lt;/p&gt;
+</content:encoded><media:content url="http://news.mit.edu/sites/mit.edu.newsoffice/files/styles/article_cover_image_original/public/images/2017/MIT-NanoEmulsion-A1.jpg" type="image" width="948" height="632"><media:description type="plain">Graduate student Ingrid Guha holds a jar containing a clear liquid that looks like water to the naked eye, but it’s actually an emulsion of oil and water at the nanoscale. 
+</media:description><media:credit>Image: Melanie Gonick, MIT</media:credit></media:content><story:tags>Research, Food, Nanoscience and nanotechnology, Mechanical engineering, Materials Science and Engineering, Manufacturing, School of Engineering</story:tags>  </item>
+  <item>
+    <title>Researchers develop flexible, stretchable photonic devices </title>
+    <link>http://news.mit.edu/2017/researchers-develop-flexible-stretchable-photonic-devices-1108</link>
+    <description>Light-based devices could be used as biomedical sensors or as flexible connectors for electronics.</description>
+     <pubDate>Tue, 07 Nov 2017 23:59:57 -0500</pubDate>
+ <dc:creator>David L. Chandler | MIT News Office</dc:creator>
+ <guid isPermaLink="true">http://news.mit.edu/2017/researchers-develop-flexible-stretchable-photonic-devices-1108</guid>
+<content:encoded>&lt;p&gt;Researchers at MIT and several other institutions have developed a method for making photonic devices — similar to electronic devices but based on light rather than electricity — that can bend and stretch without damage. The devices could find uses in cables to connect computing devices, or in diagnostic and monitoring systems that could be attached to the skin or implanted in the body, flexing easily with the natural tissue.&lt;/p&gt;
+
+
+
+&lt;p&gt;The findings, which involve the use of a specialized kind of glass called chalcogenide, are described in two papers by MIT Associate Professor Juejun Hu and more than a dozen others at MIT, the University of Central Florida, and universities in China and France. The paper is slated for publication soon in &lt;em&gt;Light: Science and Applications&lt;/em&gt;.&lt;/p&gt;
+
+
+
+&lt;p&gt;Hu, who is the Merton C. Flemings Associate Professor of Materials Science and Engineering, says that many people are interested in the possibility of optical technologies that can stretch and bend, especially for applications such as skin-mounted monitoring devices that could directly sense optical signals. Such devices might, for example, simultaneously detect heart rate, blood oxygen levels, and even blood pressure.&lt;/p&gt;
+
+
+
+&lt;p&gt;Photonics devices process light beams directly, using systems of LEDs, lenses, and mirrors fabricated with the same kinds of processes used to manufacture electronic microchips. Using light beams rather than a flow of electrons can have advantages for many applications; if the original data is light-based, for example, optical processing avoids the need for a conversion process.&lt;/p&gt;
+
+
+
+&lt;p&gt;But most current photonics devices are fabricated from rigid materials on rigid substrates, Hu says, and thus have an “inherent mismatch” for applications that “should be soft like human skin.” But most soft materials, including most polymers, have a low refractive index, which leads to a poor ability to confine a light beam.&lt;/p&gt;
+
+
+
+&lt;p&gt;Instead of using such flexible materials, Hu and his team took a novel approach: They formed the stiff material — in this case a thin layer of a type of glass called chalcogenide — into a spring-like coil. Just as steel can be made to stretch and bend when formed into a spring, the architecture of this glass coil allows it to stretch and bend freely while maintaining its desirable optical properties.&lt;/p&gt;
+
+
+
+&lt;p&gt;“You end up with something as flexible as rubber, that can bend and stretch, and still has a high refractive index and is very transparent,” Hu says. Tests have shown that such spring-like configurations, made directly on a polymer substrate, can undergo thousands of stretching cycles with no detectable degradation in their optical performance. The team produced a variety of photonic components, interconnected by the flexible, spring-like waveguides, all in an epoxy resin matrix, which was made stiffer near the optical components and more flexible around the waveguides.&lt;/p&gt;
+
+
+
+&lt;p&gt;Other kinds of stretchable photonics have been made by embedding nanorods of a stiffer material in a polymer base, but those require extra manufacturing steps and are not compatible with existing photonic systems, Hu says.&lt;/p&gt;
+
+
+
+&lt;p&gt;Such flexible, stretchable photonic circuits could also be useful for applications where the devices need to conform to the uneven surfaces of some other material, such as in strain gauges. Optics technology is very sensitive to strain, according to Hu, and could detect deformations of less than one-hundredth of 1 percent.&lt;/p&gt;
+
+
+
+&lt;p&gt;This research is still in early stages; Hu’s team has demonstrated only single devices at a time thus far. “For it to be useful, we have to demonstrate all the components integrated on a single device,” he says. Work is ongoing to develop the technology to that point so that it could be commercially applied, which Hu says could take another two to three years.&lt;/p&gt;
+
+
+
+&lt;p&gt;In another paper published last week in &lt;em&gt;Nature Photonics&lt;/em&gt;, Hu and his collaborators have also developed a new way of integrating layers of photonics, made of chalcogenide glass and two-dimensional materials such as graphene, with conventional semiconductor photonic circuitry. Existing methods for integrating such materials require them to be made on one surface and then peeled off and transferred to the semiconductor wafer, which adds significant complexity to the process. Instead, the new process allows the layers to be fabricated directly on the semiconductor surface, at room temperature, allowing for simplified fabrication and more precise alignment.&lt;/p&gt;
+
+
+
+&lt;p&gt;The process can also make use of the chalcogenide material as a “passivation layer,” to protect 2-D materials from degradation caused by ambient moisture, and as a way to control the optoelectronic characteristics of 2-D materials. The method is generic and could be extended to other emerging 2-D materials besides graphene, to expand and expedite their integration with photonic circuitry, Hu says.&lt;/p&gt;
+
+
+
+&lt;p&gt;The research team also included MIT Professor Jing Kong, MIT postdocs Lan Li and Hongtao Lin, and others at the University of Texas, Xiamen University and Chongqing University in China, Universite Paris-Sud in France, the University of Southampton in the UK, and the University of Central Florida. The work was supported by the National Science Foundation and made use of the MIT Microsystems Technology Laboratories.&lt;/p&gt;
+</content:encoded><media:content url="http://news.mit.edu/sites/mit.edu.newsoffice/files/styles/article_cover_image_original/public/images/2017/MIT-Flexible-Photonics-01.jpg" type="image" width="948" height="632"><media:description type="plain">A new material produced by Juejun Hu and his team can be repeatedly stretched without losing its optical properties.
+</media:description><media:credit>Courtesy of the researchers</media:credit></media:content><story:tags>Research, Glass, Photonics, Microchips, Materials Science and Engineering, School of Engineering, Materials Research Laboratory, DMSE, National Science Foundation (NSF)</story:tags>  </item>
+  <item>
     <title>Faculty additions and promotions at the School of Architecture and Planning</title>
     <link>http://news.mit.edu/2017/faculty-additions-and-promotions-school-architecture-and-planning-1107</link>
     <description>Five join the SA+P faculty, while 10 are recognized for work in art, architecture, urbanism, and design.</description>
@@ -123,9 +387,7 @@
 
 
 
-&lt;p&gt;Of course, many technical issues still remain. CSAIL researcher and autonomous-driving expert John Leonard discussed some of the challenges underly
-00002BA8
-ing what he calls the “great space race of the 21st&amp;nbsp;century.” He spoke about the concept of “parallel autonomy,” where humans are are still in control of the car, but the vehicle onboard computer will step in if the driver is about to make a dangerous move. He is among several MIT researchers who are working with Toyota to use this approach with self-driving cars.&lt;/p&gt;
+&lt;p&gt;Of course, many technical issues still remain. CSAIL researcher and autonomous-driving expert John Leonard discussed some of the challenges underlying what he calls the “great space race of the 21st&amp;nbsp;century.” He spoke about the concept of “parallel autonomy,” where humans are are still in control of the car, but the vehicle onboard computer will step in if the driver is about to make a dangerous move. He is among several MIT researchers who are working with Toyota to use this approach with self-driving cars.&lt;/p&gt;
 
 
 
@@ -197,9 +459,7 @@ ing what he calls the “great space race of the 21st&amp;nbsp;century.” He sp
 
 &lt;p&gt;Sustainability is a driving factor for Buyukozturk’s research. The production of concrete contributes up to six percent of the world’s carbon dioxide, he said, and one of the goals of his research is to design materials that have low embodied energy and emit lower carbon dioxide.&lt;/p&gt;
 
-&lt;p&gt;“It can be done; the Ro
-00004000
-mans did it more than 2,000 years ago. But they did not use the concrete we are using today. They used local materials;&amp;nbsp;they looked at the local materials to try to come up with the best solution,” Buyukozturk said. “The Romans were able to generate structures that last 2,000 years, but that’s basically through trial and error. Now we’re in the age of science, and we need to go through a more scientific approach.”&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;“It can be done; the Romans did it more than 2,000 years ago. But they did not use the concrete we are using today. They used local materials;&amp;nbsp;they looked at the local materials to try to come up with the best solution,” Buyukozturk said. “The Romans were able to generate structures that last 2,000 years, but that’s basically through trial and error. Now we’re in the age of science, and we need to go through a more scientific approach.”&amp;nbsp;&lt;/p&gt;
 
 &lt;p&gt;For this new approach, Buyukozturk and his group start by analyzing the atoms and molecules that make up different cementitious-based construction materials for use in infrastructures. In his overview of recent research in his group, Buyukozturk spoke of the creation of a computer model that simulates the behavior of atomistic level building blocks under a variety of conditions and related this to the macroscopic mechanical behavior showing how the strength develops in concrete materials. The study is expected to open a new era in engineering new materials and structures.&lt;/p&gt;
 
@@ -288,9 +548,7 @@ mans did it more than 2,000 years ago. But they did not use the concrete we are 
 
 &lt;p&gt;“It’s the economics, it’s the sociology, it’s the science and the engineering, it’s the architecture — it’s all of the pieces of MIT that had to come together if we were going to develop really impactful sustainable energy solutions,” she says.&lt;/p&gt;
 
-&lt;p&gt;This multidisciplinary approach is eviden
-00004000
-t in much of MIT’s energy research — notably the series of comprehensive studies MITEI has conducted on such topics as the future of solar energy, natural gas, the electric grid, and more.&lt;/p&gt;
+&lt;p&gt;This multidisciplinary approach is evident in much of MIT’s energy research — notably the series of comprehensive studies MITEI has conducted on such topics as the future of solar energy, natural gas, the electric grid, and more.&lt;/p&gt;
 
 &lt;p&gt;“To make a better world, it’s essential that we figure out how to take what we’ve learned at MIT in energy and get that out into the world,” Armstrong says.&lt;/p&gt;
 
@@ -399,9 +657,7 @@ t in much of MIT’s energy research — notably the series of comprehensive stu
 
 
 
-&lt;p&gt;Thaler i
-00004000
-s collaborating with experimental physicists on projects ranging from small tabletop detectors to massive collaborations such as the Large Hadron Collider, and applying his theoretical insights to interpret data from current experiments and guide the design of future experiments.&lt;/p&gt;
+&lt;p&gt;Thaler is collaborating with experimental physicists on projects ranging from small tabletop detectors to massive collaborations such as the Large Hadron Collider, and applying his theoretical insights to interpret data from current experiments and guide the design of future experiments.&lt;/p&gt;
 
 
 
@@ -579,9 +835,7 @@ s collaborating with experimental physicists on projects ranging from small tabl
 
 
 
-&lt;p&gt;“It unlocks the potential for a lot of studies that we couldn’t do before,” adds Getz, institute member and director of the Cancer Genome Computational Analysis group at Broad and associate professor of Pathology a
-00000829
-nd director of Bioinformatics at the Massachusetts General Hospital Cancer Center and Department of Pathology. “The technology will allow us to track the dynamics of cancer and understand the evolution of drug resistance, or the development of the metastatic state, in a way that isn’t possible through surgical biopsies.”&lt;/p&gt;
+&lt;p&gt;“It unlocks the potential for a lot of studies that we couldn’t do before,” adds Getz, institute member and director of the Cancer Genome Computational Analysis group at Broad and associate professor of Pathology and director of Bioinformatics at the Massachusetts General Hospital Cancer Center and Department of Pathology. “The technology will allow us to track the dynamics of cancer and understand the evolution of drug resistance, or the development of the metastatic state, in a way that isn’t possible through surgical biopsies.”&lt;/p&gt;
 
 
 
@@ -601,9 +855,7 @@ nd director of Bioinformatics at the Massachusetts General Hospital Cancer Cente
 
 
 
-&lt;p&gt;“We are excited about using blood biopsies to understand metastatic breast cancer, drug resistance, and tumor evolution,
-00004000
- and to get a snapshot of the metastatic setting in patients who might not have available tissue from a metastatic biopsy,” says Nikhil Wagle, an associate member at the Broad Institute, deputy director of the Center for Cancer Precision Medicine at DFCI, and leader of the MBC Project. “With the Blood Biopsy Team’s latest results, it was clear that this technology had reached the right point for us to incorporate into the Metastatic Breast Cancer project.”&lt;/p&gt;
+&lt;p&gt;“We are excited about using blood biopsies to understand metastatic breast cancer, drug resistance, and tumor evolution, and to get a snapshot of the metastatic setting in patients who might not have available tissue from a metastatic biopsy,” says Nikhil Wagle, an associate member at the Broad Institute, deputy director of the Center for Cancer Precision Medicine at DFCI, and leader of the MBC Project. “With the Blood Biopsy Team’s latest results, it was clear that this technology had reached the right point for us to incorporate into the Metastatic Breast Cancer project.”&lt;/p&gt;
 
 
 
@@ -727,9 +979,7 @@ nd director of Bioinformatics at the Massachusetts General Hospital Cancer Cente
 
 &lt;p&gt;&lt;strong&gt;Merging 2-D materials with CMOS&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Associate professor of physics&amp;nbsp;&lt;a dir=&quot;ltr&quot; href=&quot;http://web.mit.edu/physics/people/faculty/jarillo-herrero_pablo.html&quot; rel=&quot;noopener noreferrer&quot; target=&quot;_blank&quot;&
-00006000
-gt;Pablo Jarillo-Herrero&lt;/a&gt;&amp;nbsp;stacks atomically thin, two-dimensional&amp;nbsp;layers of different materials to discover new properties. Jarillo-Herrero’s lab demonstrated photodetectors, solar cells and the world’s thinnest LED. With materials such as tungsten selenide, changing the number of layers also changes their electronic properties. Although graphene itself has no bandgap, closely aligning the lattices of graphene and boron nitride opens a 30-millivolt bandgap in graphene, he said.&lt;/p&gt;
+&lt;p&gt;Associate professor of physics&amp;nbsp;&lt;a dir=&quot;ltr&quot; href=&quot;http://web.mit.edu/physics/people/faculty/jarillo-herrero_pablo.html&quot; rel=&quot;noopener noreferrer&quot; target=&quot;_blank&quot;&gt;Pablo Jarillo-Herrero&lt;/a&gt;&amp;nbsp;stacks atomically thin, two-dimensional&amp;nbsp;layers of different materials to discover new properties. Jarillo-Herrero’s lab demonstrated photodetectors, solar cells and the world’s thinnest LED. With materials such as tungsten selenide, changing the number of layers also changes their electronic properties. Although graphene itself has no bandgap, closely aligning the lattices of graphene and boron nitride opens a 30-millivolt bandgap in graphene, he said.&lt;/p&gt;
 
 &lt;p&gt;“You have full electronic control with gate voltages,” Jarillo-Herrero said. Using bilayer molybdenum ditelluride, which is 10,000 times thinner than a silicon solar cell, he showed in work published in&amp;nbsp;&lt;em&gt;Nature Nanotechnology&lt;/em&gt;, a photodetector just 10 nanometers thick can be integrated on a silicon photonic crystal waveguide.&lt;br /&gt;
 &lt;br /&gt;
@@ -868,9 +1118,7 @@ Steelmaking, for example, is already a highly efficient manufacturing process, t
 
 
 
-&lt;p&gt;Meanwhile, Clarke noted, there can be a “diffusion of accountability” in organizations. One data scientist re
-00006000
-peatedly told the firm Equifax recently that it was vulnerable to being hacked, he said. But the responsibility for acting on that was essentially distributed among several people — which can lead to institutional inertia.&lt;/p&gt;
+&lt;p&gt;Meanwhile, Clarke noted, there can be a “diffusion of accountability” in organizations. One data scientist repeatedly told the firm Equifax recently that it was vulnerable to being hacked, he said. But the responsibility for acting on that was essentially distributed among several people — which can lead to institutional inertia.&lt;/p&gt;
 
 
 
@@ -917,274 +1165,5 @@ peatedly told the firm Equifax recently that it was vulnerable to being hacked, 
 &lt;p&gt;“I believe in good government’s ability to be rational and save the world from some of these disasters,” Clarke said, adding: “I think it’s an optimistic book, because it holds out the hope that if you had systematic thinking [and] rational analysis, systems thinking, if you want to call it that, we could see problems coming, and stop them from being really big problems.” &amp;nbsp;&lt;/p&gt;
 </content:encoded><media:content url="http://news.mit.edu/sites/mit.edu.newsoffice/files/styles/article_cover_image_original/public/images/2017/MIT-Starr-Cassandras-1.jpg" type="image" width="948" height="632"><media:description type="plain">Left to right: Richard Clarke SM ’79, former national coordinator for Security, Infrastructure Protection and Counter-terrorism for the United States; and Joel Brenner, former head of counterintelligence under the Director of National Intelligence for the United States and Senior Research Fellow at the MIT Center for International Studies and CSAIL.
 </media:description><media:credit>Courtesy of the MIT Center for International Studies</media:credit></media:content><story:tags>SHASS, Center for International Studies, International relations, Security studies and military, Policy, Government, Climate change, Books and authors, Special events and guest speakers, Alumnai/ae</story:tags>  </item>
-  <item>
-    <title>“A good negotiator can be exactly who you are&amp;quot;</title>
-    <link>http://news.mit.edu/2017/class-negotiation-skills-1103</link>
-    <description>Bruno Verdini leads a popular new class on negotiation skills.</description>
-     <pubDate>Thu, 02 Nov 2017 23:59:59 -0400</pubDate>
- <dc:creator>Meg Murphy | School of Engineering</dc:creator>
- <guid isPermaLink="true">http://news.mit.edu/2017/class-negotiation-skills-1103</guid>
-<content:encoded>&lt;p&gt;Marol Escajeda ’17 is trained in materials science and engineering, yet she finds that success on the job pivots on her leadership and negotiation abilities. “Your skills have to extend beyond your technical field,” says Escajeda, a materials and processes engineer at the aerospace and defense technology company Northrop Grumman. “You need the ability to handle intense interpersonal situations.”&lt;/p&gt;
-
-
-
-&lt;p&gt;She and Matthew Basile ’17, an electrical engineering and computer science major, earned their undergraduate degrees at MIT last year. Now a program manager at Microsoft, Basile says: “My current job is nontechnical. I’m working with engineers to get product features implemented on time. I rely on advocacy skills.”&lt;/p&gt;
-
-
-
-&lt;p&gt;These young engineers are former students in 11.011 (The Art and Science of Negotiation), which has grown into one of the most popular and highest-ranked Humanities, Arts, and Social Sciences electives at MIT. “It was one of the best classes I took at MIT,” Escajeda says. Basile is similarly enthusiastic: “In all honesty, 11.011 was by far the most relevant class for what I’m doing now.”&lt;/p&gt;
-
-
-
-&lt;p&gt;While at MIT, Escajeda and Basile also participated in the Gordon-MIT Engineering Leadership (GEL) Program, which helps develop leadership skills among more than 120 undergraduates per year. “If you appreciate the value of personal interaction, 11.011 is for you,” Escajeda says. “Like with GEL, you’ll get out what you put in, and you’ll find it really applicable to life beyond engineering classes.”&lt;/p&gt;
-
-
-
-&lt;p&gt;&lt;strong&gt;Seeking people skills&lt;/strong&gt;&lt;/p&gt;
-
-
-
-&lt;p&gt;The popularity of 11.011 coincides with the arrival of Bruno Verdini, a recent MIT PhD graduate in “Negotiation, Communication, Diplomacy, and Leadership” — an interdepartmental degree he negotiated into existence. In the spring of 2016, Eran Ben-Joseph, the chair of MIT’s Department of Urban Studies and Planning, invited Verdini to teach the undergraduate course.&lt;/p&gt;
-
-
-
-&lt;p&gt;The transformation of 11.011 was immediate. Verdini redesigned the entire course syllabus, introducing 25 new sessions with new readings and new negotiation exercises. He capped the class size at 42 to guarantee familiarity with every student and optimize weekly role-playing simulations, which involve practicing communication, collaboration, and leadership strategies.&lt;/p&gt;
-
-
-
-&lt;p&gt;The subject’s popularity skyrocketed. The course had previously attracted about 35 students per year. In the fall of 2016, 85 students from all five schools and more than 20 departments preregistered for 11.011; in spring 2017, there were 180, and this semester there were 230.&lt;/p&gt;
-
-
-
-&lt;p&gt;The enthusiasm for 11.011 is evidence, Verdini says, of a broader emphasis in students’ core concerns. “MIT students don’t want to get put in a corner in the workplace to only do things that require technical dexterity, while other people do the management,” he says. “They want to develop their people skills and showcase their strategic vision. And they want more professional recognition for their abilities in this area.”&lt;/p&gt;
-
-
-
-&lt;p&gt;This is one of the reasons Verdini structured the course around peer-to-peer feedback. He aims to empower both those students in the class and on the teaching team to take center stage in negotiation coaching. “One of the coolest parts of 11.011 is the guidance from the TAs,” Basile says.&lt;/p&gt;
-
-
-
-
-
-&lt;p&gt;&lt;strong&gt;Makings of a good negotiator&lt;/strong&gt;&lt;/p&gt;
-
-
-
-&lt;p&gt;Verdini’s career is marked by firsts. Not only did he develop a path to his own PhD at MIT, but for his doctoral work in water, environmental, and energy negotiations between countries, he was the first MIT recipient of the Harvard Law School Award for the Best Research of the Year in Negotiation, Decision-Making, Mediation, and Dispute Resolution. This also marked the first time the award went to someone born and raised in Latin America.&lt;/p&gt;
-
-
-
-&lt;p&gt;This spring, Verdini will offer 11.111 (The Art and Science of Negotiation, Advanced Applications), “one of the first advanced undergraduate courses in negotiation at a top U.S. university,” says his mentor Professor Lawrence Susskind, one of the founding fathers of the conflict resolution field with five decades of expertise. The upper-level course is a direct response to student demand for more of the material — and more of Verdini.&lt;/p&gt;
-
-
-
-&lt;p&gt;His ability to ignite passion for negotiation is a common theme in course evaluations from the last three semesters. Students discover passion in themselves, and see it in him. “Even when sick, exhausted, or in a horrible mood, I dragged myself out of bed for his lectures,” wrote Tatyana Gubin, co-founder of a thriving startup, in the fall of 2016. “And I would leave inspired, educated, and ready to tackle the next negotiation.”&lt;/p&gt;
-
-
-
-&lt;p&gt;“Negotiation allows you to share your values and principles with others,” says Verdini, also executive director of the MIT-Harvard Mexico Negotiation Program and author of &lt;em&gt;Winning Together: The Natural Resource Negotiation Playbook&lt;/em&gt;, which is published by MIT Press and hits the bookshelves this December. “Our world suffers when people disconnect intellectual decisions from what they feel inside. My teaching and research is structured as a personal journey that centers around negotiation as a means to get to know yourself better.”&lt;/p&gt;
-
-
-
-&lt;p&gt;MIT students often enter his class aware of only one side of themselves, Verdini adds. They might see themselves as shy, or guarded, or without the personality to be a good negotiator. They discover otherwise. “A good negotiator can be exactly who you are — caring, attentive, and someone who thinks of others,” he says. “You can be all of those things and at the same time lead and facilitate solutions to make a better world.”&lt;/p&gt;
-
-
-
-&lt;p&gt;&lt;strong&gt;Connecting the dots&lt;/strong&gt;&lt;/p&gt;
-
-
-
-&lt;p&gt;Ben-Joseph says the class serves the wider undergraduate population by, among other things, shifting their thinking in new ways. “Students learn that negotiation is part of how you deal with ethics, with power, with politics, with decision making,” he says. “They come out of this class more rounded and sensitive adults as they enter the workforce and deal with issues of life.”&lt;/p&gt;
-
-
-
-&lt;p&gt;In the fall of 2018, MIT students will have an opportunity to take a deeper dive into such thinking with a new HASS Concentration in Negotiation and Leadership, which will offer a diverse roster of classes in the relevant subject area to fulfill an Institute requirement designed to deepen and broaden student learning.&amp;nbsp;&lt;/p&gt;
-
-
-
-&lt;p&gt;MIT chemical engineering alumna Alexandria Miskho ’17, who consults in New York City on how businesses account for climate risks, is a former 11.011 teaching assistant who was at the forefront of student-led efforts to create the concentration. “We need to enter the world with a comprehensive negotiation toolkit,” she says.&lt;/p&gt;
-
-
-
-&lt;p&gt;Jillian Dressler has discovered as much,&amp;nbsp;in tandem with many of her professional female colleagues.&amp;nbsp;Dressler, a senior in civil and environmental engineering, says 11.011 empowered her to push back against discrimination. “As many of us have unfortunately experienced,&amp;nbsp;there are times when I’ve been made to feel uncomfortable as a woman,” says Dressler, now a teaching assistant in the course. “I would never have possessed the&amp;nbsp;resolve&amp;nbsp;to initiate a conversation about it before 11.011. Now I do. I take on difficult situations. I’ve discovered strengths that I never knew I had.”&lt;/p&gt;
-</content:encoded><media:content url="http://news.mit.edu/sites/mit.edu.newsoffice/files/styles/article_cover_image_original/public/images/2017/MIT-Negotiation-Class-1.jpg" type="image" width="948" height="632"><media:description type="plain">Bruno Verdini leads a class discussion for 11.011 (The Art and Science of Negotiation.) Verdini is a lecturer on urban planning and negotiation in the MIT Department of Urban Studies and Planning, as well as the executive director of the MIT-Harvard Mexico Negotiation Program.
-</media:description><media:credit>Photo: Tom Gearty</media:credit></media:content><story:tags>School of Architecture and Planning, Urban studies and planning, Classes and programs, Business and management, School of Engineering, Students, Faculty, Alumnai/ae</story:tags>  </item>
-  <item>
-    <title>Tech and Tec: Nanoscale international engagement</title>
-    <link>http://news.mit.edu/2017/tec-and-tech-fostering-engagement-international-nanoscale-1102</link>
-    <description>Monterrey Tec Chairman José Antonio Fernández Carbajal tours MIT.nano during his first meeting as the newest member of the MIT Corporation.</description>
-     <pubDate>Thu, 02 Nov 2017 12:55:00 -0400</pubDate>
- <dc:creator>Tina Gilman | MIT.nano</dc:creator>
- <guid isPermaLink="true">http://news.mit.edu/2017/tec-and-tech-fostering-engagement-international-nanoscale-1102</guid>
-<content:encoded>&lt;p&gt;On Oct. 4, MIT.nano and the Microsystems Technology Laboratories (MTL) received a visit from José Antonio Fernández Carbajal, chair of the board of Instituto Tecnológico y de Estudios Superiores de Monterrey (ITESM), casually known as Monterrey Tec. Fernandez Carbajal was at MIT for his first meeting as the newest member of the MIT Corporation&amp;nbsp;and&amp;nbsp;reserved time to tour MIT.nano and get an update on its progress.&lt;/p&gt;
-
-&lt;p&gt;Monterrey Tec is a private, nonprofit, independent institution in Mexico known for its emphasis on social responsibility and entrepreneurship. It was founded in 1943 by Don Eugenio Garza Sada, who graduated from MIT with a bachelor&#039;s degree&amp;nbsp;in civil engineering in 1914, just before the new Cambridge, Massachusetts campus opened.&lt;/p&gt;
-
-&lt;p&gt;In 2015, MIT and Monterrey Tec established a program, MIT-Tec, designed to support the Tec in its quest to become a world-class research university. Initiated by Vladimir Bulović, associate dean for innovation and director of MIT.nano, and led by MTL Director Jesús del Alamo, the&amp;nbsp;program hosts research visits of Monterrey Tec’s students, postdocs, and faculty at MIT in the general areas of nanotechnology and nanoscience.&amp;nbsp;To date, eight different research groups at MIT have already hosted extended stays for&amp;nbsp;five Monterrey Tec students, seven postdocs, and four professors. Eight more are scheduled to arrive in the next few months. Their areas of research encompass microfluidics, nanostructures for biomedical applications, telecommunications, nanoscale 3-D printing, microelectromechanical systems (MEMS), and organ-on-a-chip.&lt;/p&gt;
-
-&lt;p&gt;The hands-on research underpins a robust and&amp;nbsp;growing program of MIT-Tec educational exchanges. In May 2016, the &quot;MIT Day at the Tec: Workshop on Sensors and Actuators&quot; hosted 11 MIT and 12 Tec technical presentations at the Monterey Tec campus. Over the last three years at MIT, more than 70 Tec students, postdocs, and professors have attended the MTL nanoLab, a one-week hands-on course on nanotechnology.&lt;/p&gt;
-
-&lt;p&gt;Monterrey Tec is an esteemed partner of MIT.nano, which will open its new building&amp;nbsp;in&amp;nbsp;mid-2018. Visiting Monterrey Tec students, postdocs, and faculty will be conducting research in the new state-of-the-art facility, including the prototyping facility, which will be named in recognition and appreciation of Monterrey Tec and its valued partnership with MIT.&lt;/p&gt;
-</content:encoded><media:content url="http://news.mit.edu/sites/mit.edu.newsoffice/files/styles/article_cover_image_original/public/images/2017/Monterrey-Tec-Jose-Antonio-Fernandez-Carbajal-visit-MIT-00.jpeg" type="image" width="2000" height="1333"><media:description type="plain">Touring the MIT.nano site are (l-r) Jesús del Alamo, director of the MIT Microsystems Technology Laboratories; Vladimir Bulović, associate dean for innovation and director of MIT.nano; José Antonio Fernández Carbajal, chariman of Monterrey Tec; and Marco Munoz, senior director of MIT’s Office of Philanthropic Partnerships.</media:description><media:credit>Image courtesy of MIT Microsystems Technology Laboratories</media:credit></media:content><story:tags>School of Engineering, School of Science, Campus buildings and architecture, International initiatives, Nanoscience and nanotechnology, MIT.nano, Mexico, Collaboration</story:tags>  </item>
-  <item>
-    <title>Author Édouard Louis examines contexts for violence</title>
-    <link>http://news.mit.edu/2017/mit-author-edouard-louis-examines-contexts-for-violence-1102</link>
-    <description>The acclaimed writer, whose work has become a cause célèbre in France and beyond, speaks as part of the MIT Global France Seminar series.</description>
-     <pubDate>Thu, 02 Nov 2017 12:40:00 -0400</pubDate>
- <dc:creator>School of Humanities, Arts, and Social Sciences</dc:creator>
- <guid isPermaLink="true">http://news.mit.edu/2017/mit-author-edouard-louis-examines-contexts-for-violence-1102</guid>
-<content:encoded>&lt;p&gt;At the MIT Global France Seminar on Oct. 27, author Édouard Louis demonstrated to an overflow MIT audience why his writing has become a cause célèbre in France and beyond. During the event, the fourth in this year’s lecture and discussion series, the 25-year-old Louis read from work that simultaneously links the personal to the political and that describes, with brutal candor, growing up poor, gay, and persecuted.&lt;/p&gt;
-
-&lt;p&gt;The seminar series, sponsored by the French Initiatives Endowment Fund, was founded by Bruno Perreau, the Cynthia L. Reed Associate Professor of French Studies, who also served as the event&#039;s moderator.&lt;/p&gt;
-
-&lt;p&gt;Louis introduced his talk in eye-opening fashion.&lt;/p&gt;
-
-&lt;p&gt;“If we consider politics to be the governance of human beings by other human beings and the existence of individuals within a community that they didn’t choose, then politics is the distinction between populations where life is supported, promoted, protected, and populations that are exposed to persecution, murder, and death,” he said.&lt;br /&gt;
-&lt;br /&gt;
-Throughout the evening, Louis drew on vivid and often savage details from his personal history —&amp;nbsp;a trademark of his writing. His first book, &quot;The End of Eddy,&quot;&amp;nbsp;is an autobiographical novel describing the flight of Eddy Bellegueule (Louis’ name at birth) from his working-class family and the village of Hallencourt in northern France.&lt;br /&gt;
-&lt;br /&gt;
-A bestseller in France and translated into dozens of languages, the novel describes what it is like growing up poor, queer, and bookish in a family that struggles to put food on the table, and derides both homosexuality and education. Shamed and physically bullied by family and schoolmates, Louis escaped to university in Paris, where he turned to writing as a way not just of examining the violence he was exposed to growing up, but as a way of understanding the context in which such violence could arise.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Responses to violence&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;“If you suffer from violence all your life, in the end you inflict it upon others, for example, upon gays, upon what people call ‘strangers,’” Louis has said in interviews.&lt;/p&gt;
-
-&lt;p&gt;The kind of unemployment and hardscrabble lives his family and others endured in Hallencourt was a form of violence, he said, perpetrated on this community by an indifferent state. And this violence cascades beyond its immediate victims.&lt;br /&gt;
-&lt;br /&gt;
-The preoccupation with violence is central to his most recent work: &quot;History of Violence: A Novel,&quot; which will appear in English translation in summer 2018. The novel concerns the story of a romantic liaison on Christmas Eve 2012 that goes terribly wrong, leading to Louis’ rape and near-death.&lt;br /&gt;
-&lt;br /&gt;
-But as Louis explained to his MIT audience, the conventional means of securing justice through the French legal system did not sit right with him.&lt;/p&gt;
-
-&lt;p&gt;“Talking about this trauma with the police, they made more suffering and punishment,” said Louis. “They took pictures of my body, humiliating me, stealing my body again, and used these pictures to put somebody in jail.”&amp;nbsp;&lt;/p&gt;
-
-&lt;p&gt;Louis also learned that his assaulter had previously served time, and had his own difficult history. “The guy was violent, but I didn’t want him in jail, I didn’t want my body used to inflict hurt and revenge, creating more violence,” he said.&lt;br /&gt;
-&lt;br /&gt;
-&lt;strong&gt;Politics as a matter of life and death&lt;/strong&gt;&lt;br /&gt;
-&lt;br /&gt;
-This capacity to transform personal suffering into a meditation on the larger wounds society inflicts on the powerless and marginalized defines Louis’ literary voice. He read excerpts from a new work, a series of vignettes about his relationship to his father, addressed to his father, who lies tethered to a machine to help him breathe — the victim of a factory accident years ago that left him permanently disabled.&lt;br /&gt;
-&lt;br /&gt;
-“After I ran away, I said I hated you, and felt the need to tell others I detested you. ... You told people in a café you’d have preferred a different son. I felt like I wanted to die. When you drank you said you didn’t understand. You were a victim as much of the violence you dispensed as the violence you endured.’”&lt;br /&gt;
-&lt;br /&gt;
-Louis described policies enacted by a succession of French leaders that took a terrible toll on his father’s health. For instance, in 2006, then-French President Jacques Chirac raised the cost of medicine his father needed to avoid digestive disorders: “Chirac made you sick to your stomach.” And when President Nicolas Sarkozy decided to reduce welfare benefits to encourage a return to work by the poor, Louis father was forced to accept a job as street sweeper in a city 40 miles away, in spite of his disastrous health.&lt;/p&gt;
-
-&lt;p&gt;“Sarkozy broke your back,” said Louis. “Politics is a question of life and death.”&lt;br /&gt;
-&lt;br /&gt;
-&lt;strong&gt;The effects of inequities&lt;/strong&gt;&lt;br /&gt;
-&lt;br /&gt;
-During a question-and-answer session&amp;nbsp;with the audience, Louis suggested that the rise of right wing extremism worldwide, often linked to attacks on vulnerable communities, flows from class inequities that leave the working class neglected and powerless.&lt;br /&gt;
-&lt;br /&gt;
-“The reason why people from my village voted for Le Pen, or people here voted for your president is because there is a lack of representation for the working class,” said Louis.&lt;br /&gt;
-&lt;br /&gt;
-Confronting structural inequality and violence, Louis concluded, must involve acknowledging the reality of the working class and that their oppression shares a common root with the persecution of gay, immigrant, and racial minorities.&lt;/p&gt;
-
-&lt;p&gt;“The world is so full of fiction, with leaders who lie to us, and pretend to help people like my family when they only care about the rich,” he said.&lt;/p&gt;
-
-&lt;p&gt;Whether through academic research, writing novels, painting, or demonstrating, he said, “it is urgent, it is necessary to build new spaces to address the question of domination and exclusion.”&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Story prepared by MIT SHASS Communications&lt;br /&gt;
-Writer: Leda Zimmerman&lt;/em&gt;&lt;/p&gt;
-</content:encoded><media:content url="http://news.mit.edu/sites/mit.edu.newsoffice/files/styles/article_cover_image
-000028FF
-_original/public/images/2017/French-writer-edouard-louis-speech-MIT-00.jpg" type="image" width="1200" height="800"><media:description type="plain">The capacity to transform personal suffering into a meditation on the larger wounds society inflicts on the powerless and marginalized defines Edouard Louis’ literary voice.</media:description><media:credit>Photo: John Foley </media:credit></media:content><story:tags>SHASS, Books and authors, Literature, languages and writing, Lesbian, gay, bisexual, transgender, queer/questioning (LGBTQ), Politics, Poverty, France, Writing, Special events and guest speakers</story:tags>  </item>
-  <item>
-    <title>MIT joins court brief in support of “Dreamers”</title>
-    <link>http://news.mit.edu/2017/mit-joins-court-brief-support-dreamers-1102</link>
-    <description>Legal filing is part of larger set of Institute actions to aid DACA students.</description>
-     <pubDate>Thu, 02 Nov 2017 11:00:00 -0400</pubDate>
- <dc:creator>Peter Dizikes | MIT News Office</dc:creator>
- <guid isPermaLink="true">http://news.mit.edu/2017/mit-joins-court-brief-support-dreamers-1102</guid>
-<content:encoded>&lt;p&gt;MIT, together with 18 peer institutions, has filed an amicus curiae brief in a federal court lawsuit challenging the repeal of the Deferred Action for Childhood Arrivals (DACA) program — part of a growing set of Institute actions designed to support MIT community members affected by changes to federal immigration policy.&lt;/p&gt;
-
-
-
-&lt;p&gt;In the brief, the schools focus on the effects the repeal of DACA will have on their DACA-protected students and recent graduates whose status as U.S. residents depends on the program; the impact that ending DACA would have on the institutions’ ability to attract the most talented students; and the loss to the nation if these individuals are not able to stay in the U.S. and use their talents and education to contribute to society.&lt;/p&gt;
-
-
-
-&lt;p&gt;Those students, the brief notes, are some of the most gifted and motivated young people in the world. However, with the repeal of DACA, the brief adds, many students now risk being unable to obtain the “full and complete education” they have been working toward since being brought to the U.S. as children.&lt;/p&gt;
-
-
-
-&lt;p&gt;U.S. residents dependent on DACA are often referred to as “Dreamers,” after the proposed legislation known as the “DREAM Act,” which was introduced in Congress over a decade ago but has not yet passed.&lt;/p&gt;
-
-
-
-&lt;p&gt;The brief highlights the real-life situations of a number of undocumented students and recent graduates, including two MIT students — one a recent graduate, the other still enrolled — who have benefited from the protections afforded by DACA.&lt;/p&gt;
-
-
-
-&lt;p&gt;One of them, Jose Gomez ’17, an aerospace engineering major who participated in NASA research as an MIT student, was brought to the U.S. by his family at age 5; he is now working for a robotics startup and is a public advocate for DACA. The other, sophomore Johan Villanueva, is a chemical engineering major who graduated second in his class from Chicago’s largest public high school after serving as a co-captain of the math team, volunteering to help the homeless, and being named to the National Honor Society.&lt;/p&gt;
-
-
-
-&lt;p&gt;“Though they are called Dreamers, these young people are doers, in the best American tradition,” says MIT President L. Rafael Reif. “They are undocumented through no fault of their own. And when our government offered them an opportunity to come out of the shadows, they did — because they trusted that they would not be punished for doing so. I believe that as a nation we owe them fairness and certainty.”&lt;/p&gt;
-
-
-
-&lt;p&gt;The brief was submitted in support of the plaintiffs in &lt;em&gt;State of California, et al. v. U.S. Department of Homeland Security, et. al&lt;/em&gt;, and &lt;em&gt;Regents of University of California, et al. v. U.S. Department of Homeland Security, et al.&lt;/em&gt;, and was filed on Nov. 1. For purposes of the issues the court is currently considering, these cases have been consolidated with two other cases challenging DACA. MIT expects to join its peers in filing a similar brief in a lawsuit filed in New York by 16 states (including Massachusetts) and the District of Columbia.&lt;/p&gt;
-
-
-
-&lt;p&gt;&lt;strong&gt;Legal residents hope for permanent status&lt;/strong&gt;&lt;/p&gt;
-
-
-
-&lt;p&gt;The DACA program, established by the Obama administration in 2012, applies to about 800,000 U.S. residents who were brought to the country as children but have not acquired legal immigration status. In September, the Trump administration announced the rescission of the DACA program, effective in March 2018.&lt;/p&gt;
-
-
-
-&lt;p&gt;Under DACA, Dreamers were permitted to reside in the U.S. without fear of deportation and were able to obtain authorization to work legally. DACA protection lasted for two years (with renewals possible) but did not include a standardized path to citizenship.&lt;/p&gt;
-
-
-
-&lt;p&gt;Under the specific terms of the rescission, those with DACA status could lose their protections as early as March 2018, although some have applied for a two-year extension of this protection before an October 2017 deadline.&lt;/p&gt;
-
-
-
-&lt;p&gt;MIT’s amicus brief makes the case that DACA recipients, who by definition are the product of this nation’s education system, have much to give back to the country that raised them. Rescinding DACA, the brief argues, would waste a tremendous national investment by forcing these talented young people to return to the shadows of our society.&lt;/p&gt;
-
-
-
-&lt;p&gt;“Every MIT student deserves the same opportunities to study, to work, to travel — in short, to thrive here,” says MIT Chancellor Cynthia Barnhart. “By joining our peer institutions in filing this amicus brief to preserve the DACA program, we are again showing that MIT stands firmly behind our nation&#039;s Dreamers. And by continuing to provide MIT’s DACA students with the direct support and resources they need during this uncertain time, we are showing that our commitment to them will not change, regardless of what happens in Washington.&quot;&lt;/p&gt;
-
-
-
-&lt;p&gt;In a &lt;em&gt;Washington Post&lt;/em&gt;/ABC News poll released in September, 86 percent of respondents said they supported the DACA program.&lt;/p&gt;
-
-
-
-&lt;p&gt;&lt;strong&gt;Overview: MIT’s resources for Dreamers&lt;/strong&gt;&lt;/p&gt;
-
-
-
-&lt;p&gt;The new amicus brief is one example of many activities MIT has engaged in to support international members of its community in the face of changing immigration policy. These measures include public advocacy on the subject by MIT President L. Rafael Reif, dedicated legal support for DACA students, information briefings on campus, an MIT working group to monitor post-election changes in federal policies, and multiple open letters to the entire MIT community informing them about the Institute&#039;s evolving efforts and resources on this front. MIT has also joined with groups of colleges and universities to issue open letters in support of DACA and the Dreamers.&lt;/p&gt;
-
-
-
-&lt;p&gt;President Reif has emerged as a high-profile advocate on behalf of the Dreamers. In &lt;a href=&quot;https://www.bostonglobe.com/opinion/2017/08/31/trump-shouldn-repeal-daca/9sqIjciw0UseCKGTSVCRlK/story.html&quot;&gt;an opinion piece&lt;/a&gt; published in &lt;em&gt;The Boston Globe&lt;/em&gt; on Aug. 31, he stated that pushing Dreamers out of the U.S. would constitute &quot;throwing away a tremendous national investment.&quot;&lt;/p&gt;
-
-
-
-&lt;p&gt;In the piece, Reif added, terminating the DACA program would also be &quot;a violation of deep American principles. The plight of the Dreamers presents a profound question of fairness. Often starting from harsh personal circumstances, these young people have done what any American family might dream of for their child: Study hard, aim high, and earn a degree or a place in college or the military, on the road to a productive career.&quot;&lt;/p&gt;
-
-
-
-&lt;p&gt;Reif also joined the &lt;a href=&quot;https://www.dreamcoalition.us/&quot;&gt;Dream Coalition&lt;/a&gt;, a nonprofit advocacy group with national scope that is seeking a permanent legislative solution for DACA-eligible U.S. residents — a step he also endorsed in his &lt;em&gt;Boston Globe&lt;/em&gt; piece.&lt;/p&gt;
-
-
-
-&lt;p&gt;This fall, MIT partnered with an outside immigration attorney to provide all DACA students with free legal consultations.&lt;/p&gt;
-
-
-
-&lt;p&gt;In January of 2017, MIT also established a &lt;a href=&quot;http://chancellor.mit.edu/monitoring-student-access-issues&quot;&gt;Post-Election Working Group&lt;/a&gt; to monitor and evaluate the evolution of federal policy regarding immigration and other related topics. In coordination with the Office of the Chancellor and the Office of the General Counsel, the group, chaired by associate professor of history Christopher Capozzola, has hosted two on-campus immigration briefings to inform the community of current developments. MIT has also developed &lt;a href=&quot;http://chancellor.mit.edu/faq-information-about-undocumented-students-at-mit&quot;&gt;FAQ pages&lt;/a&gt; available to the community, and, through the International Students Office and International Scholars Office, provides travel advice and other guidance to students and community members.&lt;/p&gt;
-
-
-
-&lt;p&gt;This September, MIT joined a letter issued by 57 members of the Association of American Universities, calling for Congress to enact permanent legislation on DACA. In October, MIT was one of nearly 800 institutions signing on to a letter from the American Council on Education that also called for a “long-term legislative fix as soon as possible to protect Dreamers,” terming such a policy “in America’s best interest.”&lt;/p&gt;
-</content:encoded><media:content url="http://news.mit.edu/sites/mit.edu.newsoffice/files/styles/article_cover_image_original/public/images/2017/NewsImage_dome-spring-Patrick-Gillooly_7.jpg" type="image" width="948" height="632"><media:credit>Image: Patrick Gillooly</media:credit></media:content><story:tags>Administration, Chancellor, Community, Government, President L. Rafael Reif, Immigration, Policy, Students</story:tags>  </item>
   </channel>
 </rss>
-
-00000000
-

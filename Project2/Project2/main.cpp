@@ -1,19 +1,67 @@
 #include <iostream>
 #include <string>
 #include "channel.h"
+#include "client.h"
+
 #include <fstream>
 using namespace std;
 
+void cortar(string &data,string &ans) {
+	int pnt = 0;
+	while (data.substr(pnt, 8) != "00006000") pnt++;
+	pnt += 8;
+	while (data.substr(pnt, 8) != "00000000") {
+		ans += data[pnt];
+		pnt++;
+	}
+}
+
 int main() {
-	ifstream file("hola4.txt");
+	client my_client;
+	my_client.startConnection("news.mit.edu");
+
+	//my_client.send_message()
+	cout << '\x65' << '\n';
+
+	//getchar();
+	string msg = "GET /rss/feed HTTP/1.1\nHost: news.mit.edu\n\n";
+	cout << "sending \n";
+	cout << msg << '\n';
+	my_client.send_message(msg.c_str(),msg.size());
+	cout << "msg sent \n";
+	int sz;
+
+	string data_ans;
+	my_client.receiveMessage(data_ans, 10000);
+
+	string rss_str;
+	cortar(data_ans, rss_str);
+
+	ofstream file_test("output.txt");
+	string ans_data = "";
+	bool start = 0;
+	for (int i = 0; i < rss_str.size(); i++) {
+		if ((rss_str[i] != '\n' && rss_str[i] != '\r')  || start) {
+			ans_data += rss_str[i];
+			start = 1;
+		}
+	}
+	file_test << ans_data << '\n';
+	file_test.close();
+
+	getchar();
+
+	ifstream file("output.txt");
+	string aux;
+	rss_str = "";
 	
-	string rss_str , aux;
 	while (getline(file, aux)) {
 		rss_str += aux + "\n";
 	}
 
-//	cout << rss_str << endl;
-	
+	/*cout << rss_str << endl;
+	cout << "-----------\n";
+	cout << "end of content \n";*/
 	
 	channel main_ch("link al que se le va a hacer get");
 
@@ -45,6 +93,6 @@ int main() {
 
 	getchar();
 
-	file.close();
+	//file.close();
 	return 0;
 }
